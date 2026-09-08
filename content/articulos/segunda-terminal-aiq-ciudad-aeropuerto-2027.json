@@ -1,0 +1,87 @@
+{
+  "slug": "segunda-terminal-aiq-ciudad-aeropuerto-2027",
+  "title": "La segunda terminal del AIQ operará antes de octubre de 2027 con 1,500 mdp de inversión",
+  "dek": "Ciudad Aeropuerto deja de ser un plan a 2050 y pone fecha. El esquema de renta de superficie define quién captura el valor del suelo.",
+  "summary": "El nuevo edificio agregará capacidad para hasta cuatro millones de pasajeros y forma parte del complejo Ciudad Aeropuerto, que suma una nueva zona comercial e industrial, un hotel ejecutivo de 80 habitaciones y siete parques industriales. El esquema declarado por Sedesu es de renta de superficie: el desarrollador construye sobre suelo arrendado.",
+  "category": "aeroportuario",
+  "fecha": "2026-09-08",
+  "aproximado": true,
+  "datos": [
+    {
+      "etiqueta": "Inicio de operación",
+      "valor": "antes de octubre de 2027",
+      "nota": "Al menos una etapa debe iniciarse antes de que concluya la administración estatal"
+    },
+    {
+      "etiqueta": "Inversión estimada",
+      "valor": "1,500 millones de pesos"
+    },
+    {
+      "etiqueta": "Capacidad adicional",
+      "valor": "hasta 4 millones de pasajeros"
+    },
+    {
+      "etiqueta": "Hotel ejecutivo",
+      "valor": "80 habitaciones, ≈100 mdp"
+    },
+    {
+      "etiqueta": "Parques industriales integrados",
+      "valor": "7"
+    },
+    {
+      "etiqueta": "Meta del plan al 2050",
+      "valor": "12 a 15 millones de pasajeros",
+      "nota": "Desde 2.4 millones en 2024; más de 200 mil toneladas de carga"
+    }
+  ],
+  "cuerpo": [
+    {
+      "body": "La segunda terminal del Aeropuerto Internacional de Querétaro comenzará operaciones antes de octubre de 2027, informó el secretario de Desarrollo Sustentable, Marco Del Prete. El edificio contempla una inversión estimada en 1,500 millones de pesos y capacidad para atender hasta cuatro millones de pasajeros adicionales. Al menos una etapa deberá estar iniciada antes de que concluya la actual administración estatal."
+    },
+    {
+      "heading": "No es una terminal, es un polígono",
+      "body": "La obra forma parte del complejo Ciudad Aeropuerto, concebido como polo logístico, industrial y de servicios en la zona metropolitana. El proyecto integra siete parques industriales, universidades, desarrollos habitacionales y áreas comerciales. En agosto de 2026 se anunció además el impulso de una nueva zona comercial e industrial junto a la terminal, con espacios corporativos, centros logísticos e infraestructura hotelera orientada al viajero de negocios y a la operación de los complejos industriales adyacentes."
+    },
+    {
+      "heading": "El detalle que define el negocio",
+      "body": "Del Prete explicó el esquema con precisión poco común en un anuncio oficial: «El modelo de negocio de algunos inmuebles que se construyen en el aeropuerto son rentados; se renta la superficie y ellos desarrollan el edificio». Es decir, el suelo no se vende. El desarrollador privado edifica sobre superficie arrendada. Eso cambia por completo el cálculo de retorno: no hay captura de plusvalía del terreno, y el valor del proyecto vive en el flujo de operación y en el plazo del contrato."
+    },
+    {
+      "heading": "Lo que ya está en obra",
+      "body": "El caso concreto es el hotel de clase ejecutiva que se construye en la zona: 80 habitaciones y una inversión cercana a los 100 millones de pesos. Es el primer inmueble que prueba el modelo y el que da referencia de escala para quien evalúe entrar con producto hotelero, de oficinas o de servicios en el entorno inmediato."
+    },
+    {
+      "heading": "El sustento de mediano plazo",
+      "body": "El Plan Estratégico de Desarrollo del AIQ plantea pasar de los 2.4 millones de pasajeros anuales registrados en 2024 a entre 12 y 15 millones hacia 2050, y superar 200 mil toneladas de carga al año, con crecimiento modular para evitar capacidad ociosa. La expansión se planteó como medida preventiva ante el crecimiento de rutas comerciales y de carga, en un contexto de reconfiguración del sistema aeroportuario nacional donde el AIQ puede absorber tráfico destinado al centro del país."
+    },
+    {
+      "heading": "Lo que conviene tratar como aproximado",
+      "body": "El monto de 1,500 millones de pesos y las fechas son estimaciones oficiales sobre un proyecto que apenas debe iniciar una etapa antes del cierre de la administración. Los proyectos inmobiliarios del entorno que no tengan permiso de construcción publicado deben leerse como intención, no como pipeline confirmado."
+    }
+  ],
+  "paraInversionistas": [
+    "Si el suelo se arrienda y no se vende, tu retorno depende del plazo del contrato y del flujo: modela sin plusvalía del terreno.",
+    "La fecha de octubre de 2027 aplica a una etapa, no al complejo terminado: escalona tus supuestos de afluencia.",
+    "La demanda más firme del polígono sigue siendo logística de carga; hotelería y comercio dependen del crecimiento de pasajeros y tienen rampa más larga.",
+    "El hotel de 80 habitaciones y 100 mdp es hoy la única referencia real de escala y costo en la zona.",
+    "Separa lo autorizado de lo proyectado: pide permiso de construcción antes de fijar precio sobre expectativa."
+  ],
+  "fuentes": [
+    {
+      "medio": "Extra Querétaro — Segunda terminal del AIQ operará en 2027",
+      "url": "https://extraqueretaro.com/segunda-terminal-del-aeropuerto-internacional-de-queretaro-operara-en-2027/"
+    },
+    {
+      "medio": "A Tiempo — Querétaro impulsa nueva zona comercial junto al AIQ",
+      "url": "https://atiempo.mx/sucesos/queretaro-impulsa-nueva-zona-comercial-junto-al-aiq/"
+    },
+    {
+      "medio": "El Economista — Proyectan detonar inversiones alrededor del aeropuerto de Querétaro",
+      "url": "https://www.eleconomista.com.mx/estados/proyectan-detonar-inversiones-alrededor-aeropuerto-queretaro-20260217-800311.html"
+    },
+    {
+      "medio": "AIQ — Plan Estratégico de Desarrollo al 2050 (PDF)",
+      "url": "https://aiq.com.mx/PEAIQ/Plan%20Estrat%C3%A9gico%20de%20Desarrollo%20del%20AIQ-2025_R2024-01.pdf"
+    }
+  ]
+}

@@ -1,50 +1,50 @@
 import type { MetadataRoute } from "next";
 import {
-  getAllCategories,
-  getAllComparisons,
-  getAllGuides,
-  getAllTools,
+  getAllArticulos,
+  getAllCategorias,
+  getAllEdiciones,
 } from "@/lib/content";
 import { siteConfig } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = siteConfig.url;
-  const staticRoutes = ["", "/herramientas", "/comparar", "/guias"].map(
-    (path) => ({
-      url: `${base}${path || "/"}`,
-      lastModified: new Date(),
-      changeFrequency: "weekly" as const,
-      priority: path === "" ? 1 : 0.8,
-    })
-  );
+  const ediciones = getAllEdiciones();
+  const ultimaEdicion = ediciones[0]?.fecha;
 
-  const tools = getAllTools().map((t) => ({
-    url: `${base}/herramientas/${t.slug}`,
-    lastModified: new Date(),
-    changeFrequency: "monthly" as const,
-    priority: 0.7,
-  }));
+  const estaticas = [
+    {
+      url: `${base}/`,
+      lastModified: ultimaEdicion ? new Date(ultimaEdicion) : new Date(),
+      changeFrequency: "daily" as const,
+      priority: 1,
+    },
+    {
+      url: `${base}/archivo`,
+      lastModified: ultimaEdicion ? new Date(ultimaEdicion) : new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.8,
+    },
+  ];
 
-  const comparisons = getAllComparisons().map((c) => ({
-    url: `${base}/comparar/${c.slug}`,
-    lastModified: new Date(),
-    changeFrequency: "monthly" as const,
-    priority: 0.7,
-  }));
-
-  const guides = getAllGuides().map((g) => ({
-    url: `${base}/guias/${g.slug}`,
-    lastModified: new Date(g.fecha),
-    changeFrequency: "monthly" as const,
-    priority: 0.8,
-  }));
-
-  const categories = getAllCategories().map((c) => ({
-    url: `${base}/categoria/${c.slug}`,
-    lastModified: new Date(),
-    changeFrequency: "weekly" as const,
-    priority: 0.6,
-  }));
-
-  return [...staticRoutes, ...tools, ...comparisons, ...guides, ...categories];
+  return [
+    ...estaticas,
+    ...ediciones.map((e) => ({
+      url: `${base}/edicion/${e.fecha}`,
+      lastModified: new Date(e.fecha),
+      changeFrequency: "yearly" as const,
+      priority: 0.7,
+    })),
+    ...getAllArticulos().map((a) => ({
+      url: `${base}/articulo/${a.slug}`,
+      lastModified: new Date(a.fecha),
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    })),
+    ...getAllCategorias().map((c) => ({
+      url: `${base}/categoria/${c.slug}`,
+      lastModified: ultimaEdicion ? new Date(ultimaEdicion) : new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.6,
+    })),
+  ];
 }

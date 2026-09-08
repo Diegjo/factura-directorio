@@ -1,23 +1,34 @@
 @import "tailwindcss";
 
-:root {
-  --background: #f8fafc;
-  --foreground: #0f172a;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-paper: #fbf9f5;
+  --color-paper-alt: #f4efe6;
+  --color-ink: #1b1917;
+  --color-ink-soft: #57534e;
+  --color-ink-faint: #8a8279;
+  --color-rule: #e3dccd;
+  --color-brand: #a1341f;
+  --color-brand-soft: #f5e7e1;
+
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-playfair);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-inter), system-ui, sans-serif;
 }
 
-prose-like h2 {
-  scroll-margin-top: 1rem;
+h1,
+h2,
+h3 {
+  font-family: var(--font-playfair), Georgia, serif;
+}
+
+/* Doble filete de portada, como cabecera de periódico. */
+.filete-doble {
+  border-top: 3px solid var(--color-ink);
+  border-bottom: 1px solid var(--color-ink);
+  padding-block: 0.25rem;
 }

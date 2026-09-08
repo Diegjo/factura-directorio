@@ -1,0 +1,81 @@
+{
+  "slug": "precio-tierra-industrial-bajio-2026",
+  "title": "Tierra industrial en El Bajío: de 51 a 100 dólares por m² según parque y servicios",
+  "dek": "Los precios de lista abren un rango de casi el doble entre parques del mismo corredor. La diferencia se explica en MVA, gas natural y espuela de ferrocarril, no en kilómetros.",
+  "summary": "Listados vigentes en Guanajuato van desde 51 USD/m² en un parque de 60 hectáreas en Celaya hasta 68 USD/m² en un desarrollo built-to-suit sobre la Federal 45 en Irapuato. Lo que mueve el precio no es la ubicación sino los MVA disponibles, el gas natural y la espuela de ferrocarril.",
+  "category": "tierra",
+  "fecha": "2026-09-08",
+  "aproximado": true,
+  "datos": [
+    {
+      "etiqueta": "Celaya, parque de 60 ha",
+      "valor": "desde 51 USD/m²",
+      "nota": "Lotes de 12,445 a 19,597 m²; 5 MVA inmediatos; cuota de mantenimiento 0.06 USD/m²"
+    },
+    {
+      "etiqueta": "Irapuato, Federal 45",
+      "valor": "desde 68 USD/m²",
+      "nota": "98 ha totales, lotes desde 1.5 ha, exclusivamente built-to-suit"
+    },
+    {
+      "etiqueta": "San José Iturbide, Parque Opción",
+      "valor": "lotes de ≈15,013 m²",
+      "nota": "Industria pesada, 3,000 kVA, subestación de 20 MVA ampliable a 60"
+    },
+    {
+      "etiqueta": "León, suelo ZRC",
+      "valor": "≈3,216 $/m² MXN",
+      "nota": "3,107 m² en 10 mdp; no es suelo industrial habilitado"
+    }
+  ],
+  "cuerpo": [
+    {
+      "body": "Los precios de lista de tierra industrial en el corredor de El Bajío abren hoy un rango que va de 51 a cerca de 100 dólares por metro cuadrado. Es una diferencia de casi el doble entre predios que a veces están a menos de una hora de distancia. La explicación no está en la ubicación: está en la infraestructura que ya llega a pie de lote."
+    },
+    {
+      "heading": "Celaya: el piso del rango",
+      "body": "Un parque industrial de 60 hectáreas en Celaya ofrece 600 mil m² disponibles en lotes de 12,445 a 19,597 m², desde 51 dólares por m², con cuota de mantenimiento de 0.06 USD/m² sobre superficie total. Entrega 5 MVA de energía eléctrica de forma inmediata, factibilidad de gas natural, planta de tratamiento, fibra óptica, red contra incendio conforme a normativa internacional y vialidades con servicios ocultos."
+    },
+    {
+      "heading": "Irapuato: prima por built-to-suit",
+      "body": "Sobre la Carretera Federal 45 en Irapuato, un desarrollo de 98 hectáreas comercializa lotes desde 1.5 hectáreas a partir de 68 dólares por m², pero exclusivamente bajo esquema built-to-suit. Incluye pavimento, agua potable, drenaje sanitario y pluvial, planta de tratamiento, gas natural, subestación eléctrica y comunicación satelital. La prima de 17 dólares frente a Celaya compra flexibilidad de giro y obra a la medida."
+    },
+    {
+      "heading": "San José Iturbide: el activo logístico",
+      "body": "En el Parque Opción, sobre la Carretera 57 rumbo a Laredo, los lotes de alrededor de 15,013 m² con uso de suelo de industria pesada ofrecen 3,000 kVA de capacidad eléctrica, subestación de parque de 20 MVA ampliable a 60, distribución interna en 34.5 kV, planta de tratamiento de 190,000 m³/año, gasoducto de Pemex y espuela de ferrocarril conectada a la vía Kansas City Southern. Esa espuela es el diferenciador: pocos parques del corredor la tienen."
+    },
+    {
+      "heading": "León: otra clase de activo",
+      "body": "Conviene no confundir categorías. Un listado de 3,107 m² en Zona de Reserva para el Crecimiento en León se ofrece en 10 millones de pesos, unos 3,216 pesos por m². No es suelo industrial habilitado: es una apuesta a que el plan de desarrollo urbano reclasifique el polígono. El rendimiento vive en el cambio de uso de suelo, con un horizonte y un riesgo distintos a los de un lote en parque consolidado."
+    },
+    {
+      "heading": "Cómo leer estas cifras",
+      "body": "Todos los montos citados son precios de lista publicados por comercializadoras y están sujetos a cambio sin aviso. Sirven como techo de referencia para abrir negociación, no como valor de mercado ni como comparable de avalúo."
+    }
+  ],
+  "paraInversionistas": [
+    "Compara dólares por m² solo entre predios con la misma factibilidad eléctrica: sin eso, el comparable no existe.",
+    "La espuela de ferrocarril y el gasoducto son los dos servicios que más difícil se agregan después.",
+    "En built-to-suit el precio del terreno es solo una parte: pide el costo integrado por m² de nave terminada.",
+    "Suelo ZRC no es suelo industrial. Es una posición a plazo con riesgo regulatorio, no un activo rentable.",
+    "Precio de lista ≠ precio de cierre. Trátalo como punto de partida."
+  ],
+  "fuentes": [
+    {
+      "medio": "Pincali / Grupo Villanueva — Terreno industrial en venta en Celaya, Guanajuato",
+      "url": "https://www.pincali.com/inmueble/terreno-industrial-en-venta-en-celaya-guanajuato-817170bf-23e7-42ae-8df9-9d739c2b8b47"
+    },
+    {
+      "medio": "Grupo Villanueva — Terreno industrial built-to-suit en Irapuato, Guanajuato",
+      "url": "https://gpov.easybroker.com/property/terreno-industrial-en-venta-en-irapuato-guanajuato-castro-del-rio-parque-tecnoindustrial"
+    },
+    {
+      "medio": "Grupo EMCO — Venta terreno industrial 1.5 ha, Parque Opción",
+      "url": "https://www.grupoemco.com.mx/property/venta-terreno-industrial-1-5-has-parque-opcion-guanajuato"
+    },
+    {
+      "medio": "Torresa Inmobiliaria — Terreno en Zona de Reserva para el Crecimiento en León",
+      "url": "https://torresainmobiliaria.com/property/%f0%9f%8c%8e-terreno-en-venta-en-zona-de-reserva-para-crecimiento-zrc-en-leon-guanajuato-oportunidad-de-inversion/"
+    }
+  ]
+}

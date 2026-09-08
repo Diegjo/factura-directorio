@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-09-08",
+  "intro": "Querétaro entró a la fase incómoda del ciclo industrial: la vacancia se agotó, las rentas suben y la obra nueva no alcanza a reponer el inventario que se coloca. Hoy: cuánto cuesta ya la nave Clase A, los 8,131 millones de pesos que entraron en el primer trimestre, la segunda terminal del AIQ y lo que el tren a la Ciudad de México le está haciendo al precio del suelo.",
+  "headline": {
+    "title": "Industria en Querétaro: la vacancia baja a 4.8% y la renta Clase A se acerca a 6.75 dólares por m²",
+    "slug": "industrial-queretaro-vacancia-rentas-1t-2026",
+    "summary": "La absorción del primer trimestre de 2026 llegó a unos 287 mil m² y dejó la vacancia estatal alrededor de 4.8%, contra 3.5% en el Bajío y menos de 3% en Clase A. Con rentas cercanas a 6 dólares por m² al mes —hasta 6.75 en producto Clase A— y obra nueva desacelerada, el sector anticipa incrementos de 5% a 10% este año.",
+    "category": "industrial",
+    "sourceUrl": "https://www.liderempresarial.com/parques-industriales-queretaro-presion-demanda-rentas-2026/",
+    "sourceName": "Líder Empresarial",
+    "aproximado": true
+  },
+  "masNoticias": [
+    {
+      "title": "Diez proyectos por 8,131 millones de pesos y 3,479 empleos: así cerró el primer trimestre",
+      "slug": "cartera-inversiones-queretaro-1t-2026",
+      "summary": "SEDESU reporta 10 proyectos concretados al cierre del 1T 2026, con capital de Alemania, Canadá, España, Estados Unidos y Francia en los rubros aeronáutico, automotriz, energético y de alimentos. Destacan Costco en Corregidora con 100 millones de dólares y 360 empleos, y la planta de la alemana Phoenix Contact para componentes de automatización industrial.",
+      "category": "corporativo",
+      "sourceUrl": "https://www.liderempresarial.com/como-crece-la-cartera-de-inversiones-en-queretaro-en-2026/",
+      "sourceName": "Líder Empresarial"
+    },
+    {
+      "title": "La segunda terminal del AIQ operará antes de octubre de 2027 con 1,500 mdp de inversión",
+      "slug": "segunda-terminal-aiq-ciudad-aeropuerto-2027",
+      "summary": "El nuevo edificio agregará capacidad para hasta cuatro millones de pasajeros y forma parte del complejo Ciudad Aeropuerto, que suma una nueva zona comercial e industrial, un hotel ejecutivo de 80 habitaciones y siete parques industriales. El esquema declarado por Sedesu es de renta de superficie: el desarrollador construye sobre suelo arrendado.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://extraqueretaro.com/segunda-terminal-del-aeropuerto-internacional-de-queretaro-operara-en-2027/",
+      "sourceName": "Extra Querétaro",
+      "aproximado": true
+    },
+    {
+      "title": "El tren México–Querétaro ya mueve el suelo en El Marqués, Corregidora y San Juan del Río",
+      "slug": "tren-mexico-queretaro-plusvalia-suelo",
+      "summary": "El proyecto no opera todavía y el mercado ya se movió: consultores estiman plusvalías de 100% a 200% en terrenos cercanos a estaciones. El Marqués y San Juan del Río concentran la expectativa por vocación industrial y ubicación intermedia, mientras el m² premium en Juriquilla se ubica en un rango aproximado de 12 a 16 mil pesos.",
+      "category": "tierra",
+      "sourceUrl": "https://www.liderempresarial.com/tren-mexico-queretaro-impacto-inmobiliario-queretaro-2026/",
+      "sourceName": "Líder Empresarial",
+      "aproximado": true
+    }
+  ],
+  "editorialNote": "Las rentas industriales en dólares, los precios por m² por colonia y las plusvalías proyectadas por el tren son estimaciones de consultores y plataformas de datos, no operaciones cerradas ni avalúos. Úsalas para dimensionar el rango de negociación y confirma cada cifra con la fuente original antes de comprometer capital."
+}

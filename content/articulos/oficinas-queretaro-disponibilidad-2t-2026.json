@@ -1,0 +1,72 @@
+{
+  "slug": "oficinas-queretaro-disponibilidad-2t-2026",
+  "title": "Las oficinas de Querétaro bajan su disponibilidad a 15.6% con 21.8 mil m² de absorción neta",
+  "dek": "El corporativo queretano cierra el 2T 2026 con fundamentos sólidos y poca oferta nueva. El inquilino ya no tiene la sartén por el mango en Centro Sur.",
+  "summary": "Colliers reporta al cierre del 2T 2026 una absorción neta acumulada de 21.8 mil m² y una tasa de disponibilidad de 15.6%. Con poca oferta nueva entrando, el inquilino pierde poder de negociación en Centro Sur y Junípero Serra, donde la renta pedida llega a 400 pesos por m².",
+  "category": "corporativo",
+  "fecha": "2026-09-07",
+  "aproximado": true,
+  "datos": [
+    {
+      "etiqueta": "Absorción neta acumulada",
+      "valor": "21.8 mil m²",
+      "nota": "2T 2026 (Colliers)"
+    },
+    {
+      "etiqueta": "Tasa de disponibilidad",
+      "valor": "15.6%",
+      "nota": "A la baja frente a trimestres previos"
+    },
+    {
+      "etiqueta": "Rango de renta pedida",
+      "valor": "180 a 400 $/m² al mes",
+      "nota": "Centro Sur en el techo; El Marqués y Centro desde 150–220"
+    },
+    {
+      "etiqueta": "Ejemplo AAA en Centro Sur",
+      "valor": "360 $/m² + 80 de mantenimiento",
+      "nota": "Espacio acondicionado de 296 m²; anuncio de agosto 2026"
+    }
+  ],
+  "cuerpo": [
+    {
+      "body": "El mercado de oficinas de Querétaro cerró el segundo trimestre de 2026 con una absorción neta acumulada de 21.8 mil metros cuadrados y una tasa de disponibilidad de 15.6%, de acuerdo con Colliers. La combinación relevante es la de siempre en este segmento: demanda que se coloca y oferta nueva que no entra. La disponibilidad baja por absorción, no por retiro de inventario."
+    },
+    {
+      "heading": "Qué está rentando la demanda",
+      "body": "La demanda se concentra en oficinas ya acondicionadas, espacios flexibles y edificios con certificaciones ambientales. Conectividad y eficiencia operativa son los factores que deciden. Traducido a producto: la planta en obra gris sin acondicionar es la que más tarda en colocarse y la que más descuento requiere."
+    },
+    {
+      "heading": "Los corredores y sus precios",
+      "body": "La renta pedida en el estado se mueve entre 180 y 400 pesos por m² al mes. Centro Sur, con las torres de mayor prestigio y la mayor densidad de servicios premium, alcanza el techo del rango. Los edificios del Centro Histórico y las opciones en El Marqués pueden encontrarse desde 150 a 220 pesos por m², según la clase del edificio. Un anuncio de agosto de 2026 en un corporativo AAA de Centro Sur pide 360 pesos por m² más 80 de mantenimiento por un espacio acondicionado de 296 m²."
+    },
+    {
+      "heading": "El eje que concentra la clase A",
+      "body": "Las torres sobre el Anillo Vial Fray Junípero Serra concentran el mayor inventario de oficinas clase A de la región, con plantas libres que superan los 900 m² útiles. Ahí se instalan sedes de back-office y centros de innovación, atraídos por la accesibilidad a la autopista México–Querétaro y la cercanía al AIQ. Es el mismo argumento logístico del mercado industrial, aplicado a oficinas."
+    },
+    {
+      "heading": "La letra chica",
+      "body": "El mantenimiento se cobra aparte de la renta publicada y puede sumar 20% o más al costo mensual. La dotación de estacionamiento —la referencia práctica es un cajón por cada 30 m²— y la verificación del uso de suelo comercial son los dos puntos donde más operaciones se atoran."
+    }
+  ],
+  "paraInversionistas": [
+    "Compara siempre renta más mantenimiento: la renta publicada subestima el costo real entre 20% y 25%.",
+    "La disponibilidad a la baja con poca obra nueva favorece renovaciones a precio de propietario en 2027.",
+    "Espacio acondicionado y certificado se coloca más rápido: el capex de acondicionamiento se recupera en velocidad de renta.",
+    "Verifica uso de suelo comercial y ratio de cajones antes de firmar carta de intención."
+  ],
+  "fuentes": [
+    {
+      "medio": "Colliers — Overview Mercado de Oficinas Querétaro, 2T 2026",
+      "url": "https://www.colliers.com/es-mx/investigacion/baj%C3%ADo/overview-mercado-de-oficinas-queretaro-2t-2026"
+    },
+    {
+      "medio": "Spot2 — Mejores zonas para rentar oficinas en Querétaro: guía de precios 2026",
+      "url": "https://spot2.mx/blog/post/mejores-zonas-renta-oficinas-queretaro"
+    },
+    {
+      "medio": "Spot2 — Oficinas en renta en Querétaro",
+      "url": "https://spot2.mx/oficinas/renta/queretaro"
+    }
+  ]
+}
