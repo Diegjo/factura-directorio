@@ -1,0 +1,81 @@
+{
+  "slug": "precio-vivienda-queretaro-2026",
+  "title": "La vivienda en Querétaro llega a 29,851 pesos por m²: +7% en dos años",
+  "dek": "El precio de venta corre más rápido que la renta. Para el inversionista patrimonial, eso comprime el rendimiento por alquiler y empuja la tesis hacia plusvalía.",
+  "summary": "El precio promedio de venta pasó de 28,016 a 29,851 pesos por m² entre junio de 2024 y junio de 2026, según el índice de Inmuebles24. La renta subió solo 4% en el mismo periodo, a 11,601 pesos mensuales: el spread entre comprar y rentar se abre y cambia el cálculo del inversionista patrimonial.",
+  "category": "residencial",
+  "fecha": "2026-09-08",
+  "aproximado": true,
+  "datos": [
+    {
+      "etiqueta": "Precio de venta promedio",
+      "valor": "29,851 $/m²",
+      "nota": "Junio 2026; desde 28,016 $/m² en junio 2024 (+7%)"
+    },
+    {
+      "etiqueta": "Renta promedio estatal",
+      "valor": "11,601 $/mes",
+      "nota": "Desde 11,206 $/mes en junio 2024 (+4%)"
+    },
+    {
+      "etiqueta": "Corregidora",
+      "valor": "≈24,000 $/m²",
+      "nota": "Por debajo del promedio estatal"
+    },
+    {
+      "etiqueta": "El Marqués",
+      "valor": "26,722 $/m²"
+    },
+    {
+      "etiqueta": "Departamento tipo 65 m²",
+      "valor": "1,970,177 pesos",
+      "nota": "2 recámaras y 1 cajón; índice a abril 2026"
+    },
+    {
+      "etiqueta": "Demanda de departamentos",
+      "valor": "+10% anual"
+    }
+  ],
+  "cuerpo": [
+    {
+      "body": "El precio promedio de la vivienda en Querétaro pasó de 28,016 a 29,851 pesos por metro cuadrado entre junio de 2024 y junio de 2026, un alza de 7%, de acuerdo con el índice de Inmuebles24. En el mismo periodo la renta promedio estatal subió apenas 4%, de 11,206 a 11,601 pesos mensuales. Los dos mercados dejaron de moverse al mismo ritmo, y ahí está la nota para quien invierte."
+    },
+    {
+      "heading": "El spread entre comprar y rentar",
+      "body": "Cuando el precio de venta sube casi al doble de velocidad que la renta, el rendimiento bruto por alquiler se comprime. La consecuencia práctica es que la tesis de inversión residencial en Querétaro se está corriendo de flujo hacia plusvalía: se compra esperando revaluación del activo, no un cap rate atractivo. Es una apuesta más dependiente de la zona y del ciclo."
+    },
+    {
+      "heading": "El mercado no es uno, son varios",
+      "body": "La dispersión por municipio y delegación es amplia. Corregidora se ubicó alrededor de 24,000 pesos por m² y El Marqués en 26,722, ambos por debajo del promedio estatal. En renta, las opciones por debajo de 10,000 pesos se concentran en Felipe Carrillo Puerto, Corregidora, Epigmenio González y El Marqués; con presupuestos de 13,000 pesos o más aparecen Cayetano Rubio, Santa Rosa Jáuregui, Josefa Vergara y el Centro Histórico."
+    },
+    {
+      "heading": "La vertical avanza porque la tierra encareció",
+      "body": "La demanda de departamentos crece 10% anual y el precio promedio de un departamento de 65 m² con dos recámaras y un cajón se ubicó en 1,970,177 pesos según el índice a abril de 2026. La verticalización no es una preferencia estética: es la respuesta del producto al encarecimiento del suelo en las zonas bien conectadas. Centro Sur, Zibatá, Juriquilla, El Refugio y Milenio concentran el desarrollo vertical."
+    },
+    {
+      "heading": "Dónde está el hueco",
+      "body": "El segmento sin resolver es el económico. Los desarrolladores reconocen poca oferta por debajo del millón de pesos y señalan que el costo de la tierra es la causa directa. El programa federal Vivienda para el Bienestar está colocando producto por debajo de 700 mil pesos vía Infonavit, pero el nicho entre 1 y 1.5 millones sigue desabastecido."
+    }
+  ],
+  "paraInversionistas": [
+    "Modela el rendimiento con la renta real de la zona, no con el promedio estatal: la dispersión entre delegaciones es de varios miles de pesos por m².",
+    "En un mercado donde la venta corre más que la renta, el margen de error está en el precio de entrada.",
+    "El producto vertical de 60–70 m² es el que tiene demanda comprobada creciendo a doble dígito.",
+    "El segmento de 1 a 1.5 millones de pesos está desabastecido: es el hueco de producto más claro del estado.",
+    "Cifras de índices de portales reflejan precio pedido, no precio de escritura."
+  ],
+  "fuentes": [
+    {
+      "medio": "Real Estate Market & Lifestyle — Vivienda en Querétaro: cuánto cuesta comprar y rentar en 2026",
+      "url": "https://www.realestatemarket.com.mx/noticias/mercado-inmobiliario/51302-vivienda-en-queretaro-cuanto-cuesta-comprar-y-rentar-en-2026"
+    },
+    {
+      "medio": "VSD — Comprar casa o departamento, la nueva decisión del mercado en Querétaro",
+      "url": "https://vsd.mx/comprar-casa-o-departamento-la-nueva-decision-que-marca-el-mercado-inmobiliario-en-queretaro"
+    },
+    {
+      "medio": "El Economista — Vivienda económica y densificación, desafíos en Querétaro",
+      "url": "https://www.eleconomista.com.mx/estados/vivienda-economica-densificacion-desafios-visualizan-desarrolladores-queretaro-20260826-830373.html"
+    }
+  ]
+}

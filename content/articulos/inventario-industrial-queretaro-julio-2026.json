@@ -1,0 +1,76 @@
+{
+  "slug": "inventario-industrial-queretaro-julio-2026",
+  "title": "Querétaro suma 400 mil m² de inventario industrial en un año, pero la construcción cae 40%",
+  "dek": "El estado cerró julio de 2026 con 8.8 millones de m² de inventario. La obra nueva se desaceleró, la absorción no: el resultado previsible es renta más cara y menos tiempo para decidir.",
+  "summary": "El inventario industrial del estado llegó a 8.8 millones de m² en julio de 2026 (+5% anual) según Solili, mientras la superficie en construcción retrocedió 40% anual. Menos oferta nueva y demanda sostenida apuntan a más presión sobre rentas en los corredores de la 57 y la México–Querétaro.",
+  "category": "industrial",
+  "fecha": "2026-09-08",
+  "aproximado": true,
+  "datos": [
+    {
+      "etiqueta": "Inventario industrial",
+      "valor": "8.8 millones de m²",
+      "nota": "Julio 2026, +5% anual (Solili)"
+    },
+    {
+      "etiqueta": "Incorporación en 12 meses",
+      "valor": "+400 mil m²"
+    },
+    {
+      "etiqueta": "Superficie en construcción",
+      "valor": "−40% anual",
+      "nota": "Menos oferta nueva en los próximos trimestres"
+    },
+    {
+      "etiqueta": "Absorción 1T 2026",
+      "valor": "≈287 mil m²",
+      "nota": "Cifra aproximada; superior al mismo periodo de 2025"
+    },
+    {
+      "etiqueta": "Expectativa de renta 2026",
+      "valor": "+5% a +10%",
+      "nota": "Proyección del sector, no dato cerrado"
+    }
+  ],
+  "cuerpo": [
+    {
+      "body": "El mercado industrial de Querétaro cerró julio de 2026 con 8.8 millones de metros cuadrados de inventario, un crecimiento anual de 5% que equivale a más de 400 mil m² incorporados en doce meses, de acuerdo con datos de Solili. La lectura optimista es que el estado sigue construyendo. La lectura útil para un inversionista es la otra: la superficie industrial en construcción cayó 40% anual en el mismo periodo."
+    },
+    {
+      "heading": "Por qué importa el freno en obra",
+      "body": "El inventario es una foto del pasado; la superficie en construcción es la foto del futuro. Cuando la obra nueva se contrae 40% y la demanda sigue colocándose, el ajuste ocurre por precio, no por volumen. Eso significa que quien busca ocupar espacio en 2027 va a negociar con un inventario más apretado del que hoy ve en los listados."
+    },
+    {
+      "heading": "La demanda no se enfrió",
+      "body": "En mayo de 2026 el estado registró una absorción de 50 mil m², el doble que el mismo mes del año anterior, y todas las operaciones del mes correspondieron a naves especulativas ya construidas. Es un dato revelador: los desarrolladores están vaciando su inventario listo en lugar de arrancar obra nueva. El primer trimestre de 2026 cerró con una absorción aproximada de 287 mil m², también por arriba del año previo."
+    },
+    {
+      "heading": "Dónde está la presión",
+      "body": "La concentración sigue en los corredores carreteros y logísticos: el eje de la Carretera 57 hacia San Luis Potosí y la autopista México–Querétaro. En esos polígonos la disponibilidad inmediata es la más escasa y es donde el sector anticipa incrementos de renta de entre 5% y 10% para 2026, encima de un crecimiento promedio cercano a 6% anual en los últimos cinco años."
+    },
+    {
+      "heading": "El cuello de botella real",
+      "body": "El límite del mercado queretano dejó de ser la tierra y pasó a ser la energía. Los proyectos que hoy avanzan más rápido son los que ya tienen factibilidad eléctrica documentada. Para cualquier operación de nave o terreno industrial, el MVA disponible a pie de lote vale más en la negociación que el descuento por metro cuadrado."
+    }
+  ],
+  "paraInversionistas": [
+    "El descuento por volumen se está acabando: contrata con anticipación mayor a la habitual si necesitas ocupar en 2027.",
+    "Nave especulativa lista para ocupar tiene premio de precio, pero ahorra 12–18 meses de obra frente a un built-to-suit.",
+    "Antes de cerrar, pide la carta de factibilidad eléctrica del parque, no la promesa comercial.",
+    "El freno en construcción favorece a quien ya es dueño de inventario estabilizado: es un mercado de tenedor, no de comprador oportunista."
+  ],
+  "fuentes": [
+    {
+      "medio": "Real Estate Market & Lifestyle — Querétaro suma más de 400 mil m² de inventario industrial en un año",
+      "url": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51452-queretaro-suma-mas-de-400-mil-m-de-inventario-industrial-en-un-ano"
+    },
+    {
+      "medio": "Real Estate Market & Lifestyle — Inversiones impulsan mercado industrial de Querétaro",
+      "url": "https://www.realestatemarket.com.mx/noticias/mercado-inmobiliario/50852-inversiones-impulsan-mercado-industrial-de-queretaro-demanda-de-naves-crece"
+    },
+    {
+      "medio": "Líder Empresarial — Industria en Querétaro: alta demanda y rentas en aumento",
+      "url": "https://www.liderempresarial.com/parques-industriales-queretaro-presion-demanda-rentas-2026/"
+    }
+  ]
+}

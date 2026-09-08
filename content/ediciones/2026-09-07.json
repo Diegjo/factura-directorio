@@ -1,0 +1,40 @@
+{
+  "fecha": "2026-09-07",
+  "intro": "Arranca la semana con el mercado corporativo por fin apretando la disponibilidad, los data centers como nuevo imán de inversión extranjera y un hueco cada vez más grande en vivienda por debajo del millón de pesos.",
+  "headline": {
+    "title": "Las oficinas de Querétaro bajan su disponibilidad a 15.6% con 21.8 mil m² de absorción neta",
+    "slug": "oficinas-queretaro-disponibilidad-2t-2026",
+    "summary": "Colliers reporta al cierre del 2T 2026 una absorción neta acumulada de 21.8 mil m² y una tasa de disponibilidad de 15.6%. Con poca oferta nueva entrando, el inquilino pierde poder de negociación en Centro Sur y Junípero Serra, donde la renta pedida llega a 400 pesos por m².",
+    "category": "corporativo",
+    "sourceUrl": "https://www.colliers.com/es-mx/investigacion/baj%C3%ADo/overview-mercado-de-oficinas-queretaro-2t-2026",
+    "sourceName": "Colliers"
+  },
+  "masNoticias": [
+    {
+      "title": "Los data centers empujan la inversión extranjera en Querétaro 51% en el primer trimestre",
+      "slug": "data-centers-inversion-extranjera-queretaro",
+      "summary": "Las empresas extranjeras inyectaron más de 456 millones de dólares entre enero y marzo de 2026, contra 302 millones un año antes, con 114 empresas de inversión nueva o reinversión. La demanda ya no es de nave genérica: es de parque industrial especializado con energía garantizada.",
+      "category": "industrial",
+      "sourceUrl": "https://forbes.com.mx/la-construccion-de-los-data-centers-son-un-iman-de-inversiones-a-queretaro/",
+      "sourceName": "Forbes México"
+    },
+    {
+      "title": "Desarrolladores: el nicho sin resolver es la vivienda por debajo del millón de pesos",
+      "slug": "vivienda-economica-densificacion-queretaro",
+      "summary": "Casi todos los segmentos habitacionales funcionan en Querétaro menos el económico, porque el suelo encarece el producto. La salida que ven los desarrolladores es densificar el centro y hacer vertical de bajo costo, apalancados en la llegada del tren de pasajeros.",
+      "category": "residencial",
+      "sourceUrl": "https://www.eleconomista.com.mx/estados/vivienda-economica-densificacion-desafios-visualizan-desarrolladores-queretaro-20260826-830373.html",
+      "sourceName": "El Economista"
+    },
+    {
+      "title": "Reserva territorial en León: suelo ZRC en 3,216 pesos por m² como apuesta a 5 años",
+      "slug": "reserva-territorial-leon-zrc",
+      "summary": "Un listado de 3,107 m² en Zona de Reserva para el Crecimiento en León se ofrece en 10 millones de pesos, unos 3,216 pesos por m². Comprar en ZRC es apostar a que el plan de desarrollo urbano reclasifique el polígono: el rendimiento está en el cambio de uso de suelo, no en la renta.",
+      "category": "tierra",
+      "sourceUrl": "https://torresainmobiliaria.com/property/%f0%9f%8c%8e-terreno-en-venta-en-zona-de-reserva-para-crecimiento-zrc-en-leon-guanajuato-oportunidad-de-inversion/",
+      "sourceName": "Torresa Inmobiliaria",
+      "aproximado": true
+    }
+  ],
+  "editorialNote": "Suelo en Zona de Reserva para el Crecimiento no es suelo urbanizable hoy. Antes de firmar, pide el plan parcial vigente y confirma con la dirección de desarrollo urbano del municipio."
+}

@@ -1,7 +1,9 @@
 export const siteConfig = {
-  name: "FacturaDirectorio",
+  name: "Bajío Inmobiliario",
+  tagline:
+    "Revista digital diaria de bienes raíces en Querétaro y El Bajío — oportunidades para inversionistas.",
   description:
-    "Directorio en español de software de facturación electrónica CFDI y herramientas contables para freelancers y PyMEs en México.",
+    "Revista digital diaria de bienes raíces en Querétaro y El Bajío: precios, tierra, nuevas empresas y demanda de espacio industrial, aeroportuario, residencial y corporativo.",
   locale: "es-MX",
-  url: "https://facturadirectorio.mx",
+  url: "https://bajioinmobiliario.mx",
 };

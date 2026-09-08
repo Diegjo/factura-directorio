@@ -1,27 +1,41 @@
 import Link from "next/link";
+import { getAllCategorias } from "@/lib/content";
 import { siteConfig } from "@/lib/site";
 
-const nav = [
-  { href: "/herramientas", label: "Herramientas" },
-  { href: "/comparar", label: "Comparar" },
-  { href: "/guias", label: "Guías" },
-];
-
 export function Header() {
+  const categorias = getAllCategorias();
+
   return (
-    <header className="border-b border-slate-200 bg-white">
-      <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-4">
-        <Link href="/" className="text-lg font-semibold text-slate-900">
-          {siteConfig.name}
-        </Link>
-        <nav className="flex flex-wrap gap-4 text-sm text-slate-700">
-          {nav.map((item) => (
+    <header className="border-b border-rule bg-paper">
+      <div className="mx-auto w-full max-w-3xl px-4 pt-6 pb-3 sm:px-6">
+        <div className="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2">
+          <Link href="/" className="group">
+            <p className="font-display text-2xl leading-none font-bold tracking-tight text-ink sm:text-3xl">
+              {siteConfig.name}
+            </p>
+            <p className="mt-1.5 text-[11px] tracking-[0.18em] text-ink-faint uppercase">
+              Querétaro · El Bajío
+            </p>
+          </Link>
+          <nav className="flex gap-4 text-sm font-medium text-ink-soft">
+            <Link href="/" className="hover:text-brand">
+              Hoy
+            </Link>
+            <Link href="/archivo" className="hover:text-brand">
+              Archivo
+            </Link>
+          </nav>
+        </div>
+      </div>
+      <div className="mx-auto w-full max-w-3xl px-4 sm:px-6">
+        <nav className="flex flex-wrap gap-x-4 gap-y-1 border-t border-rule py-2 text-[11px] tracking-[0.14em] text-ink-soft uppercase">
+          {categorias.map((c) => (
             <Link
-              key={item.href}
-              href={item.href}
-              className="hover:text-slate-900 hover:underline"
+              key={c.slug}
+              href={`/categoria/${c.slug}`}
+              className="hover:text-brand"
             >
-              {item.label}
+              {c.nombre}
             </Link>
           ))}
         </nav>

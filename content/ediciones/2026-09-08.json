@@ -1,0 +1,41 @@
+{
+  "fecha": "2026-09-08",
+  "intro": "El inventario industrial de Querétaro sigue creciendo, pero la obra nueva se frenó 40% anual. Para quien busca nave o tierra, la ventana de negociación se está cerrando. Hoy: absorción industrial, Ciudad Aeropuerto, precio de vivienda y cuánto cuesta el metro cuadrado industrial en Guanajuato.",
+  "headline": {
+    "title": "Querétaro suma 400 mil m² de inventario industrial en un año, pero la construcción cae 40%",
+    "slug": "inventario-industrial-queretaro-julio-2026",
+    "summary": "El inventario industrial del estado llegó a 8.8 millones de m² en julio de 2026 (+5% anual) según Solili, mientras la superficie en construcción retrocedió 40% anual. Menos oferta nueva y demanda sostenida apuntan a más presión sobre rentas en los corredores de la 57 y la México–Querétaro.",
+    "category": "industrial",
+    "sourceUrl": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51452-queretaro-suma-mas-de-400-mil-m-de-inventario-industrial-en-un-ano",
+    "sourceName": "Real Estate Market & Lifestyle"
+  },
+  "masNoticias": [
+    {
+      "title": "Ciudad Aeropuerto: el AIQ ya detona hotel, zona comercial y siete parques industriales en su entorno",
+      "slug": "ciudad-aeropuerto-aiq-inversion-inmobiliaria",
+      "summary": "El modelo Ciudad Aeropuerto avanza con un hotel ejecutivo de unos 100 millones de pesos y una nueva zona comercial e industrial junto a la terminal. El Plan Estratégico al 2050 del AIQ proyecta pasar de 2.4 millones de pasajeros a 12–15 millones y superar 200 mil toneladas de carga.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://www.eleconomista.com.mx/estados/proyectan-detonar-inversiones-alrededor-aeropuerto-queretaro-20260217-800311.html",
+      "sourceName": "El Economista",
+      "aproximado": true
+    },
+    {
+      "title": "La vivienda en Querétaro llega a 29,851 pesos por m²: +7% en dos años",
+      "slug": "precio-vivienda-queretaro-2026",
+      "summary": "El precio promedio de venta pasó de 28,016 a 29,851 pesos por m² entre junio de 2024 y junio de 2026, según el índice de Inmuebles24. La renta subió solo 4% en el mismo periodo, a 11,601 pesos mensuales: el spread entre comprar y rentar se abre y cambia el cálculo del inversionista patrimonial.",
+      "category": "residencial",
+      "sourceUrl": "https://www.realestatemarket.com.mx/noticias/mercado-inmobiliario/51302-vivienda-en-queretaro-cuanto-cuesta-comprar-y-rentar-en-2026",
+      "sourceName": "Real Estate Market & Lifestyle"
+    },
+    {
+      "title": "Tierra industrial en El Bajío: de 51 a 100 dólares por m² según parque y servicios",
+      "slug": "precio-tierra-industrial-bajio-2026",
+      "summary": "Listados vigentes en Guanajuato van desde 51 USD/m² en un parque de 60 hectáreas en Celaya hasta 68 USD/m² en un desarrollo built-to-suit sobre la Federal 45 en Irapuato. Lo que mueve el precio no es la ubicación sino los MVA disponibles, el gas natural y la espuela de ferrocarril.",
+      "category": "tierra",
+      "sourceUrl": "https://www.pincali.com/inmueble/terreno-industrial-en-venta-en-celaya-guanajuato-817170bf-23e7-42ae-8df9-9d739c2b8b47",
+      "sourceName": "Pincali / Grupo Villanueva",
+      "aproximado": true
+    }
+  ],
+  "editorialNote": "Los precios de tierra industrial son precios de lista de anuncios públicos, no de operaciones cerradas. Sirven como techo de referencia para negociar, no como valor de mercado. Verifica factibilidad eléctrica y de agua antes de cualquier oferta."
+}
