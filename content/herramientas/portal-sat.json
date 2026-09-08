@@ -1,0 +1,47 @@
+{
+  "slug": "portal-sat",
+  "name": "Portal del SAT (gratis)",
+  "tagline": "Facturación gratuita oficial del SAT — sin costo de folios",
+  "description": "El Servicio de Generación de Factura del SAT permite emitir CFDI sin pagar a un proveedor comercial. Es gratis, oficial y suficiente para muchos freelancers con bajo volumen. La experiencia de usuario es más tosca que las plataformas de pago, y hay límites prácticos de productividad.",
+  "paraQuien": [
+    "Freelancers con pocas facturas al mes",
+    "Quienes empiezan y no quieren pagar software aún",
+    "Contribuyentes que priorizan costo cero sobre comodidad"
+  ],
+  "precios": {
+    "resumen": "Gratis (sin costo de timbrado comercial)",
+    "detalle": "No tiene cuota de software. El costo es tu tiempo y la curva de uso del portal.",
+    "aproximado": false
+  },
+  "checklistCfdi": [
+    "Emisión de CFDI desde el portal oficial",
+    "Sin costo por folio",
+    "Cumplimiento directo con reglas SAT",
+    "Descarga de XML",
+    "Cancelación según procedimiento SAT",
+    "Requiere e.firma o contraseña de captcha/FIEL según flujo"
+  ],
+  "pros": [
+    "Costo cero",
+    "Oficial y confiable fiscalmente",
+    "Suficiente para volumen muy bajo",
+    "No dependes de un proveedor comercial"
+  ],
+  "contras": [
+    "UX lenta y poco amigable",
+    "No escala bien si facturas diario",
+    "Sin API ni automatizaciones",
+    "Sin contabilidad, inventarios ni CRM"
+  ],
+  "alternativas": [
+    "facturama",
+    "alegra",
+    "senhub"
+  ],
+  "categorias": [
+    "freelancers"
+  ],
+  "sitioWeb": "https://www.sat.gob.mx",
+  "affiliateUrl": "",
+  "featured": false
+}

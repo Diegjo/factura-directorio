@@ -1,0 +1,47 @@
+{
+  "slug": "alegra",
+  "name": "Alegra",
+  "tagline": "Contabilidad + facturación CFDI para PyMEs y freelancers",
+  "description": "Alegra combina facturación electrónica CFDI con contabilidad, gastos, inventarios y reportes. Está orientada a PyMEs y emprendedores que quieren un solo lugar para facturar y llevar la operación diaria, no solo timbrar.",
+  "paraQuien": [
+    "PyMEs que necesitan facturar y llevar gastos/inventario",
+    "Freelancers que quieren más que solo timbrar",
+    "Negocios que prefieren software cloud todo-en-uno"
+  ],
+  "precios": {
+    "resumen": "Suscripción mensual aprox. desde planes básicos (consultar web; varía por país/funciones)",
+    "detalle": "Alegra publica planes por funcionalidad. Confirma precio MXN y límite de CFDIs en su sitio.",
+    "aproximado": true
+  },
+  "checklistCfdi": [
+    "Emisión de CFDI 4.0",
+    "Complementos de pago y nómina (según plan)",
+    "Cancelación de CFDIs",
+    "Integración con contabilidad del mismo sistema",
+    "XML y PDF descargables",
+    "Multi-usuario en planes superiores"
+  ],
+  "pros": [
+    "Más completo que un pure-play de timbrado",
+    "Interfaz amigable y app móvil",
+    "Útil si quieres unificar facturación y operación",
+    "Buen onboarding para no contadores"
+  ],
+  "contras": [
+    "Puede resultar caro si solo necesitas timbrar",
+    "Algunas funciones avanzadas van en planes altos",
+    "Menos 'API-first' que Facturapi o similares"
+  ],
+  "alternativas": [
+    "facturama",
+    "contpaqi-factura",
+    "senhub"
+  ],
+  "categorias": [
+    "freelancers",
+    "pymes"
+  ],
+  "sitioWeb": "https://www.alegra.com/mexico/",
+  "affiliateUrl": "https://www.alegra.com/mexico/?ref=facturadirectorio",
+  "featured": true
+}
