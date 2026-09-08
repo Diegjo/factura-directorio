@@ -9,7 +9,7 @@ import {
   getArticulosByCategoria,
   getCategoria,
 } from "@/lib/content";
-import { fechaLarga } from "@/lib/fecha";
+import { fechaCorta, fechaLarga } from "@/lib/fecha";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -57,11 +57,17 @@ export default async function ArticuloPage({ params }: Props) {
             href={`/edicion/${articulo.fecha}`}
             className="hover:text-brand"
           >
-            Edición del {articulo.fecha}
+            Edición del {fechaCorta(articulo.fecha)}
           </Link>
         </p>
 
-        <div className="flex flex-wrap items-center gap-3">
+        <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
+          <span className="text-[11px] font-semibold tracking-[0.16em] text-ink-faint uppercase">
+            {fechaLarga(articulo.fecha)}
+          </span>
+          <span aria-hidden className="text-ink-faint">
+            ·
+          </span>
           <EtiquetaCategoria slug={articulo.category} />
           {articulo.aproximado && <MarcaAproximado />}
         </div>
@@ -71,9 +77,6 @@ export default async function ArticuloPage({ params }: Props) {
         </h1>
         <p className="medida-lectura text-xl leading-[1.6] text-ink-soft sm:text-[1.375rem]">
           {articulo.dek}
-        </p>
-        <p className="border-t border-rule pt-3 text-xs tracking-[0.12em] text-ink-faint uppercase">
-          {fechaLarga(articulo.fecha)}
         </p>
       </header>
 

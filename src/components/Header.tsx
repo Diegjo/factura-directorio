@@ -7,7 +7,7 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-rule bg-paper/95 backdrop-blur supports-[backdrop-filter]:bg-paper/80">
-      <div className="mx-auto w-full max-w-3xl px-4 pt-4 pb-2.5 sm:px-6 sm:pt-5">
+      <div className="mx-auto w-full max-w-3xl px-4 pt-3.5 pb-2 sm:px-6 sm:pt-5 sm:pb-2.5">
         <div className="flex items-center justify-between gap-x-4">
           <Link href="/" className="min-w-0">
             <p className="font-display text-2xl leading-none font-bold tracking-tight text-ink sm:text-3xl">
@@ -41,7 +41,7 @@ export function Header() {
         <div className="mx-auto w-full max-w-3xl px-4 sm:px-6">
           <nav
             aria-label="Secciones"
-            className="barra-chips -mx-4 flex gap-2 overflow-x-auto px-4 py-2 sm:mx-0 sm:flex-wrap sm:px-0"
+            className="barra-chips -mx-4 flex gap-2 overflow-x-auto px-4 py-1.5 sm:mx-0 sm:flex-wrap sm:px-0 sm:py-2"
           >
             {categorias.map((c) => (
               <Link
