@@ -7,7 +7,15 @@
     "summary": "Colliers reporta al cierre del 2T 2026 una absorción neta acumulada de 21.8 mil m² y una tasa de disponibilidad de 15.6%. Con poca oferta nueva entrando, el inquilino pierde poder de negociación en Centro Sur y Junípero Serra, donde la renta pedida llega a 400 pesos por m².",
     "category": "corporativo",
     "sourceUrl": "https://www.colliers.com/es-mx/investigacion/baj%C3%ADo/overview-mercado-de-oficinas-queretaro-2t-2026",
-    "sourceName": "Colliers"
+    "sourceName": "Colliers",
+    "image": {
+      "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+      "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+    }
   },
   "masNoticias": [
     {
@@ -16,7 +24,15 @@
       "summary": "Las empresas extranjeras inyectaron más de 456 millones de dólares entre enero y marzo de 2026, contra 302 millones un año antes, con 114 empresas de inversión nueva o reinversión. La demanda ya no es de nave genérica: es de parque industrial especializado con energía garantizada.",
       "category": "industrial",
       "sourceUrl": "https://forbes.com.mx/la-construccion-de-los-data-centers-son-un-iman-de-inversiones-a-queretaro/",
-      "sourceName": "Forbes México"
+      "sourceName": "Forbes México",
+      "image": {
+        "src": "/img/notas/centro-de-datos-racks.jpg",
+        "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+      }
     },
     {
       "title": "Desarrolladores: el nicho sin resolver es la vivienda por debajo del millón de pesos",
@@ -24,7 +40,15 @@
       "summary": "Casi todos los segmentos habitacionales funcionan en Querétaro menos el económico, porque el suelo encarece el producto. La salida que ven los desarrolladores es densificar el centro y hacer vertical de bajo costo, apalancados en la llegada del tren de pasajeros.",
       "category": "residencial",
       "sourceUrl": "https://www.eleconomista.com.mx/estados/vivienda-economica-densificacion-desafios-visualizan-desarrolladores-queretaro-20260826-830373.html",
-      "sourceName": "El Economista"
+      "sourceName": "El Economista",
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
     },
     {
       "title": "Reserva territorial en León: suelo ZRC en 3,216 pesos por m² como apuesta a 5 años",
@@ -33,7 +57,15 @@
       "category": "tierra",
       "sourceUrl": "https://torresainmobiliaria.com/property/%f0%9f%8c%8e-terreno-en-venta-en-zona-de-reserva-para-crecimiento-zrc-en-leon-guanajuato-oportunidad-de-inversion/",
       "sourceName": "Torresa Inmobiliaria",
-      "aproximado": true
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/suelo-rustico-guanajuato.jpg",
+        "alt": "Terreno rústico sin urbanizar en Guanajuato, con la parcela abierta y cerros al fondo.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Paisaje_cerca_de_Santa_B%C3%A1rbara_(Dolores_Hidalgo,_Gto.),_cultivo.jpg"
+      }
     }
   ],
   "editorialNote": "Suelo en Zona de Reserva para el Crecimiento no es suelo urbanizable hoy. Antes de firmar, pide el plan parcial vigente y confirma con la dirección de desarrollo urbano del municipio."

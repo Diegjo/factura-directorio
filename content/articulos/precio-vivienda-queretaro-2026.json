@@ -6,6 +6,14 @@
   "category": "residencial",
   "fecha": "2026-09-08",
   "aproximado": true,
+  "image": {
+    "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+    "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+  },
   "datos": [
     {
       "etiqueta": "Precio de venta promedio",
