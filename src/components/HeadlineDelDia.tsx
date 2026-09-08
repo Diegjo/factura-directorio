@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { EnlaceFuente } from "@/components/EnlaceFuente";
 import { EtiquetaCategoria } from "@/components/EtiquetaCategoria";
+import { ImagenNota } from "@/components/ImagenNota";
 import { MarcaAproximado } from "@/components/MarcaAproximado";
 import { getNotaHref } from "@/lib/content";
 import { fechaCorta } from "@/lib/fecha";
@@ -16,6 +17,12 @@ export function HeadlineDelDia({ nota }: { nota: NotaIndexada }) {
       </p>
 
       <article className="pt-6">
+        {nota.image && (
+          <Link href={href} className="mb-5 block">
+            <ImagenNota imagen={nota.image} variante="grande" />
+          </Link>
+        )}
+
         <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
           <span className="text-[11px] font-semibold tracking-[0.16em] text-ink-faint uppercase">
             {fechaCorta(nota.fecha)}

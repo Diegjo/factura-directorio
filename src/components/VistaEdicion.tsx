@@ -1,3 +1,4 @@
+import { CreditosImagen } from "@/components/CreditosImagen";
 import { HeadlineDelDia } from "@/components/HeadlineDelDia";
 import { MasNoticias } from "@/components/MasNoticias";
 import { getNotasDeEdicion } from "@/lib/content";
@@ -12,6 +13,8 @@ type Props = {
 
 export function VistaEdicion({ edicion, esHoy = false }: Props) {
   const [headline, ...masNoticias] = getNotasDeEdicion(edicion);
+  // El headline lleva su crédito al pie de la foto; las miniaturas, aquí.
+  const imagenesSinPie = masNoticias.flatMap((n) => n.image ?? []);
 
   return (
     <div className="space-y-12 sm:space-y-14">
@@ -38,6 +41,8 @@ export function VistaEdicion({ edicion, esHoy = false }: Props) {
           </p>
         </aside>
       )}
+
+      <CreditosImagen imagenes={imagenesSinPie} />
     </div>
   );
 }
