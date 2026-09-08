@@ -62,3 +62,21 @@ export type NotaIndexada = Nota & {
   esHeadline: boolean;
   tieneArticulo: boolean;
 };
+
+/**
+ * Entrada de un listado de categoría. Unifica las notas que salieron en una
+ * edición con los artículos de fondo que no pertenecen a ninguna.
+ */
+export type EntradaCategoria = {
+  slug: string;
+  title: string;
+  summary: string;
+  fecha: string;
+  href: string;
+  esHeadline: boolean;
+  aproximado?: boolean;
+  sourceUrl?: string;
+  sourceName?: string;
+  /** Presente solo cuando la entrada salió de una edición. */
+  edicionHref?: string;
+};

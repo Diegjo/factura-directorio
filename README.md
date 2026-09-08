@@ -36,7 +36,7 @@ npm start
 | `/` | Edición de hoy: intro, headline del día, 3 noticias más, nota del editor |
 | `/edicion/[fecha]` | Edición de un día específico (`YYYY-MM-DD`) con navegación anterior/siguiente |
 | `/articulo/[slug]` | Nota larga: datos clave, cuerpo, lectura para inversionistas y fuentes |
-| `/categoria/[slug]` | Todas las notas de una sección, de la más reciente a la más vieja |
+| `/categoria/[slug]` | Todo lo publicado en una sección (notas de edición y artículos de fondo), de lo más reciente a lo más viejo |
 | `/archivo` | Listado completo de ediciones |
 
 La home siempre muestra la edición con la **fecha más alta** en `content/ediciones`. No hay que tocar código para publicar.
@@ -53,7 +53,7 @@ cp content/ediciones/2026-09-08.json content/ediciones/2026-09-09.json
 3. Escribe el `intro`, el `headline` y las 3 notas de `masNoticias`. Cada nota necesita `title`, `slug`, `summary` y `category`.
 4. Usa un `category` que exista en `content/categorias`: `industrial`, `aeroportuario`, `residencial`, `corporativo`, `tierra`.
 5. Si la nota viene de un medio, agrega `sourceUrl` y `sourceName`. Si la cifra es precio de lista, índice de portal o proyección, marca `"aproximado": true`.
-6. Opcional: si una nota merece desarrollo, crea `content/articulos/<slug>.json` con el **mismo slug** de la nota. La edición detecta el artículo y cambia el enlace de "Ver en la edición" a "Leer la nota completa".
+6. Opcional: si una nota merece desarrollo, crea `content/articulos/<slug>.json` con el **mismo slug** de la nota. La edición detecta el artículo y cambia el enlace de "Ver en la edición" a "Leer la nota completa". Un artículo sin nota que lo referencie también es válido: se publica como pieza de fondo y aparece en su categoría.
 7. Levanta `npm run dev`, revisa `/` y corre `npm run build` antes de desplegar.
 
 No hace falta registrar rutas ni fechas en ningún índice: `generateStaticParams` lee `/content` en cada build.
@@ -108,13 +108,24 @@ Para abrir una sección nueva basta agregar un JSON aquí: aparece en el header,
 
 ## Seed incluido
 
-**Ediciones:** `2026-09-08` (industrial, aeroportuario, residencial, tierra) y `2026-09-07` (corporativo, industrial, residencial, tierra).
+**Edición del 2026-09-08** (la primera edición, con investigación de campo):
 
-**Artículos:** `inventario-industrial-queretaro-julio-2026`, `ciudad-aeropuerto-aiq-inversion-inmobiliaria`, `precio-vivienda-queretaro-2026`, `precio-tierra-industrial-bajio-2026`, `oficinas-queretaro-disponibilidad-2t-2026`.
+| | Nota | Categoría |
+|---|------|-----------|
+| Headline | Vacancia industrial en 4.8% y renta Clase A cerca de 6.75 USD/m²; absorción de ~287 mil m² en el 1T | `industrial` |
+| 1 | 10 proyectos por 8,131 mdp y 3,479 empleos (SEDESU); Costco Corregidora y Phoenix Contact | `corporativo` |
+| 2 | Segunda terminal del AIQ antes de octubre de 2027, con 1,500 mdp y Ciudad Aeropuerto | `aeroportuario` |
+| 3 | El tren México–Querétaro repreciando suelo en El Marqués, Corregidora y San Juan del Río | `tierra` |
+
+**Edición del 2026-09-07:** oficinas (headline), industrial, residencial y tierra.
+
+**Artículos:** `industrial-queretaro-vacancia-rentas-1t-2026`, `cartera-inversiones-queretaro-1t-2026`, `segunda-terminal-aiq-ciudad-aeropuerto-2027`, `tren-mexico-queretaro-plusvalia-suelo`, `oficinas-queretaro-disponibilidad-2t-2026`, `precio-vivienda-queretaro-2026`, `precio-tierra-industrial-bajio-2026`.
 
 **Categorías:** industrial, aeroportuario, residencial, corporativo, tierra.
 
-Las notas del seed citan la fuente original con `sourceUrl`. Las cifras que provienen de precios de lista, índices de portales inmobiliarios o proyecciones a futuro están marcadas con `"aproximado": true` y se muestran con la etiqueta "Dato aproximado". Dos notas de la edición del 7 de septiembre no tienen artículo largo a propósito: sirven de ejemplo del comportamiento cuando solo existe la nota corta.
+Cada nota cita la fuente original con `sourceUrl` y `sourceName`. Las cifras que provienen de precios de lista, índices de portales, mapas de precio por colonia o proyecciones de consultoría están marcadas con `"aproximado": true` y se muestran con la etiqueta "Dato aproximado"; la `editorialNote` de cada edición explica el caveat.
+
+Dos notas de la edición del 7 de septiembre no tienen artículo largo a propósito: sirven de ejemplo del comportamiento cuando solo existe la nota corta. Los artículos `precio-vivienda-queretaro-2026` y `precio-tierra-industrial-bajio-2026` son piezas de fondo que no pertenecen a ninguna edición: aparecen en su categoría y en el sitemap, pero no en la portada de un día.
 
 ## Notas para Vercel
 

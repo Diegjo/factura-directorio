@@ -1,41 +1,42 @@
 {
   "fecha": "2026-09-08",
-  "intro": "El inventario industrial de Querétaro sigue creciendo, pero la obra nueva se frenó 40% anual. Para quien busca nave o tierra, la ventana de negociación se está cerrando. Hoy: absorción industrial, Ciudad Aeropuerto, precio de vivienda y cuánto cuesta el metro cuadrado industrial en Guanajuato.",
+  "intro": "Querétaro entró a la fase incómoda del ciclo industrial: la vacancia se agotó, las rentas suben y la obra nueva no alcanza a reponer el inventario que se coloca. Hoy: cuánto cuesta ya la nave Clase A, los 8,131 millones de pesos que entraron en el primer trimestre, la segunda terminal del AIQ y lo que el tren a la Ciudad de México le está haciendo al precio del suelo.",
   "headline": {
-    "title": "Querétaro suma 400 mil m² de inventario industrial en un año, pero la construcción cae 40%",
-    "slug": "inventario-industrial-queretaro-julio-2026",
-    "summary": "El inventario industrial del estado llegó a 8.8 millones de m² en julio de 2026 (+5% anual) según Solili, mientras la superficie en construcción retrocedió 40% anual. Menos oferta nueva y demanda sostenida apuntan a más presión sobre rentas en los corredores de la 57 y la México–Querétaro.",
+    "title": "Industria en Querétaro: la vacancia baja a 4.8% y la renta Clase A se acerca a 6.75 dólares por m²",
+    "slug": "industrial-queretaro-vacancia-rentas-1t-2026",
+    "summary": "La absorción del primer trimestre de 2026 llegó a unos 287 mil m² y dejó la vacancia estatal alrededor de 4.8%, contra 3.5% en el Bajío y menos de 3% en Clase A. Con rentas cercanas a 6 dólares por m² al mes —hasta 6.75 en producto Clase A— y obra nueva desacelerada, el sector anticipa incrementos de 5% a 10% este año.",
     "category": "industrial",
-    "sourceUrl": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51452-queretaro-suma-mas-de-400-mil-m-de-inventario-industrial-en-un-ano",
-    "sourceName": "Real Estate Market & Lifestyle"
+    "sourceUrl": "https://www.liderempresarial.com/parques-industriales-queretaro-presion-demanda-rentas-2026/",
+    "sourceName": "Líder Empresarial",
+    "aproximado": true
   },
   "masNoticias": [
     {
-      "title": "Ciudad Aeropuerto: el AIQ ya detona hotel, zona comercial y siete parques industriales en su entorno",
-      "slug": "ciudad-aeropuerto-aiq-inversion-inmobiliaria",
-      "summary": "El modelo Ciudad Aeropuerto avanza con un hotel ejecutivo de unos 100 millones de pesos y una nueva zona comercial e industrial junto a la terminal. El Plan Estratégico al 2050 del AIQ proyecta pasar de 2.4 millones de pasajeros a 12–15 millones y superar 200 mil toneladas de carga.",
+      "title": "Diez proyectos por 8,131 millones de pesos y 3,479 empleos: así cerró el primer trimestre",
+      "slug": "cartera-inversiones-queretaro-1t-2026",
+      "summary": "SEDESU reporta 10 proyectos concretados al cierre del 1T 2026, con capital de Alemania, Canadá, España, Estados Unidos y Francia en los rubros aeronáutico, automotriz, energético y de alimentos. Destacan Costco en Corregidora con 100 millones de dólares y 360 empleos, y la planta de la alemana Phoenix Contact para componentes de automatización industrial.",
+      "category": "corporativo",
+      "sourceUrl": "https://www.liderempresarial.com/como-crece-la-cartera-de-inversiones-en-queretaro-en-2026/",
+      "sourceName": "Líder Empresarial"
+    },
+    {
+      "title": "La segunda terminal del AIQ operará antes de octubre de 2027 con 1,500 mdp de inversión",
+      "slug": "segunda-terminal-aiq-ciudad-aeropuerto-2027",
+      "summary": "El nuevo edificio agregará capacidad para hasta cuatro millones de pasajeros y forma parte del complejo Ciudad Aeropuerto, que suma una nueva zona comercial e industrial, un hotel ejecutivo de 80 habitaciones y siete parques industriales. El esquema declarado por Sedesu es de renta de superficie: el desarrollador construye sobre suelo arrendado.",
       "category": "aeroportuario",
-      "sourceUrl": "https://www.eleconomista.com.mx/estados/proyectan-detonar-inversiones-alrededor-aeropuerto-queretaro-20260217-800311.html",
-      "sourceName": "El Economista",
+      "sourceUrl": "https://extraqueretaro.com/segunda-terminal-del-aeropuerto-internacional-de-queretaro-operara-en-2027/",
+      "sourceName": "Extra Querétaro",
       "aproximado": true
     },
     {
-      "title": "La vivienda en Querétaro llega a 29,851 pesos por m²: +7% en dos años",
-      "slug": "precio-vivienda-queretaro-2026",
-      "summary": "El precio promedio de venta pasó de 28,016 a 29,851 pesos por m² entre junio de 2024 y junio de 2026, según el índice de Inmuebles24. La renta subió solo 4% en el mismo periodo, a 11,601 pesos mensuales: el spread entre comprar y rentar se abre y cambia el cálculo del inversionista patrimonial.",
-      "category": "residencial",
-      "sourceUrl": "https://www.realestatemarket.com.mx/noticias/mercado-inmobiliario/51302-vivienda-en-queretaro-cuanto-cuesta-comprar-y-rentar-en-2026",
-      "sourceName": "Real Estate Market & Lifestyle"
-    },
-    {
-      "title": "Tierra industrial en El Bajío: de 51 a 100 dólares por m² según parque y servicios",
-      "slug": "precio-tierra-industrial-bajio-2026",
-      "summary": "Listados vigentes en Guanajuato van desde 51 USD/m² en un parque de 60 hectáreas en Celaya hasta 68 USD/m² en un desarrollo built-to-suit sobre la Federal 45 en Irapuato. Lo que mueve el precio no es la ubicación sino los MVA disponibles, el gas natural y la espuela de ferrocarril.",
+      "title": "El tren México–Querétaro ya mueve el suelo en El Marqués, Corregidora y San Juan del Río",
+      "slug": "tren-mexico-queretaro-plusvalia-suelo",
+      "summary": "El proyecto no opera todavía y el mercado ya se movió: consultores estiman plusvalías de 100% a 200% en terrenos cercanos a estaciones. El Marqués y San Juan del Río concentran la expectativa por vocación industrial y ubicación intermedia, mientras el m² premium en Juriquilla se ubica en un rango aproximado de 12 a 16 mil pesos.",
       "category": "tierra",
-      "sourceUrl": "https://www.pincali.com/inmueble/terreno-industrial-en-venta-en-celaya-guanajuato-817170bf-23e7-42ae-8df9-9d739c2b8b47",
-      "sourceName": "Pincali / Grupo Villanueva",
+      "sourceUrl": "https://www.liderempresarial.com/tren-mexico-queretaro-impacto-inmobiliario-queretaro-2026/",
+      "sourceName": "Líder Empresarial",
       "aproximado": true
     }
   ],
-  "editorialNote": "Los precios de tierra industrial son precios de lista de anuncios públicos, no de operaciones cerradas. Sirven como techo de referencia para negociar, no como valor de mercado. Verifica factibilidad eléctrica y de agua antes de cualquier oferta."
+  "editorialNote": "Las rentas industriales en dólares, los precios por m² por colonia y las plusvalías proyectadas por el tren son estimaciones de consultores y plataformas de datos, no operaciones cerradas ni avalúos. Úsalas para dimensionar el rango de negociación y confirma cada cifra con la fuente original antes de comprometer capital."
 }

@@ -4,6 +4,7 @@ import type {
   Articulo,
   Categoria,
   Edicion,
+  EntradaCategoria,
   Nota,
   NotaIndexada,
 } from "./types";
@@ -116,4 +117,45 @@ export function getNotaHref(nota: NotaIndexada): string {
   return nota.tieneArticulo
     ? `/articulo/${nota.slug}`
     : `/edicion/${nota.fecha}`;
+}
+
+/** Artículos de fondo que no aparecen como nota en ninguna edición. */
+export function getArticulosSueltos(): Articulo[] {
+  const enEdiciones = new Set(getAllNotas().map((n) => n.slug));
+  return getAllArticulos().filter((a) => !enEdiciones.has(a.slug));
+}
+
+/**
+ * Todo lo publicado en una categoría, de lo más nuevo a lo más viejo: las notas
+ * de las ediciones más los artículos de fondo que no salieron en una.
+ */
+export function getEntradasByCategoria(categoria: string): EntradaCategoria[] {
+  const deEdiciones = getNotasByCategoria(categoria).map((nota) => ({
+    slug: nota.slug,
+    title: nota.title,
+    summary: nota.summary,
+    fecha: nota.fecha,
+    href: getNotaHref(nota),
+    esHeadline: nota.esHeadline,
+    aproximado: nota.aproximado,
+    sourceUrl: nota.sourceUrl,
+    sourceName: nota.sourceName,
+    edicionHref: `/edicion/${nota.fecha}`,
+  }));
+
+  const sueltos = getArticulosSueltos()
+    .filter((a) => a.category === categoria)
+    .map((articulo) => ({
+      slug: articulo.slug,
+      title: articulo.title,
+      summary: articulo.summary,
+      fecha: articulo.fecha,
+      href: `/articulo/${articulo.slug}`,
+      esHeadline: false,
+      aproximado: articulo.aproximado,
+    }));
+
+  return [...deEdiciones, ...sueltos].sort((a, b) =>
+    b.fecha.localeCompare(a.fecha)
+  );
 }

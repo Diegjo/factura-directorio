@@ -6,8 +6,7 @@ import { MarcaAproximado } from "@/components/MarcaAproximado";
 import {
   getAllCategorias,
   getCategoria,
-  getNotaHref,
-  getNotasByCategoria,
+  getEntradasByCategoria,
 } from "@/lib/content";
 import { fechaCorta } from "@/lib/fecha";
 
@@ -34,7 +33,7 @@ export default async function CategoriaPage({ params }: Props) {
   const categoria = getCategoria(slug);
   if (!categoria) notFound();
 
-  const notas = getNotasByCategoria(slug);
+  const entradas = getEntradasByCategoria(slug);
   const otras = getAllCategorias().filter((c) => c.slug !== slug);
 
   return (
@@ -54,39 +53,48 @@ export default async function CategoriaPage({ params }: Props) {
         </p>
       </header>
 
-      {notas.length === 0 ? (
+      {entradas.length === 0 ? (
         <p className="text-ink-soft">
           Todavía no hay notas publicadas en esta categoría.
         </p>
       ) : (
         <ul className="divide-y divide-rule border-t border-rule">
-          {notas.map((nota) => (
-            <li key={`${nota.fecha}-${nota.slug}`} className="py-6">
+          {entradas.map((entrada) => (
+            <li key={`${entrada.fecha}-${entrada.slug}`} className="py-6">
               <div className="flex flex-wrap items-center gap-3">
-                <Link
-                  href={`/edicion/${nota.fecha}`}
-                  className="text-[11px] tracking-[0.14em] text-ink-faint uppercase hover:text-brand"
-                >
-                  {fechaCorta(nota.fecha)}
-                </Link>
-                {nota.esHeadline && (
+                {entrada.edicionHref ? (
+                  <Link
+                    href={entrada.edicionHref}
+                    className="text-[11px] tracking-[0.14em] text-ink-faint uppercase hover:text-brand"
+                  >
+                    {fechaCorta(entrada.fecha)}
+                  </Link>
+                ) : (
+                  <span className="text-[11px] tracking-[0.14em] text-ink-faint uppercase">
+                    {fechaCorta(entrada.fecha)}
+                  </span>
+                )}
+                {entrada.esHeadline && (
                   <span className="text-[10px] font-semibold tracking-[0.1em] text-ink-faint uppercase">
                     Headline del día
                   </span>
                 )}
-                {nota.aproximado && <MarcaAproximado />}
+                {entrada.aproximado && <MarcaAproximado />}
               </div>
               <h2 className="mt-2 font-display text-xl leading-snug font-bold text-ink">
-                <Link href={getNotaHref(nota)} className="hover:text-brand">
-                  {nota.title}
+                <Link href={entrada.href} className="hover:text-brand">
+                  {entrada.title}
                 </Link>
               </h2>
               <p className="mt-2 leading-relaxed text-ink-soft">
-                {nota.summary}
+                {entrada.summary}
               </p>
-              {nota.sourceUrl && (
+              {entrada.sourceUrl && (
                 <p className="mt-2">
-                  <EnlaceFuente url={nota.sourceUrl} nombre={nota.sourceName} />
+                  <EnlaceFuente
+                    url={entrada.sourceUrl}
+                    nombre={entrada.sourceName}
+                  />
                 </p>
               )}
             </li>
