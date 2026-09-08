@@ -4,12 +4,13 @@ Revista digital diaria de bienes raíces en **Querétaro y El Bajío** — oport
 
 La home es la edición del día: **un headline** más **tres noticias** y una entrada corta. Las notas largas viven como artículos y todo se archiva por fecha y por categoría.
 
-Marca: **Bajío Inmobiliario** (dominio futuro tipo bajioinmobiliario.mx — no configurado aquí).
+Marca: **Bajío Inmobiliario**. Publicado en <https://bajioinmobiliario.vercel.app> (`src/lib/site.ts` → `url`); cuando exista dominio propio se cambia ahí.
 
 ## Stack
 
 - Next.js (App Router) + TypeScript + Tailwind CSS v4 + ESLint
 - Contenido en JSON bajo `/content` (sin base de datos, sin autenticación, sin BaaS)
+- Fotos de referencia en `public/img/notas`, servidas con `next/image`
 - SEO: metadata por ruta, `src/app/sitemap.ts`, `src/app/robots.ts`
 - Tipografía: Playfair Display para titulares, Inter para texto
 
@@ -53,8 +54,9 @@ cp content/ediciones/2026-09-08.json content/ediciones/2026-09-09.json
 3. Escribe el `intro`, el `headline` y las 3 notas de `masNoticias`. Cada nota necesita `title`, `slug`, `summary` y `category`.
 4. Usa un `category` que exista en `content/categorias`: `industrial`, `aeroportuario`, `residencial`, `corporativo`, `tierra`.
 5. Si la nota viene de un medio, agrega `sourceUrl` y `sourceName`. Si la cifra es precio de lista, índice de portal o proyección, marca `"aproximado": true`.
-6. Opcional: si una nota merece desarrollo, crea `content/articulos/<slug>.json` con el **mismo slug** de la nota. La edición detecta el artículo y cambia el enlace de "Ver en la edición" a "Leer la nota completa". Un artículo sin nota que lo referencie también es válido: se publica como pieza de fondo y aparece en su categoría.
-7. Levanta `npm run dev`, revisa `/` y corre `npm run build` antes de desplegar.
+6. Ponle `image` a cada nota (ver [Imagen de referencia](#imagen-de-referencia)). Sin `image` la nota se publica igual, solo sin foto.
+7. Opcional: si una nota merece desarrollo, crea `content/articulos/<slug>.json` con el **mismo slug** de la nota. La edición detecta el artículo y cambia el enlace de "Ver en la edición" a "Leer la nota completa". Un artículo sin nota que lo referencie también es válido: se publica como pieza de fondo y aparece en su categoría.
+8. Levanta `npm run dev`, revisa `/` y corre `npm run build` antes de desplegar.
 
 No hace falta registrar rutas ni fechas en ningún índice: `generateStaticParams` lee `/content` en cada build.
 
@@ -83,6 +85,7 @@ Una `Nota` es:
 | `sourceUrl` | `string?` | Liga al medio original |
 | `sourceName` | `string?` | Nombre del medio |
 | `aproximado` | `boolean?` | Muestra la etiqueta "Dato aproximado" |
+| `image` | `Imagen?` | Foto de referencia. Grande en el headline, miniatura en las 3 noticias |
 
 ### Artículo — `content/articulos/<slug>.json`
 
@@ -95,10 +98,41 @@ Una `Nota` es:
 | `category` | `string` | Slug de categoría |
 | `fecha` | `string` | `YYYY-MM-DD`; liga de regreso a su edición |
 | `aproximado` | `boolean?` | Etiqueta "Dato aproximado" |
+| `image` | `Imagen?` | Foto de apertura; también se usa como imagen de Open Graph |
 | `datos` | `DatoClave[]?` | Tabla "Datos clave": `etiqueta`, `valor`, `nota?` |
 | `cuerpo` | `{ heading?, body }[]` | Bloques de texto; `heading` opcional |
 | `paraInversionistas` | `string[]?` | Caja de lectura práctica |
 | `fuentes` | `{ medio, url }[]?` | Bibliografía al pie |
+
+### Imagen de referencia
+
+Tanto `Nota` como `Articulo` aceptan un campo `image`. Es una foto **de referencia**: ilustra el tema (parque industrial, aeropuerto, vivienda, suelo, oficinas), no documenta el hecho concreto de la nota.
+
+| Campo | Tipo | Notas |
+|-------|------|-------|
+| `src` | `string` | Ruta bajo `/public`, normalmente `/img/notas/<archivo>.jpg` |
+| `alt` | `string` | Texto alternativo en español: describe lo que se ve, no repitas el titular |
+| `width` | `number` | Ancho real del archivo en px |
+| `height` | `number` | Alto real del archivo en px |
+| `credit` | `string?` | Autor y licencia, tal como se muestra al pie |
+| `creditUrl` | `string?` | Ficha original de la imagen |
+
+Dónde se ve cada variante (`src/components/ImagenNota.tsx`):
+
+| Variante | Dónde | Crédito |
+|----------|-------|---------|
+| `grande` | Headline del día en `/` y en `/edicion/[fecha]` | Al pie de la foto |
+| `media` | Apertura de `/articulo/[slug]` | Al pie de la foto |
+| `thumb` | Miniatura de cada una de las 3 noticias | En el bloque "Créditos de imagen" al final de la edición |
+
+Para agregar una foto nueva:
+
+1. Consigue una imagen con licencia que permita uso comercial (Wikimedia Commons, Unsplash, Pexels) o una propia. **No enlaces fotos de medios de noticias.**
+2. Recórtala a 3:2 y guárdala en `public/img/notas/` a 1600 × 1067 px, JPEG. Las del seed se generaron así para que todas las miniaturas y aperturas caigan en la misma proporción.
+3. Agrega el bloque `image` al JSON de la nota y, si existe, al del artículo con el mismo slug.
+4. Llena `credit` con autor y licencia (`"Autor / Wikimedia Commons (CC BY-SA 4.0)"`) y `creditUrl` con la ficha de origen. Las licencias CC BY y CC BY-SA obligan a dar crédito.
+
+Si en lugar de un archivo local quieres una URL remota, primero registra el host en `images.remotePatterns` de `next.config.ts`; `next/image` rechaza cualquier dominio no declarado.
 
 ### Categoría — `content/categorias/<slug>.json`
 
@@ -125,14 +159,16 @@ Para abrir una sección nueva basta agregar un JSON aquí: aparece en el header,
 
 Cada nota cita la fuente original con `sourceUrl` y `sourceName`. Las cifras que provienen de precios de lista, índices de portales, mapas de precio por colonia o proyecciones de consultoría están marcadas con `"aproximado": true` y se muestran con la etiqueta "Dato aproximado"; la `editorialNote` de cada edición explica el caveat.
 
+Las 8 notas y los 7 artículos del seed traen `image`. Las 10 fotos de `public/img/notas` vienen de Wikimedia Commons bajo CC BY o CC BY-SA, con el autor y la licencia en `credit` y la ficha original en `creditUrl`. Siete son de Querétaro o Guanajuato (parque industrial, terminal del AIQ, patio ferroviario, corporativo de oficinas, Juriquilla, suelo rústico en Dolores Hidalgo); las de centro de datos y nave corporativa ilustran el tipo de activo, no el proyecto que menciona la nota.
+
 Dos notas de la edición del 7 de septiembre no tienen artículo largo a propósito: sirven de ejemplo del comportamiento cuando solo existe la nota corta. Los artículos `precio-vivienda-queretaro-2026` y `precio-tierra-industrial-bajio-2026` son piezas de fondo que no pertenecen a ninguna edición: aparecen en su categoría y en el sitemap, pero no en la portada de un día.
 
 ## Notas para Vercel
 
 1. Importa el proyecto en Vercel (preset Next.js).
 2. Build command por defecto; no hay variables de entorno obligatorias.
-3. Cuando tengas el dominio, apúntalo en Vercel y actualiza `src/lib/site.ts` (`url`) para `metadataBase`, sitemap y robots.
-4. Cada deploy regenera las páginas estáticas desde `/content`.
+3. `src/lib/site.ts` (`url`) apunta a `https://bajioinmobiliario.vercel.app` y de ahí salen `metadataBase`, el sitemap y robots. Cuando tengas dominio propio, apúntalo en Vercel y cambia ese valor.
+4. Cada deploy regenera las páginas estáticas desde `/content`. Las fotos de `public/img/notas` las optimiza `next/image` en el edge, sin configuración extra.
 
 ## Aviso
 
