@@ -8,7 +8,7 @@ export function EtiquetaCategoria({ slug }: { slug: string }) {
   return (
     <Link
       href={`/categoria/${slug}`}
-      className="text-[11px] font-semibold tracking-[0.14em] text-brand uppercase hover:underline"
+      className="inline-flex items-center rounded-full bg-brand-soft px-2.5 py-1 text-[11px] font-bold tracking-[0.12em] text-brand uppercase hover:bg-brand hover:text-paper"
     >
       {categoria.nombre}
     </Link>

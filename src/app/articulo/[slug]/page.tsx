@@ -66,10 +66,12 @@ export default async function ArticuloPage({ params }: Props) {
           {articulo.aproximado && <MarcaAproximado />}
         </div>
 
-        <h1 className="font-display text-3xl leading-[1.15] font-bold text-balance text-ink sm:text-4xl">
+        <h1 className="font-display text-[2.125rem] leading-[1.1] font-bold tracking-[-0.015em] text-balance text-ink sm:text-[2.75rem]">
           {articulo.title}
         </h1>
-        <p className="text-lg leading-relaxed text-ink-soft">{articulo.dek}</p>
+        <p className="medida-lectura text-xl leading-[1.6] text-ink-soft sm:text-[1.375rem]">
+          {articulo.dek}
+        </p>
         <p className="border-t border-rule pt-3 text-xs tracking-[0.12em] text-ink-faint uppercase">
           {fechaLarga(articulo.fecha)}
         </p>
@@ -105,15 +107,15 @@ export default async function ArticuloPage({ params }: Props) {
         </section>
       )}
 
-      <div className="space-y-6">
+      <div className="space-y-8">
         {articulo.cuerpo.map((bloque, i) => (
-          <section key={bloque.heading ?? i} className="space-y-2">
+          <section key={bloque.heading ?? i} className="space-y-3">
             {bloque.heading && (
-              <h2 className="font-display text-xl font-bold text-ink">
+              <h2 className="font-display text-2xl leading-snug font-bold text-ink">
                 {bloque.heading}
               </h2>
             )}
-            <p className="text-[1.0625rem] leading-[1.75] text-ink">
+            <p className="medida-lectura leading-[1.7] text-ink">
               {bloque.body}
             </p>
           </section>
@@ -122,15 +124,15 @@ export default async function ArticuloPage({ params }: Props) {
 
       {articulo.paraInversionistas &&
         articulo.paraInversionistas.length > 0 && (
-          <section className="border-l-2 border-brand bg-paper-alt px-5 py-4">
-            <h2 className="text-[11px] font-semibold tracking-[0.16em] text-brand uppercase">
+          <section className="border-l-2 border-brand bg-paper-alt px-5 py-5 sm:px-6">
+            <h2 className="text-[11px] font-bold tracking-[0.16em] text-brand uppercase">
               Para inversionistas
             </h2>
-            <ul className="mt-3 space-y-2">
+            <ul className="medida-lectura mt-3 space-y-2.5">
               {articulo.paraInversionistas.map((punto) => (
                 <li
                   key={punto}
-                  className="flex gap-2 text-sm leading-relaxed text-ink-soft"
+                  className="flex gap-2 text-base leading-[1.65] text-ink-soft"
                 >
                   <span aria-hidden className="text-brand">
                     ·

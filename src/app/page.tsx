@@ -24,7 +24,7 @@ export default function HomePage() {
   }
 
   return (
-    <div className="space-y-12">
+    <div className="space-y-14 sm:space-y-16">
       <VistaEdicion edicion={hoy} esHoy />
 
       {anteriores.length > 0 && (
@@ -32,14 +32,14 @@ export default function HomePage() {
           <p className="filete-doble font-display text-xs font-bold tracking-[0.22em] uppercase">
             Ediciones anteriores
           </p>
-          <ul className="divide-y divide-rule">
+          <ul className="mt-2 divide-y divide-rule">
             {anteriores.slice(0, 5).map((edicion) => (
               <li key={edicion.fecha} className="py-4">
                 <Link
                   href={`/edicion/${edicion.fecha}`}
                   className="group flex flex-col gap-1 sm:flex-row sm:gap-4"
                 >
-                  <span className="shrink-0 text-xs tracking-[0.12em] text-ink-faint uppercase sm:w-28">
+                  <span className="shrink-0 text-xs font-semibold tracking-[0.12em] text-ink-faint uppercase sm:w-28 sm:pt-1">
                     {fechaCorta(edicion.fecha)}
                   </span>
                   <span className="font-medium text-ink group-hover:text-brand">
@@ -49,10 +49,10 @@ export default function HomePage() {
               </li>
             ))}
           </ul>
-          <p className="mt-4">
+          <p className="mt-5">
             <Link
               href="/archivo"
-              className="text-sm font-semibold text-brand hover:underline"
+              className="text-base font-semibold text-brand hover:underline"
             >
               Ver todo el archivo →
             </Link>
