@@ -4,9 +4,9 @@
   --color-paper: #fbf9f5;
   --color-paper-alt: #f4efe6;
   --color-ink: #1b1917;
-  --color-ink-soft: #57534e;
-  --color-ink-faint: #8a8279;
-  --color-rule: #e3dccd;
+  --color-ink-soft: #443f3a;
+  --color-ink-faint: #6b635a;
+  --color-rule: #ded5c4;
   --color-brand: #a1341f;
   --color-brand-soft: #f5e7e1;
 
@@ -18,6 +18,14 @@ body {
   background: var(--color-paper);
   color: var(--color-ink);
   font-family: var(--font-inter), system-ui, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.65;
+}
+
+@media (min-width: 640px) {
+  body {
+    font-size: 1.1875rem;
+  }
 }
 
 h1,
@@ -26,9 +34,28 @@ h3 {
   font-family: var(--font-playfair), Georgia, serif;
 }
 
+/* Deja aire bajo la cabecera fija al saltar a un ancla. */
+html {
+  scroll-padding-top: 7rem;
+}
+
 /* Doble filete de portada, como cabecera de periódico. */
 .filete-doble {
   border-top: 3px solid var(--color-ink);
   border-bottom: 1px solid var(--color-ink);
-  padding-block: 0.25rem;
+  padding-block: 0.35rem;
+}
+
+/* Medida de lectura cómoda para párrafos largos. */
+.medida-lectura {
+  max-width: 68ch;
+}
+
+/* Tira de secciones: se desliza en móvil sin mostrar la barra de scroll. */
+.barra-chips {
+  scrollbar-width: none;
+}
+
+.barra-chips::-webkit-scrollbar {
+  display: none;
 }

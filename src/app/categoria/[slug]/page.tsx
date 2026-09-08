@@ -45,10 +45,10 @@ export default async function CategoriaPage({ params }: Props) {
           </Link>{" "}
           / Categoría
         </p>
-        <h1 className="font-display text-3xl font-bold text-ink sm:text-4xl">
+        <h1 className="font-display text-[2.125rem] leading-[1.15] font-bold tracking-[-0.015em] text-ink sm:text-[2.5rem]">
           {categoria.nombre}
         </h1>
-        <p className="max-w-2xl leading-relaxed text-ink-soft">
+        <p className="medida-lectura text-lg leading-[1.65] text-ink-soft sm:text-xl">
           {categoria.descripcion}
         </p>
       </header>
@@ -75,18 +75,18 @@ export default async function CategoriaPage({ params }: Props) {
                   </span>
                 )}
                 {entrada.esHeadline && (
-                  <span className="text-[10px] font-semibold tracking-[0.1em] text-ink-faint uppercase">
+                  <span className="text-[10px] font-bold tracking-[0.1em] text-ink-faint uppercase">
                     Headline del día
                   </span>
                 )}
                 {entrada.aproximado && <MarcaAproximado />}
               </div>
-              <h2 className="mt-2 font-display text-xl leading-snug font-bold text-ink">
+              <h2 className="mt-2.5 font-display text-xl leading-snug font-bold text-ink sm:text-2xl">
                 <Link href={entrada.href} className="hover:text-brand">
                   {entrada.title}
                 </Link>
               </h2>
-              <p className="mt-2 leading-relaxed text-ink-soft">
+              <p className="medida-lectura mt-2.5 leading-[1.65] text-ink-soft">
                 {entrada.summary}
               </p>
               {entrada.sourceUrl && (
@@ -103,7 +103,7 @@ export default async function CategoriaPage({ params }: Props) {
       )}
 
       <section className="border-t border-rule pt-5">
-        <h2 className="text-[11px] font-semibold tracking-[0.16em] text-ink-faint uppercase">
+        <h2 className="text-[11px] font-bold tracking-[0.16em] text-ink-faint uppercase">
           Otras secciones
         </h2>
         <ul className="mt-3 flex flex-wrap gap-2">
@@ -111,7 +111,7 @@ export default async function CategoriaPage({ params }: Props) {
             <li key={c.slug}>
               <Link
                 href={`/categoria/${c.slug}`}
-                className="inline-block border border-rule bg-paper px-3 py-1 text-sm text-ink-soft hover:border-brand hover:text-brand"
+                className="inline-block rounded-full border border-rule bg-paper px-3 py-1 text-[11px] font-bold tracking-[0.12em] text-ink-soft uppercase hover:border-brand hover:bg-brand-soft hover:text-brand"
               >
                 {c.nombre}
               </Link>

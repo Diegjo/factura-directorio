@@ -14,39 +14,39 @@ export function MasNoticias({ notas }: { notas: NotaIndexada[] }) {
         {notas.length} noticias más
       </p>
 
-      <ol className="divide-y divide-rule">
+      <ol className="mt-6 grid gap-5 sm:gap-6">
         {notas.map((nota, i) => {
           const href = getNotaHref(nota);
           return (
-            <li key={nota.slug} className="flex gap-4 py-6 sm:gap-6">
-              <span
-                aria-hidden
-                className="font-display text-2xl leading-none font-bold text-rule"
-              >
-                {String(i + 1).padStart(2, "0")}
-              </span>
-              <div className="min-w-0">
-                <div className="flex flex-wrap items-center gap-3">
+            <li key={nota.slug}>
+              <article className="border-l-2 border-rule bg-paper-alt/50 py-4 pr-4 pl-5 transition-colors hover:border-brand hover:bg-paper-alt sm:pl-6">
+                <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
+                  <span
+                    aria-hidden
+                    className="font-display text-sm font-bold text-ink-faint"
+                  >
+                    {String(i + 1).padStart(2, "0")}
+                  </span>
                   <EtiquetaCategoria slug={nota.category} />
                   {nota.aproximado && <MarcaAproximado />}
                 </div>
-                <h3 className="mt-1.5 font-display text-xl leading-snug font-bold text-ink">
+                <h3 className="mt-2.5 font-display text-xl leading-snug font-bold text-ink sm:text-2xl">
                   <Link href={href} className="hover:text-brand">
                     {nota.title}
                   </Link>
                 </h3>
-                <p className="mt-2 leading-relaxed text-ink-soft">
+                <p className="medida-lectura mt-2.5 leading-[1.65] text-ink-soft">
                   {nota.summary}
                 </p>
                 {nota.sourceUrl && (
-                  <p className="mt-2">
+                  <p className="mt-3">
                     <EnlaceFuente
                       url={nota.sourceUrl}
                       nombre={nota.sourceName}
                     />
                   </p>
                 )}
-              </div>
+              </article>
             </li>
           );
         })}

@@ -14,12 +14,12 @@ export function VistaEdicion({ edicion, esHoy = false }: Props) {
   const [headline, ...masNoticias] = getNotasDeEdicion(edicion);
 
   return (
-    <div className="space-y-10">
+    <div className="space-y-12 sm:space-y-14">
       <header className="space-y-4">
-        <p className="text-[11px] font-semibold tracking-[0.18em] text-ink-faint uppercase">
+        <p className="text-xs font-semibold tracking-[0.2em] text-ink-faint uppercase">
           {esHoy ? "Edición de hoy" : "Edición"} · {fechaLarga(edicion.fecha)}
         </p>
-        <p className="font-display text-xl leading-relaxed text-ink sm:text-2xl">
+        <p className="medida-lectura font-display text-[1.375rem] leading-[1.5] text-ink sm:text-[1.625rem]">
           {edicion.intro}
         </p>
       </header>
@@ -29,11 +29,11 @@ export function VistaEdicion({ edicion, esHoy = false }: Props) {
       <MasNoticias notas={masNoticias} />
 
       {edicion.editorialNote && (
-        <aside className="border-l-2 border-brand bg-paper-alt px-5 py-4">
-          <p className="text-[11px] font-semibold tracking-[0.16em] text-brand uppercase">
+        <aside className="border-l-2 border-brand bg-paper-alt px-5 py-5 sm:px-6">
+          <p className="text-[11px] font-bold tracking-[0.16em] text-brand uppercase">
             Nota del editor
           </p>
-          <p className="mt-2 text-sm leading-relaxed text-ink-soft">
+          <p className="medida-lectura mt-2.5 text-base leading-[1.65] text-ink-soft">
             {edicion.editorialNote}
           </p>
         </aside>
