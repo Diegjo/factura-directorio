@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import type { Imagen } from "@/lib/types";
 
 /**
@@ -7,15 +8,36 @@ import type { Imagen } from "@/lib/types";
  */
 type Variante = "grande" | "media" | "thumb";
 
-const variantes: Record<Variante, { sizes: string; priority: boolean }> = {
-  grande: { sizes: "(min-width: 640px) 704px, 100vw", priority: true },
-  media: { sizes: "(min-width: 640px) 704px, 100vw", priority: true },
-  thumb: { sizes: "(min-width: 640px) 176px, 100vw", priority: false },
+const marco = "w-full border border-rule bg-paper-alt";
+
+const variantes: Record<
+  Variante,
+  { sizes: string; priority: boolean; className: string }
+> = {
+  grande: {
+    sizes: "(min-width: 640px) 704px, 100vw",
+    priority: true,
+    className: `${marco} h-auto`,
+  },
+  media: {
+    sizes: "(min-width: 640px) 704px, 100vw",
+    priority: true,
+    className: `${marco} h-auto`,
+  },
+  // Recorta a 3:2 para que las tres miniaturas midan lo mismo aunque el
+  // archivo venga con otra proporción.
+  thumb: {
+    sizes: "(min-width: 640px) 176px, 100vw",
+    priority: false,
+    className: `${marco} aspect-3/2 object-cover`,
+  },
 };
 
 type Props = {
   imagen: Imagen;
   variante?: Variante;
+  /** Ruta de lectura de la nota. Enlaza la foto, nunca el pie. */
+  href?: string;
   /** Los `thumb` acreditan en el bloque "Créditos de imagen" de la edición. */
   mostrarCredito?: boolean;
 };
@@ -23,21 +45,34 @@ type Props = {
 export function ImagenNota({
   imagen,
   variante = "media",
+  href,
   mostrarCredito = variante !== "thumb",
 }: Props) {
-  const { sizes, priority } = variantes[variante];
+  const { sizes, priority, className } = variantes[variante];
+
+  const foto = (
+    <Image
+      src={imagen.src}
+      alt={imagen.alt}
+      width={imagen.width}
+      height={imagen.height}
+      sizes={sizes}
+      priority={priority}
+      className={className}
+    />
+  );
 
   return (
     <figure>
-      <Image
-        src={imagen.src}
-        alt={imagen.alt}
-        width={imagen.width}
-        height={imagen.height}
-        sizes={sizes}
-        priority={priority}
-        className="h-auto w-full border border-rule bg-paper-alt object-cover"
-      />
+      {/* El pie lleva su propia liga al crédito: no puede quedar dentro de la
+          liga de la nota. */}
+      {href ? (
+        <Link href={href} className="block">
+          {foto}
+        </Link>
+      ) : (
+        foto
+      )}
       {mostrarCredito && imagen.credit && (
         <figcaption className="mt-2 text-[11px] leading-snug text-ink-faint">
           Foto:{" "}

@@ -18,9 +18,9 @@ export function HeadlineDelDia({ nota }: { nota: NotaIndexada }) {
 
       <article className="pt-6">
         {nota.image && (
-          <Link href={href} className="mb-5 block">
-            <ImagenNota imagen={nota.image} variante="grande" />
-          </Link>
+          <div className="mb-5">
+            <ImagenNota imagen={nota.image} variante="grande" href={href} />
+          </div>
         )}
 
         <div className="flex flex-wrap items-center gap-x-3 gap-y-2">

@@ -22,9 +22,13 @@ export function MasNoticias({ notas }: { notas: NotaIndexada[] }) {
             <li key={nota.slug}>
               <article className="flex flex-col gap-4 border-l-2 border-rule bg-paper-alt/50 py-4 pr-4 pl-5 transition-colors hover:border-brand hover:bg-paper-alt sm:flex-row sm:gap-5 sm:pl-6">
                 {nota.image && (
-                  <Link href={href} className="block shrink-0 sm:w-44">
-                    <ImagenNota imagen={nota.image} variante="thumb" />
-                  </Link>
+                  <div className="shrink-0 sm:w-44">
+                    <ImagenNota
+                      imagen={nota.image}
+                      variante="thumb"
+                      href={href}
+                    />
+                  </div>
                 )}
                 <div className="min-w-0">
                   <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
