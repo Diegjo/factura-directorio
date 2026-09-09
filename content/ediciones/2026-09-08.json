@@ -1,14 +1,13 @@
 {
   "fecha": "2026-09-08",
-  "intro": "Querétaro entró a la fase incómoda del ciclo industrial: la vacancia se agotó, las rentas suben y la obra nueva no alcanza a reponer el inventario que se coloca. Hoy: cuánto cuesta ya la nave Clase A, los 8,131 millones de pesos que entraron en el primer trimestre, la segunda terminal del AIQ y lo que el tren a la Ciudad de México le está haciendo al precio del suelo.",
+  "intro": "La oferta industrial de Querétaro ya está arriba, pero la pala se detuvo: el inventario toca 8.8 millones de m² mientras la construcción cae 40%. Hoy: quién absorbe en el corredor del AIQ, cuánto cuesta ya comprar o rentar vivienda, y el parque de 56.5 mdd que San Luis Potosí suma al mapa del Bajío.",
   "headline": {
-    "title": "Industria en Querétaro: la vacancia baja a 4.8% y la renta Clase A se acerca a 6.75 dólares por m²",
-    "slug": "industrial-queretaro-vacancia-rentas-1t-2026",
-    "summary": "La absorción del primer trimestre de 2026 llegó a unos 287 mil m² y dejó la vacancia estatal alrededor de 4.8%, contra 3.5% en el Bajío y menos de 3% en Clase A. Con rentas cercanas a 6 dólares por m² al mes —hasta 6.75 en producto Clase A— y obra nueva desacelerada, el sector anticipa incrementos de 5% a 10% este año.",
+    "title": "Inventario industrial de Querétaro llega a 8.8 millones de m², pero la construcción cae 40%",
+    "slug": "inventario-industrial-queretaro-8-8-millones-construccion-cae",
+    "summary": "Solili reporta que en julio de 2026 el inventario estatal alcanzó 8.8 millones de m² tras sumar más de 400 mil m² en 12 meses (cerca de 8% del inventario nacional). Los corredores México–Querétaro (32%), Querétaro–San Luis Potosí (30%) y Aeropuerto (29%) concentran 91% de esa oferta, mientras los inicios de obra industrial bajaron 40% anual.",
     "category": "industrial",
-    "sourceUrl": "https://www.liderempresarial.com/parques-industriales-queretaro-presion-demanda-rentas-2026/",
-    "sourceName": "Líder Empresarial",
-    "aproximado": true,
+    "sourceUrl": "https://centrourbano.com/revista/inmobiliario/queretaro-expande-inventario-industrial-frena-nuevos-proyectos/",
+    "sourceName": "Centro Urbano",
     "image": {
       "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
       "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
@@ -20,28 +19,12 @@
   },
   "masNoticias": [
     {
-      "title": "Diez proyectos por 8,131 millones de pesos y 3,479 empleos: así cerró el primer trimestre",
-      "slug": "cartera-inversiones-queretaro-1t-2026",
-      "summary": "SEDESU reporta 10 proyectos concretados al cierre del 1T 2026, con capital de Alemania, Canadá, España, Estados Unidos y Francia en los rubros aeronáutico, automotriz, energético y de alimentos. Destacan Costco en Corregidora con 100 millones de dólares y 360 empleos, y la planta de la alemana Phoenix Contact para componentes de automatización industrial.",
-      "category": "corporativo",
-      "sourceUrl": "https://www.liderempresarial.com/como-crece-la-cartera-de-inversiones-en-queretaro-en-2026/",
-      "sourceName": "Líder Empresarial",
-      "image": {
-        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
-        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
-        "width": 1600,
-        "height": 1067,
-        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
-        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
-      }
-    },
-    {
-      "title": "La segunda terminal del AIQ operará antes de octubre de 2027 con 1,500 mdp de inversión",
-      "slug": "segunda-terminal-aiq-ciudad-aeropuerto-2027",
-      "summary": "El nuevo edificio agregará capacidad para hasta cuatro millones de pasajeros y forma parte del complejo Ciudad Aeropuerto, que suma una nueva zona comercial e industrial, un hotel ejecutivo de 80 habitaciones y siete parques industriales. El esquema declarado por Sedesu es de renta de superficie: el desarrollador construye sobre suelo arrendado.",
+      "title": "Corredor Aeropuerto lideró la absorción industrial de Querétaro en el 2T con 160 mil m²",
+      "slug": "corredor-aeropuerto-absorcion-industrial-2t-2026",
+      "summary": "Datoz señala que el corredor Aeropuerto impulsó la absorción bruta a 160 mil m² en el segundo trimestre de 2026, el nivel más alto del último año. Parques como el Parque Industrial Aeropuerto (PIA), a minutos del AIQ y de la carretera 57, concentran naves listas y build-to-suit desde unos 4 mil m².",
       "category": "aeroportuario",
-      "sourceUrl": "https://extraqueretaro.com/segunda-terminal-del-aeropuerto-internacional-de-queretaro-operara-en-2027/",
-      "sourceName": "Extra Querétaro",
+      "sourceUrl": "https://www.datoz.com/2026/07/23/parque-industrial-aeropuerto-pia/",
+      "sourceName": "Datoz",
       "aproximado": true,
       "image": {
         "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
@@ -53,22 +36,39 @@
       }
     },
     {
-      "title": "El tren México–Querétaro ya mueve el suelo en El Marqués, Corregidora y San Juan del Río",
-      "slug": "tren-mexico-queretaro-plusvalia-suelo",
-      "summary": "El proyecto no opera todavía y el mercado ya se movió: consultores estiman plusvalías de 100% a 200% en terrenos cercanos a estaciones. El Marqués y San Juan del Río concentran la expectativa por vocación industrial y ubicación intermedia, mientras el m² premium en Juriquilla se ubica en un rango aproximado de 12 a 16 mil pesos.",
+      "title": "Vivienda en Querétaro: comprar a 29,851 pesos por m² y rentar a 11,601 pesos al mes",
+      "slug": "vivienda-queretaro-precios-compra-renta-junio-2026",
+      "summary": "El Index Inmuebles24 a junio de 2026 ubica el precio promedio de venta en 29,851 pesos por m² (+7% en dos años) y la renta promedio en 11,601 pesos mensuales (+4%). Cayetano Rubio lidera venta cerca de 36,492 pesos por m²; Carrillo Puerto y Corregidora siguen con rentas promedio por debajo de 10 mil pesos.",
+      "category": "residencial",
+      "sourceUrl": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51302-vivienda-en-queretaro-cuanto-cuesta-comprar-y-rentar-en-2026",
+      "sourceName": "Real Estate Market",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    },
+    {
+      "title": "San Luis Potosí suma el WTC Industrial Park 3 con 56.5 mdd y casi 94 hectáreas",
+      "slug": "wtc-industrial-park-3-san-luis-potosi-56-5-mdd",
+      "summary": "El Parque Industrial World Trade Center 3 en Villa de Pozos aparece entre los proyectos industriales de 2026 del mapeo de Cluster Industrial B2B, con inversión estimada de 56.5 millones de dólares. Son 93.8 hectáreas totales (unas 80 industriales), lotes desde una hectárea y acceso a la federal 70 y al libramiento Oriente.",
       "category": "tierra",
-      "sourceUrl": "https://www.liderempresarial.com/tren-mexico-queretaro-impacto-inmobiliario-queretaro-2026/",
+      "sourceUrl": "https://www.liderempresarial.com/con-una-inversion-de-56-5-mdd-slp-destaca-entre-los-proyectos-industriales-de-2026/",
       "sourceName": "Líder Empresarial",
       "aproximado": true,
       "image": {
-        "src": "/img/notas/patio-ferroviario-queretaro.jpg",
-        "alt": "Vista aérea del patio de maniobras del ferrocarril en la ciudad de Querétaro, con la mancha urbana a los costados de las vías.",
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
         "width": 1600,
         "height": 1067,
-        "credit": "ViajanteVerde / Wikimedia Commons (CC BY-SA 4.0)",
-        "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_antiguo_patio_de_maniobras_de_la_Estaci%C3%B3n_del_Ferrocarril_en_Quer%C3%A9taro_01.png"
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
       }
     }
   ],
-  "editorialNote": "Las rentas industriales en dólares, los precios por m² por colonia y las plusvalías proyectadas por el tren son estimaciones de consultores y plataformas de datos, no operaciones cerradas ni avalúos. Úsalas para dimensionar el rango de negociación y confirma cada cifra con la fuente original antes de comprometer capital."
+  "editorialNote": "Inventario, absorción y precios de vivienda/renta vienen de Solili, Datoz e Inmuebles24 vía medios. Son promedios de mercado, no transacciones cerradas. Confirma la cifra y la fecha del reporte con la fuente antes de negociar."
 }
