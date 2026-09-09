@@ -59,3 +59,26 @@ html {
 .barra-chips::-webkit-scrollbar {
   display: none;
 }
+
+/* Dark mode: papel cálido oscuro, tinta clara, marca legible. */
+html.dark {
+  --color-paper: #161411;
+  --color-paper-alt: #1f1b17;
+  --color-ink: #f3eee6;
+  --color-ink-soft: #c9c0b4;
+  --color-ink-faint: #9a9084;
+  --color-rule: #3a342c;
+  --color-brand: #e07a5f;
+  --color-brand-soft: #3a221c;
+  color-scheme: dark;
+}
+
+html.dark body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+
+html.dark .filete-doble {
+  border-top-color: var(--color-ink);
+  border-bottom-color: var(--color-ink);
+}

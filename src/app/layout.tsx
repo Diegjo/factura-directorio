@@ -38,6 +38,8 @@ export const metadata: Metadata = {
   },
 };
 
+const themeInitScript = `(function(){try{var k='bajio-theme';var s=localStorage.getItem(k);var d=s==='dark'||(s!=='light'&&window.matchMedia('(prefers-color-scheme: dark)').matches);if(d)document.documentElement.classList.add('dark');}catch(e){}})();`;
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -46,9 +48,13 @@ export default function RootLayout({
   return (
     <html
       lang="es-MX"
+      suppressHydrationWarning
       className={`${inter.variable} ${playfair.variable} h-full antialiased`}
     >
-      <body className="flex min-h-full flex-col">
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
+      </head>
+      <body className="flex min-h-full flex-col bg-paper text-ink">
         <Header />
         <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-10 sm:px-6 sm:py-14">
           {children}
