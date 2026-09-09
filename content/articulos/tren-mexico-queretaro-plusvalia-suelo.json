@@ -6,6 +6,14 @@
   "category": "tierra",
   "fecha": "2026-09-08",
   "aproximado": true,
+  "image": {
+    "src": "/img/notas/patio-ferroviario-queretaro.jpg",
+    "alt": "Vista aérea del patio de maniobras del ferrocarril en la ciudad de Querétaro, con la mancha urbana a los costados de las vías.",
+    "width": 1600,
+    "height": 1067,
+    "credit": "ViajanteVerde / Wikimedia Commons (CC BY-SA 4.0)",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_antiguo_patio_de_maniobras_de_la_Estaci%C3%B3n_del_Ferrocarril_en_Quer%C3%A9taro_01.png"
+  },
   "datos": [
     {
       "etiqueta": "Trazo del proyecto",

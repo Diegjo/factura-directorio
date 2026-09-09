@@ -11,6 +11,21 @@ export type Fuente = {
   url: string;
 };
 
+/** Imagen de referencia de una nota o de un artículo. */
+export type Imagen = {
+  /** Ruta bajo `/public` (recomendado) o URL remota permitida en `next.config.ts`. */
+  src: string;
+  /** Texto alternativo en español: describe lo que se ve, no el titular. */
+  alt: string;
+  /** Dimensiones del archivo. `next/image` las necesita para reservar el espacio. */
+  width: number;
+  height: number;
+  /** Autor y licencia, como debe aparecer al pie de la foto. */
+  credit?: string;
+  /** Ficha original de la imagen. */
+  creditUrl?: string;
+};
+
 /** Nota corta tal como aparece en una edición diaria. */
 export type Nota = {
   title: string;
@@ -22,6 +37,8 @@ export type Nota = {
   sourceName?: string;
   /** Marca cifras estimadas, listados o proyecciones sin confirmar. */
   aproximado?: boolean;
+  /** Foto de referencia. Si falta, la nota se publica sin imagen. */
+  image?: Imagen;
 };
 
 export type Edicion = {
@@ -49,6 +66,8 @@ export type Articulo = {
   category: string;
   fecha: string;
   aproximado?: boolean;
+  /** Foto de apertura. Si falta, el artículo se publica sin imagen. */
+  image?: Imagen;
   datos?: DatoClave[];
   cuerpo: { heading?: string; body: string }[];
   /** Lectura para inversionistas: qué implica la nota. */

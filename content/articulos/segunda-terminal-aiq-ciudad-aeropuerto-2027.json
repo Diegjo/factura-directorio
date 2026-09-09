@@ -6,6 +6,14 @@
   "category": "aeroportuario",
   "fecha": "2026-09-08",
   "aproximado": true,
+  "image": {
+    "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+    "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+  },
   "datos": [
     {
       "etiqueta": "Inicio de operación",

@@ -8,7 +8,15 @@
     "category": "industrial",
     "sourceUrl": "https://www.liderempresarial.com/parques-industriales-queretaro-presion-demanda-rentas-2026/",
     "sourceName": "Líder Empresarial",
-    "aproximado": true
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
   },
   "masNoticias": [
     {
@@ -17,7 +25,15 @@
       "summary": "SEDESU reporta 10 proyectos concretados al cierre del 1T 2026, con capital de Alemania, Canadá, España, Estados Unidos y Francia en los rubros aeronáutico, automotriz, energético y de alimentos. Destacan Costco en Corregidora con 100 millones de dólares y 360 empleos, y la planta de la alemana Phoenix Contact para componentes de automatización industrial.",
       "category": "corporativo",
       "sourceUrl": "https://www.liderempresarial.com/como-crece-la-cartera-de-inversiones-en-queretaro-en-2026/",
-      "sourceName": "Líder Empresarial"
+      "sourceName": "Líder Empresarial",
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
     },
     {
       "title": "La segunda terminal del AIQ operará antes de octubre de 2027 con 1,500 mdp de inversión",
@@ -26,7 +42,15 @@
       "category": "aeroportuario",
       "sourceUrl": "https://extraqueretaro.com/segunda-terminal-del-aeropuerto-internacional-de-queretaro-operara-en-2027/",
       "sourceName": "Extra Querétaro",
-      "aproximado": true
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
     },
     {
       "title": "El tren México–Querétaro ya mueve el suelo en El Marqués, Corregidora y San Juan del Río",
@@ -35,7 +59,15 @@
       "category": "tierra",
       "sourceUrl": "https://www.liderempresarial.com/tren-mexico-queretaro-impacto-inmobiliario-queretaro-2026/",
       "sourceName": "Líder Empresarial",
-      "aproximado": true
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/patio-ferroviario-queretaro.jpg",
+        "alt": "Vista aérea del patio de maniobras del ferrocarril en la ciudad de Querétaro, con la mancha urbana a los costados de las vías.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ViajanteVerde / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_antiguo_patio_de_maniobras_de_la_Estaci%C3%B3n_del_Ferrocarril_en_Quer%C3%A9taro_01.png"
+      }
     }
   ],
   "editorialNote": "Las rentas industriales en dólares, los precios por m² por colonia y las plusvalías proyectadas por el tren son estimaciones de consultores y plataformas de datos, no operaciones cerradas ni avalúos. Úsalas para dimensionar el rango de negociación y confirma cada cifra con la fuente original antes de comprometer capital."

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { EtiquetaCategoria } from "@/components/EtiquetaCategoria";
+import { ImagenNota } from "@/components/ImagenNota";
 import { MarcaAproximado } from "@/components/MarcaAproximado";
 import {
   getAllArticulos,
@@ -31,6 +32,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: articulo.summary,
       type: "article",
       publishedTime: articulo.fecha,
+      images: articulo.image
+        ? [
+            {
+              url: articulo.image.src,
+              width: articulo.image.width,
+              height: articulo.image.height,
+              alt: articulo.image.alt,
+            },
+          ]
+        : undefined,
     },
   };
 }
@@ -79,6 +90,8 @@ export default async function ArticuloPage({ params }: Props) {
           {articulo.dek}
         </p>
       </header>
+
+      {articulo.image && <ImagenNota imagen={articulo.image} />}
 
       {articulo.datos && articulo.datos.length > 0 && (
         <section className="border border-rule bg-paper-alt px-5 py-4">

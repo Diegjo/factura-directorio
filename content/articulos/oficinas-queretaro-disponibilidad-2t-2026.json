@@ -6,6 +6,14 @@
   "category": "corporativo",
   "fecha": "2026-09-07",
   "aproximado": true,
+  "image": {
+    "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+    "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+  },
   "datos": [
     {
       "etiqueta": "Absorción neta acumulada",

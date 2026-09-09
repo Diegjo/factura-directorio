@@ -5,5 +5,6 @@ export const siteConfig = {
   description:
     "Revista digital diaria de bienes raíces en Querétaro y El Bajío: precios, tierra, nuevas empresas y demanda de espacio industrial, aeroportuario, residencial y corporativo.",
   locale: "es-MX",
-  url: "https://bajioinmobiliario.mx",
+  /** Host publicado hoy. Cámbialo al dominio propio cuando esté apuntado. */
+  url: "https://bajioinmobiliario.vercel.app",
 };
