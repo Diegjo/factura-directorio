@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getAllCategorias } from "@/lib/content";
 import { siteConfig } from "@/lib/site";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 export function Header() {
   const categorias = getAllCategorias();
@@ -17,23 +18,26 @@ export function Header() {
               Querétaro · El Bajío
             </p>
           </Link>
-          <nav
-            aria-label="Navegación principal"
-            className="flex shrink-0 items-center gap-1 text-sm font-semibold"
-          >
-            <Link
-              href="/"
-              className="rounded-full px-3 py-1.5 text-ink-soft hover:bg-brand-soft hover:text-brand"
+          <div className="flex shrink-0 items-center gap-1">
+            <nav
+              aria-label="Navegación principal"
+              className="flex items-center gap-1 text-sm font-semibold"
             >
-              Hoy
-            </Link>
-            <Link
-              href="/archivo"
-              className="rounded-full px-3 py-1.5 text-ink-soft hover:bg-brand-soft hover:text-brand"
-            >
-              Archivo
-            </Link>
-          </nav>
+              <Link
+                href="/"
+                className="rounded-full px-3 py-1.5 text-ink-soft hover:bg-brand-soft hover:text-brand"
+              >
+                Hoy
+              </Link>
+              <Link
+                href="/archivo"
+                className="rounded-full px-3 py-1.5 text-ink-soft hover:bg-brand-soft hover:text-brand"
+              >
+                Archivo
+              </Link>
+            </nav>
+            <ThemeToggle />
+          </div>
         </div>
       </div>
 
