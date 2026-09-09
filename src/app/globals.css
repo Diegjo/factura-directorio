@@ -1,22 +1,55 @@
 @import "tailwindcss";
 
+/* Modo oscuro por clase en <html>, no por preferencia del sistema:
+   el toggle manda y la preferencia solo decide el valor inicial. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Los colores del tema apuntan a variables en tiempo de ejecución, no a
+   valores fijos: así `bg-paper`, `text-ink`, etc. cambian con la cascada
+   cuando <html> lleva la clase `dark`. */
 @theme inline {
-  --color-paper: #fbf9f5;
-  --color-paper-alt: #f4efe6;
-  --color-ink: #1b1917;
-  --color-ink-soft: #443f3a;
-  --color-ink-faint: #6b635a;
-  --color-rule: #ded5c4;
-  --color-brand: #a1341f;
-  --color-brand-soft: #f5e7e1;
+  --color-paper: var(--paper);
+  --color-paper-alt: var(--paper-alt);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-faint: var(--ink-faint);
+  --color-rule: var(--rule);
+  --color-brand: var(--brand);
+  --color-brand-soft: var(--brand-soft);
 
   --font-sans: var(--font-inter);
   --font-display: var(--font-playfair);
 }
 
+/* Papel cálido, tinta oscura. */
+:root {
+  --paper: #fbf9f5;
+  --paper-alt: #f4efe6;
+  --ink: #1b1917;
+  --ink-soft: #443f3a;
+  --ink-faint: #6b635a;
+  --rule: #ded5c4;
+  --brand: #a1341f;
+  --brand-soft: #f5e7e1;
+  color-scheme: light;
+}
+
+/* Dark mode: papel cálido oscuro, tinta clara, marca legible. */
+html.dark {
+  --paper: #161411;
+  --paper-alt: #1f1b17;
+  --ink: #f3eee6;
+  --ink-soft: #c9c0b4;
+  --ink-faint: #9a9084;
+  --rule: #3a342c;
+  --brand: #e07a5f;
+  --brand-soft: #3a221c;
+  color-scheme: dark;
+}
+
 body {
-  background: var(--color-paper);
-  color: var(--color-ink);
+  background: var(--paper);
+  color: var(--ink);
   font-family: var(--font-inter), system-ui, sans-serif;
   font-size: 1.125rem;
   line-height: 1.65;
@@ -41,8 +74,8 @@ html {
 
 /* Doble filete de portada, como cabecera de periódico. */
 .filete-doble {
-  border-top: 3px solid var(--color-ink);
-  border-bottom: 1px solid var(--color-ink);
+  border-top: 3px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
   padding-block: 0.35rem;
 }
 
@@ -58,27 +91,4 @@ html {
 
 .barra-chips::-webkit-scrollbar {
   display: none;
-}
-
-/* Dark mode: papel cálido oscuro, tinta clara, marca legible. */
-html.dark {
-  --color-paper: #161411;
-  --color-paper-alt: #1f1b17;
-  --color-ink: #f3eee6;
-  --color-ink-soft: #c9c0b4;
-  --color-ink-faint: #9a9084;
-  --color-rule: #3a342c;
-  --color-brand: #e07a5f;
-  --color-brand-soft: #3a221c;
-  color-scheme: dark;
-}
-
-html.dark body {
-  background: var(--color-paper);
-  color: var(--color-ink);
-}
-
-html.dark .filete-doble {
-  border-top-color: var(--color-ink);
-  border-bottom-color: var(--color-ink);
 }
