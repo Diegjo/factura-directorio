@@ -1,87 +1,43 @@
 "use client";
 
-import { useEffect, useState } from "react";
-
 const STORAGE_KEY = "bajio-theme";
 
-type Theme = "light" | "dark";
-
-function applyTheme(theme: Theme) {
-  const root = document.documentElement;
-  if (theme === "dark") {
-    root.classList.add("dark");
-  } else {
-    root.classList.remove("dark");
-  }
-}
-
-function readPreferredTheme(): Theme {
-  try {
-    const stored = localStorage.getItem(STORAGE_KEY);
-    if (stored === "dark" || stored === "light") return stored;
-  } catch {
-    /* ignore */
-  }
-  if (
-    typeof window !== "undefined" &&
-    window.matchMedia("(prefers-color-scheme: dark)").matches
-  ) {
-    return "dark";
-  }
-  return "light";
-}
-
+/**
+ * El tema vive en la clase `dark` de <html>, que el script de arranque de
+ * `layout.tsx` aplica antes de pintar. El botón solo la voltea y guarda la
+ * elección; el icono y la etiqueta salen de esa misma clase vía CSS, así que
+ * no hay estado que hidratar ni parpadeo mientras carga el JS.
+ */
 export function ThemeToggle() {
-  const [theme, setTheme] = useState<Theme>("light");
-  const [ready, setReady] = useState(false);
-
-  useEffect(() => {
-    const initial = readPreferredTheme();
-    setTheme(initial);
-    applyTheme(initial);
-    setReady(true);
-  }, []);
-
   function toggle() {
-    const next: Theme = theme === "dark" ? "light" : "dark";
-    setTheme(next);
-    applyTheme(next);
+    const root = document.documentElement;
+    const dark = root.classList.toggle("dark");
     try {
-      localStorage.setItem(STORAGE_KEY, next);
+      localStorage.setItem(STORAGE_KEY, dark ? "dark" : "light");
     } catch {
-      /* ignore */
+      /* Modo privado o storage bloqueado: el tema dura la sesión. */
     }
   }
-
-  const isDark = theme === "dark";
-  const label = isDark ? "Activar modo claro" : "Activar modo oscuro";
 
   return (
     <button
       type="button"
       onClick={toggle}
-      aria-label={label}
-      title={label}
       className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-rule bg-paper text-ink-soft hover:border-brand hover:bg-brand-soft hover:text-brand"
     >
-      {ready ? (
-        isDark ? (
-          <SunIcon />
-        ) : (
-          <MoonIcon />
-        )
-      ) : (
-        <span className="h-4 w-4" aria-hidden />
-      )}
+      <span className="sr-only inline dark:hidden">Activar modo oscuro</span>
+      <span className="sr-only hidden dark:inline">Activar modo claro</span>
+      <MoonIcon className="block h-4 w-4 dark:hidden" />
+      <SunIcon className="hidden h-4 w-4 dark:block" />
     </button>
   );
 }
 
-function MoonIcon() {
+function MoonIcon({ className }: { className?: string }) {
   return (
     <svg
       viewBox="0 0 24 24"
-      className="h-4 w-4"
+      className={className}
       fill="none"
       stroke="currentColor"
       strokeWidth="1.8"
@@ -96,11 +52,11 @@ function MoonIcon() {
   );
 }
 
-function SunIcon() {
+function SunIcon({ className }: { className?: string }) {
   return (
     <svg
       viewBox="0 0 24 24"
-      className="h-4 w-4"
+      className={className}
       fill="none"
       stroke="currentColor"
       strokeWidth="1.8"
