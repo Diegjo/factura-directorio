@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-09-09",
+  "intro": "El capital digital sigue marcando el mapa: KIO pone sobre la mesa hasta 1,300 mdd para QRO3, Colón suma dos parques junto al AIQ, Querétaro lidera precios de vivienda en el Bajío y Sedesu ya habla de cuatro parques industriales en puerta con una cartera de casi 75 mil mdp.",
+  "headline": {
+    "title": "KIO evalúa hasta 1,300 mdd para QRO3: un campus de ~100 MW en Querétaro hacia 2030",
+    "slug": "kio-qro3-1300-mdd-100-mw-queretaro",
+    "summary": "KIO Data Centers evalúa una inversión potencial de hasta 1,300 millones de dólares hacia 2030 para desarrollar QRO3 en el Parque Industrial El Marqués, con capacidad aproximada de 100 MW. QRO2 ya cerró fases 2 y 3 con ~170 mdd acumulados; en 2026 la firma destina más de 200 mdd a proyectos en CDMX, Monterrey y Querétaro. La cifra de QRO3 sigue siendo potencial: sin fecha de obra ni contrato de energía anunciados.",
+    "category": "corporativo",
+    "sourceUrl": "https://www.eleconomista.com.mx/estados/kio-data-centers-alista-plan-expansion-queretaro-20260813-828168.html",
+    "sourceName": "El Economista",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/centro-de-datos-racks.jpg",
+      "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Colón alista Aeropark II y un segundo parque a minutos del AIQ para el 2S 2026",
+      "slug": "colon-aeropark-ii-dos-parques-aiq-2s-2026",
+      "summary": "El municipio de Colón ya opera 17 parques industriales cerca del Aeropuerto Intercontinental de Querétaro (aeroespacial, automotriz y logística). El presidente municipal Gaspar Trueba confirmó que en el segundo semestre de 2026 se consolidan Aeropark II y otro desarrollo junto a la terminal, dentro del pipeline de parques aprobados en 2023 y 2024 por Sedesu.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://moneyqueretaro.mx/economia/en-breve-dos-nuevos-parques-industriales-en-colon/",
+      "sourceName": "Money Querétaro",
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Querétaro es el mercado más caro del Bajío: casa nueva ~2.66 mdp y depa ~3.10 mdp",
+      "slug": "queretaro-vivienda-mas-cara-bajio-tinsa-2026",
+      "summary": "Según Tinsa by Accumin, en vivienda nueva Querétaro lidera el Bajío con precios promedio de ~2,662,600 pesos en casas y ~3,100,800 en departamentos. En usada: ~2,575,217 (casas) y ~1,707,024 (departamentos). Celaya queda en el extremo más accesible. El segmento Medio concentra 64% de la colocación de vivienda nueva en la región.",
+      "category": "residencial",
+      "sourceUrl": "https://inmobiliareconnect.com/noticias/tendencias-bajio-marcaran-oferta-demanda-inmobiliaria-2026/",
+      "sourceName": "Inmobiliare Connect",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    },
+    {
+      "title": "Sedesu: cuatro parques industriales en puerta y cartera 2026 de ~74,877 mdp",
+      "slug": "sedesu-cuatro-parques-cartera-74877-mdp-2026",
+      "summary": "Marco Antonio del Prete (Sedesu) reportó cuatro parques industriales en distintas etapas: dos en San Juan del Río y varios en Colón (incluye un proyecto de ~150 hectáreas aún sin desarrollar). Querétaro cerró 2025 con 46 proyectos anunciados para 2026, por cerca de 74,877 millones de pesos y 12,734 empleos en aeronáutica, automotriz, TI, médico y energético.",
+      "category": "tierra",
+      "sourceUrl": "https://industrialmapsmx.com/queretaro-impulsa-expansion-industrial-con-cuatro-parques-industriales-en-puerta/",
+      "sourceName": "Industrial Maps MX",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/tierra-plana-bajio-cultivo.jpg",
+        "alt": "Terreno agrícola plano en el Bajío, con surcos abiertos y cerros bajos en el horizonte.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Cultivo_(Dolores_Hidalgo,_Gto.)_III.jpg"
+      }
+    }
+  ],
+  "editorialNote": "QRO3 es inversión potencial (sin calendario ni energía asegurada publicados). Precios de vivienda Tinsa son promedios de zona metropolitana, no transacciones cerradas. Cifras Sedesu/Industrial Maps son cartera anunciada; verifica estado real del proyecto antes de negociar suelo o naves."
+}
