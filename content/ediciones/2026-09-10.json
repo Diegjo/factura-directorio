@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-09-10",
+  "intro": "La demanda industrial sigue firme aunque la pala se frena: Querétaro absorbió 1.37 millones de pies² en el 1S 2026. Hoy: la zona comercial de Ciudad Aeropuerto, el mapa de precios por colonia y el Encuentro Industrial que busca cerrar negocios, no solo asistentes.",
+  "headline": {
+    "title": "Querétaro absorbe 1.37 millones de pies² industriales en el 1S 2026; vacancia 3.59%",
+    "slug": "queretaro-absorcion-industrial-1-37-mdpies-1s-2026",
+    "summary": "Market Analysis reporta 12 transacciones y absorción bruta de 1.37 millones de pies cuadrados (~127 mil m²) en Querétaro durante el primer semestre de 2026: segundo mercado del Bajío, solo detrás de Guadalajara. Vacancia al 3.59% con ~2.90 millones de pies² disponibles (33% de la disponibilidad regional). El 93% del espacio absorbido fue a manufactura, sobre todo automotriz. Hay ~1.82 millones de pies² especulativos en obra (Airport y El Marqués) y rentas estables cerca de 0.49–0.55 dólares por pie² al mes desde finales de 2024.",
+    "category": "industrial",
+    "sourceUrl": "https://www.marketanalysis.mx/queretaro-concentro-33-de-la-disponibilidad-de-espacios-en-el-bajio/",
+    "sourceName": "Market Analysis",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Ciudad Aeropuerto avanza con una nueva zona comercial e industrial junto al AIQ",
+      "slug": "ciudad-aeropuerto-zona-comercial-industrial-aiq",
+      "summary": "Autoridades y desarrolladores impulsan junto al Aeropuerto Internacional de Querétaro una zona mixta con espacios corporativos, logística, hotelera y comercio para servir a la terminal y a los parques adyacentes. El esquema busca atraer inversión privada al Bajío con un entorno de servicios de valor agregado alrededor del AIQ.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://atiempo.mx/sucesos/queretaro-impulsa-nueva-zona-comercial-junto-al-aiq/",
+      "sourceName": "A Tiempo",
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Mapa de precios: Cayetano Rubio ~36,492 $/m²; Félix Osores sube 34% en dos años",
+      "slug": "precios-m2-queretaro-zonas-inmuebles24-junio-2026",
+      "summary": "Con datos de Inmuebles24 a junio de 2026 (vía El Economista), Cayetano Rubio lidera venta cerca de 36,492 pesos por m² y el Centro Histórico ~35,680. El Marqués ~26,722 y Corregidora ~24,078. Félix Osores registra el mayor salto (+34% en dos años); Josefa Vergara cae ~7%. Hay rentas por debajo de 10 mil pesos en Carrillo Puerto, Corregidora y Epigmenio González.",
+      "category": "residencial",
+      "sourceUrl": "https://www.eleconomista.com.mx/econohabitat/comprar-casa-queretaro-cuanto-cuesta-metro-cuadrado-zona-20260812-827820.html",
+      "sourceName": "El Economista",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    },
+    {
+      "title": "Encuentro Industrial Querétaro 2026: 580 proveedores y potencial de ~5,600 enlaces",
+      "slug": "encuentro-industrial-queretaro-2026-negocios",
+      "summary": "La edición de inicios de septiembre (Centro de Congresos) reunió ~580 empresas proveedoras, 60 compradoras y 140 expositores, con más de 700 citas previas y un potencial reportado de más de 5,600 enlaces comerciales. Sedesu priorizó concretar negocios en automotriz, aeroespacial, médico, energético e industria 4.0; hay Expo Empleo con 25 empresas y más de 400 vacantes.",
+      "category": "corporativo",
+      "sourceUrl": "https://codiceinformativo.com/2026/09/encuentro-industrial-queretaro-2026-apuesta-por-concretar-negocios-y-generar-empleos/",
+      "sourceName": "Códice Informativo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Absorción, vacancia y rentas en USD/pie² vienen de Market Analysis (1S 2026); Solili publica otras metodologías (p. ej. demanda en m²). Precios de vivienda son promedios Inmuebles24 por zona, no cierres. El Encuentro reporta potencial de enlaces, no contratos firmados. Verifica con la fuente antes de negociar."
+}
