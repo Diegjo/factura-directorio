@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-11",
+  "intro": "La pala se frena, pero el arrendamiento no: Querétaro inicia la mitad de naves y aun así absorbe más de lo que entrega. Hoy: el corredor Aeropuerto lidera el 2T, Bernardo Quintana revive oficinas Clase A y Guanajuato apuesta casi todo a BTS.",
+  "headline": {
+    "title": "Querétaro inicia solo 92 mil m² industriales en el 1S 2026 (−50%), pero absorbe 217 mil m²",
+    "slug": "queretaro-construccion-industrial-cae-50-demanda-217-mil-m2-1s-2026",
+    "summary": "Según Solili (vía Líder Empresarial), los inicios de construcción industrial en Querétaro sumaron 92 mil m² en el primer semestre de 2026, la mitad que en el mismo periodo de 2025. La nueva oferta incorporada fue de 168 mil m² (−28% anual). En cambio, la demanda de arrendamiento alcanzó 217 mil m², impulsada sobre todo por naves especulativas: 49 mil m² más que la oferta nueva y ~2.4 veces la superficie que empezó a construirse.",
+    "category": "industrial",
+    "sourceUrl": "https://www.liderempresarial.com/construccion-industrial-en-queretaro-cae-50-pero-la-demanda-se-mantiene-solida/",
+    "sourceName": "Líder Empresarial",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+      "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Corredor Aeropuerto: absorción bruta de 160 mil m² en el 2T 2026, el mayor nivel del año",
+      "slug": "corredor-aeropuerto-queretaro-absorcion-160-mil-m2-2t-2026",
+      "summary": "Datoz reporta que en el segundo trimestre de 2026 el corredor Aeropuerto impulsó la absorción bruta industrial de Querétaro a 160 mil m², el nivel más alto del último año. El Parque Industrial Aeropuerto (PIA, AM Desarrollos), a ~3 minutos del AIQ y ~5 de la Carretera 57, ofrece naves listas y terrenos BTS desde ~4,000 m² hasta ~150,000 m², con enfoque LEED vía alianza USGBC.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://www.datoz.com/2026/07/23/parque-industrial-aeropuerto-pia/",
+      "sourceName": "Datoz",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Oficinas Querétaro +40% en el 2T: Bernardo Quintana concentra 38% y arranca 4.7 mil m² Clase A",
+      "slug": "oficinas-queretaro-bernardo-quintana-40-clase-a-2t-2026",
+      "summary": "Solili (vía Líder Empresarial) registra 8.7 mil m² arrendados de oficinas en Querétaro en el 2T 2026, +40% interanual. Bernardo Quintana concentró 38% de esa demanda e inició obra de 4.7 mil m² de un desarrollo Clase A, con vacancia del corredor en 11.26% al cierre de junio: señal de reactivación tras años de cautela en nueva oferta corporativa.",
+      "category": "corporativo",
+      "sourceUrl": "https://www.liderempresarial.com/mercado-de-oficinas-en-queretaro-crece-40-anual/",
+      "sourceName": "Líder Empresarial",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+      }
+    },
+    {
+      "title": "Guanajuato inicia 170 mil m² industriales en el 1S: 85% BTS y Silao-León concentra 68%",
+      "slug": "guanajuato-170-mil-m2-bts-silao-leon-1s-2026",
+      "summary": "Centro Urbano, con datos Solili, reporta 170,000 m² de inicios de construcción industrial en Guanajuato entre enero y junio de 2026. El 85% fueron Build to Suit para manufactura, en buena parte de capital extranjero; el corredor Silao-León concentró 68% de esa superficie. Contraste con Querétaro: allá se frena la pala especulativa; aquí el crecimiento sigue atado a proyectos a la medida y a reserva de tierra.",
+      "category": "tierra",
+      "sourceUrl": "https://centrourbano.com/revista/inmobiliario/bts-concentra-construccion-industrial-guanajuato/",
+      "sourceName": "Centro Urbano",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/suelo-rustico-guanajuato.jpg",
+        "alt": "Terreno rústico sin urbanizar en Guanajuato, con la parcela abierta y cerros al fondo.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Paisaje_cerca_de_Santa_B%C3%A1rbara_(Dolores_Hidalgo,_Gto.),_cultivo.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Cifras de inicios, oferta, demanda y oficinas vienen de Solili (reportadas por Líder Empresarial / Centro Urbano); absorción del corredor Aeropuerto es de Datoz (2Q 2026). Metodologías de absorción pueden diferir entre firmas. Verifica con la fuente antes de negociar."
+}
