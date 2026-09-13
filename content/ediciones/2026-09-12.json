@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-12",
+  "intro": "Inventario industrial ya toca 8.8 millones de m², pero la pala se enfría. Hoy: la segunda terminal del AIQ en estudios, el mapa de precios de vivienda por zona y el corredor Pharr que jala al aeroclúster.",
+  "headline": {
+    "title": "Querétaro suma +400 mil m² industriales en un año: inventario en 8.8 millones; construcción −40%",
+    "slug": "queretaro-inventario-industrial-8-8-millones-construccion-cae-40-2026",
+    "summary": "Según Solili (vía Real Estate Market), el inventario industrial de Querétaro alcanzó 8.8 millones de m² en julio de 2026: +5% anual y más de 400 mil m² incorporados en 12 meses (~8% del inventario nacional). Los corredores México-Querétaro (32%), Querétaro-San Luis Potosí (30%) y Aeropuerto (29%) concentran ~91% de la oferta. En paralelo, la superficie en construcción cayó 40% anual: más stock entregado, menos pala nueva.",
+    "category": "industrial",
+    "sourceUrl": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51452-queretaro-suma-mas-de-400-mil-m-de-inventario-industrial-en-un-ano",
+    "sourceName": "Real Estate Market",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "AIQ: estudios de segunda terminal listos a fines de 2026; busca ~3 millones de pasajeros este año",
+      "slug": "aiq-segunda-terminal-estudios-2026-tres-millones-pasajeros",
+      "summary": "T21 reporta que el Aeropuerto Internacional de Querétaro espera cerrar 2026 cerca de 3 millones de pasajeros y tener listos a fin de año los análisis para una segunda terminal (capacidad adicional ~3 millones). El director Jorge Gutiérrez de Velasco apunta a liberar construcción en los próximos dos años, sujeto a consejo y financiamiento. En carga, el AIQ creció 5.2% en el 1S 2026 (AFAC: ~40.5 mil toneladas) y se mantiene 4° nacional.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://t21.com.mx/aiq-analiza-construccion-de-nueva-terminal-para-pasajeros/",
+      "sourceName": "T21",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Vivienda QRO 2026: ~$34 mil/m² promedio; Juriquilla $35–55 mil y Zibatá con plusvalía 8–10%",
+      "slug": "vivienda-queretaro-precios-zonas-tandacasa-2026",
+      "summary": "El reporte Tanda Casa 2026 ubica el precio promedio de Querétaro cerca de 34,000 pesos por m² (~35% arriba del promedio de 30 ciudades) y una casa tipo de ~125 m² (~4.25 mdp). Rangos por zona (aprox.): El Marqués $14–22 mil/m², Corregidora $18–28 mil, Zibatá $28–42 mil (plusvalía 8–10%), Juriquilla $35–55 mil. El corredor noreste (Juriquilla–Zibatá–El Refugio) concentra la mayor plusvalía; El Marqués sigue como entrada más accesible ligada al empleo industrial.",
+      "category": "residencial",
+      "sourceUrl": "https://tandacasa.com/blog/comprar-casa-en-queretaro-2026",
+      "sourceName": "Tanda Casa",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    },
+    {
+      "title": "Corredor Pharr–Querétaro: Aeroclúster ve más capacidad logística hacia EE.UU. (6 mil cruces/día)",
+      "slug": "corredor-pharr-queretaro-aerocluster-logistica-aeroespacial",
+      "summary": "México Industry (11 sep 2026) reporta la presentación, con CILQRO, de la ampliación del corredor estratégico Pharr–Querétaro. El Aeroclúster señala que el Puente Internacional de Pharr registra cerca de 6 mil cruces diarios, ~80% del sector industrial: una vía para insumos y componentes aeroespaciales hacia el mercado de EE.UU. Sin cifra de CAPEX publicada; la señal es de más opciones de cadena de suministro, no de un parque nuevo anunciado.",
+      "category": "corporativo",
+      "sourceUrl": "https://mexicoindustry.com/noticia/corredor-pharr-queretaro-abre-nuevas-oportunidades-para-la-industria-aeroespacial",
+      "sourceName": "México Industry",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/patio-ferroviario-queretaro.jpg",
+        "alt": "Vista aérea del patio de maniobras del ferrocarril en la ciudad de Querétaro, con la mancha urbana a los costados de las vías.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ViajanteVerde / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_antiguo_patio_de_maniobras_de_la_Estaci%C3%B3n_del_Ferrocarril_en_Quer%C3%A9taro_01.png"
+      }
+    }
+  ],
+  "editorialNote": "Inventario y construcción en obra: Solili vía Real Estate Market (julio 2026). Pasajeros/carga AIQ: declaraciones del director y AFAC vía T21. Precios de vivienda: rangos Tanda Casa 2026 (referenciales, no cierres). Pharr: cruce diario reportado por Aeroclúster vía México Industry; sin monto de inversión del corredor. Verifica con la fuente antes de negociar."
+}
