@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-13",
+  "intro": "Regulación y precios al frente: el Semáforo Inmobiliario pone en rojo docenas de desarrollos, Banorte mide el metro cuadrado en ~$25.8 mil y Movilidad ya cobra semáforos a los nuevos proyectos. AIQ mantiene 24 destinos en septiembre.",
+  "headline": {
+    "title": "Semáforo Inmobiliario: 38 condominios y 9 fraccionamientos en rojo por falta de autorizaciones",
+    "slug": "semaforo-inmobiliario-queretaro-38-condominios-9-fraccionamientos-rojo-2026",
+    "summary": "Expreso Querétaro (6 sep 2026) reporta que el Semáforo Inmobiliario del Gobierno Municipal clasifica en rojo 9 fraccionamientos (7–10 supuestos incumplidos y sin el paquete completo de autorizaciones de Desarrollo Urbano) y 38 condominios ofertados a la venta sin autorización completa. De los fraccionamientos en rojo, 5 no tienen ninguna autorización y 4 no tienen datos de propietario o desarrolladora (Bosques del Salitre, Montecristo, Periodistas y Rancho Las Aves). De los condominios, 9 carecen de cualquier permiso (entre ellos Lahia II, Momentum El Refugio y The Town Community and Shops). Señal clara para inversionistas: verificar dictamen de uso de suelo, licencias y régimen antes de apartar.",
+    "category": "tierra",
+    "sourceUrl": "https://expresoqueretaro.com/2026/09/06/unos-38-condominios-y-9-fraccionamientos-en-rojo-del-semaforo-inmobiliario/",
+    "sourceName": "Expreso Querétaro",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/suelo-rustico-guanajuato.jpg",
+      "alt": "Terreno rústico sin urbanizar en el Bajío, con parcela abierta y cerros al fondo.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Paisaje_cerca_de_Santa_B%C3%A1rbara_(Dolores_Hidalgo,_Gto.),_cultivo.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "AIQ mantiene 24 destinos en septiembre, con conexión a Madrid",
+      "slug": "aiq-24-destinos-septiembre-2026-madrid",
+      "summary": "Al Diálogo (7 sep 2026) reporta que el Aeropuerto Internacional de Querétaro opera 24 destinos durante septiembre: rutas nacionales (Oaxaca, Mérida, Veracruz, Acapulco, Mazatlán, Los Cabos, Puerto Vallarta, Zihuatanejo, Cancún, entre otras) y conexión internacional a Madrid. Señal de conectividad para viajero de negocios e inversionistas del Bajío; la nota no detalla aerolíneas, frecuencias ni tarifas — conviene validar itinerarios vigentes antes de planear.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://aldialogo.mx/queretaro/2026/09/07/aiq-conecta-al-bajio-con-24-destinos-en-septiembre",
+      "sourceName": "Al Diálogo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Vivienda Querétaro: +4% anual en agosto; ~$25,826 por m² (INBAPREVI Banorte)",
+      "slug": "vivienda-queretaro-banorte-inbaprevi-agosto-2026-25826-m2",
+      "summary": "Según el Indicador Banorte de Precios de Vivienda (vía Efecto Qro, 9 sep 2026), en agosto el m² en Querétaro se ubicó en ~$25,826: +4% anual y +0.6% vs. julio. El alza estatal quedó debajo del nacional (+4.4% anual; promedio país ~$32,394/m²). En la muestra de Querétaro, vivienda nueva fue ~50.5% de la oferta; casas ~67.6% y departamentos ~32.4%. Cifras de oferta web scrapadas (INBAPREVI), no cierres notariales: úsalas como referencia de tendencia.",
+      "category": "residencial",
+      "sourceUrl": "https://efectoqro.com/queretaro-sube-un-4-el-valor-de-la-vivienda/",
+      "sourceName": "Efecto Qro / Banorte INBAPREVI",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    },
+    {
+      "title": "Nuevos desarrollos en el municipio deberán pagar e instalar semáforos",
+      "slug": "desarrollos-inmobiliarios-queretaro-pagar-instalar-semaforos-2026",
+      "summary": "Expreso Querétaro (10 sep 2026): el secretario de Movilidad, Pedro Ángeles Luján, confirmó que los nuevos desarrollos inmobiliarios en el municipio deben contemplar cruces semaforizados a cargo del privado. La medida ya corre en dos proyectos con 13 intersecciones; los dispositivos deben incluir videodetección, baterías y cumplir la norma técnica. Impacto directo en CAPEX y timing de entrega para desarrolladores e inversionistas en vivienda y mixed-use.",
+      "category": "corporativo",
+      "sourceUrl": "https://expresoqueretaro.com/2026/09/10/nuevos-desarrollos-inmobiliarios-deberan-pagar-e-instalar-semaforos-en-queretaro/",
+      "sourceName": "Expreso Querétaro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Semáforo Inmobiliario: conteos municipales vía Expreso Querétaro (6 sep); el semáforo se actualiza y un desarrollo en rojo puede cambiar de color. AIQ: oferta de 24 destinos reportada por Al Diálogo (7 sep), sin detalle de aerolíneas/frecuencias. Precios vivienda: INBAPREVI Banorte vía Efecto Qro (ago 2026; publicado 9 sep) — indicador de oferta en línea, no transacciones. Semáforos: política de Movilidad municipal vía Expreso (10 sep); CAPEX a cargo del privado. Verifica con la fuente antes de negociar."
+}
