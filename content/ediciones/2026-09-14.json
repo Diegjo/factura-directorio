@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-14",
+  "intro": "Oferta industrial amplia en el Bajío y conectividad al alza: ~1 millón de m² vacantes en la región, Volaris adelanta Querétaro–Las Vegas al 2 de octubre y el AIQ ya pasó 1.5 millones de pasajeros en 2026. En vivienda, el programa federal confirma más de 16 mil unidades en el estado.",
+  "headline": {
+    "title": "Bajío cierra julio con ~1 millón de m² industriales vacantes y más de 120 propiedades disponibles",
+    "slug": "bajio-1-millon-m2-industriales-vacantes-120-propiedades-julio-2026",
+    "summary": "Según Solili (vía Líder Empresarial, 11 ago 2026), la región del Bajío cerró julio de 2026 con ~1 millón de m² de superficie industrial vacante y más de 120 propiedades para ocupación inmediata, repartidas entre Querétaro, Guanajuato, San Luis Potosí y Aguascalientes. Querétaro concentra ~43% (~430 mil m²); Guanajuato ~28% (~280 mil m²); SLP ~26% (~260 mil m²); Aguascalientes ~3% (~30 mil m²). Los cuatro mercados cobran rentas debajo del promedio nacional de ~$7.63 USD/m²/mes (Aguascalientes ~$6.34; Guanajuato ~$5.44, la más baja). Además suman ~700 mil m² en construcción aún no disponibles. Señal para ocupantes e inversionistas: hay stock inmediato, pero valida corredor, specs y timing de entrega.",
+    "category": "industrial",
+    "sourceUrl": "https://www.liderempresarial.com/region-del-bajio-ofrece-mas-de-120-propiedades-industriales-disponibles/",
+    "sourceName": "Líder Empresarial / Solili",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Volaris adelanta al 2 de octubre el vuelo directo Querétaro–Las Vegas",
+      "slug": "volaris-adelanta-queretaro-las-vegas-2-octubre-2026",
+      "summary": "Al Diálogo (14 sep 2026) reporta que Volaris adelantó el arranque del vuelo directo Querétaro–Las Vegas al viernes 2 de octubre, unos dos meses antes de la fecha original (diciembre). Holger Blankenstein (VP comercial y operaciones) destacó a Las Vegas como mercado estratégico y a Querétaro como polo de dinamismo económico. Boletos ya a la venta en web y app de la aerolínea. Desde que opera en el AIQ, Volaris ha transportado más de 3.5 millones de clientes en 17 destinos. Señal de conectividad internacional para negocios y turismo; valida frecuencias y tarifas vigentes antes de planear.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://aldialogo.mx/queretaro/2026/09/14/adelantan-fecha-de-arranque-del-vuelo-directo-de-queretaro-a-las-vegas",
+      "sourceName": "Al Diálogo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "AIQ supera 1.5 millones de pasajeros en 2026: 1,500,347 de enero a julio",
+      "slug": "aiq-1500347-pasajeros-enero-julio-2026-crecimiento-julio",
+      "summary": "Al Diálogo (13 sep 2026) reporta que el Aeropuerto Internacional de Querétaro acumuló 1,500,347 pasajeros entre enero y julio de 2026. Solo en julio registró 275,361 pasajeros, un alza de 23.1% frente a julio de 2025. La nota no desglosa aerolíneas ni rutas detrás del crecimiento. Contexto útil junto al adelanto de Querétaro–Las Vegas y la proyección de ~3 millones de pasajeros al cierre de año: más tráfico refuerza el caso de capacidad e inversión en conectividad del Bajío.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://aldialogo.mx/queretaro/2026/09/13/aiq-supera-1-5-millones-de-pasajeros-en-2026",
+      "sourceName": "Al Diálogo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Programa de Vivienda para el Bienestar: 16,046 unidades confirmadas en Querétaro",
+      "slug": "vivienda-bienestar-16046-unidades-queretaro-san-juan-corregidora-el-marques-2026",
+      "summary": "Expreso Querétaro (5 ago 2026) reporta que Infonavit confirmó 16,046 viviendas en Querétaro dentro del Programa de Vivienda para el Bienestar, en cuatro proyectos en San Juan del Río, Corregidora y El Marqués. En Prados de San Juan se construyen 1,494 unidades; ya se entregaron 400, incluidas las 117 entregadas en el evento con el gobernador Mauricio Kuri. Señal de oferta de vivienda social/media-baja con coordinación federal-estatal-municipal; para inversionistas privados, el volumen puede tensionar suelo periurbano y demanda de servicios en esos municipios.",
+      "category": "residencial",
+      "sourceUrl": "https://expresoqueretaro.com/2026/08/05/mas-de-16-mil-viviendas-llegaran-a-queretaro-con-el-programa-de-sheinbaum/",
+      "sourceName": "Expreso Querétaro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Inventario vacante Bajío: Solili vía Líder Empresarial (cierre julio 2026; publicado 11 ago) — cifras redondeadas (~); rentas en USD/m²/mes. Volaris QRO–LAS: Al Diálogo (14 sep); inicio anunciado 2 oct, boletos a la venta — valida itinerario. AIQ pasajeros: Al Diálogo (13 sep); acumulado ene–jul y julio vs. 2025, sin desglose de rutas. Vivienda Bienestar: Expreso Querétaro (5 ago); 16,046 confirmadas por Infonavit en cuatro proyectos. Verifica con la fuente antes de negociar."
+}
