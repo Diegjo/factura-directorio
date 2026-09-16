@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-15",
+  "intro": "Cartera estatal fuerte y IED a la baja: Querétaro reporta 233 proyectos (~139 mil mdp) en cinco años, pero la IED del 1S cae 11%. En tierra, Huimilpan pone reserva habitacional e industrial sobre la mesa; en el Bajío, Solili confirma absorción e inicios industriales en retroceso.",
+  "headline": {
+    "title": "Querétaro concreta 233 proyectos de inversión (~139 mil mdp) y ~63 mil empleos en cinco años",
+    "slug": "queretaro-233-proyectos-inversion-139-mil-mdp-63-mil-empleos-cinco-anos-2026",
+    "summary": "En el marco del quinto informe (Publimetro, 3 sep 2026; Ruta Querétaro, 8 sep), el gobernador Mauricio Kuri reportó 233 proyectos de inversión nacional y extranjera concretados en cinco años: ~138,830–139 mil millones de pesos y ~63,035 empleos. Destacó que los centros de datos en Querétaro representan ~72% de los que operan a nivel nacional. La meta estatal es crecer entre 7.7% y 10% anual el número de proyectos (meta Plan Estatal: 244). Entre orígenes citados: EE.UU., Alemania, Francia y Canadá. Señal para inversionistas: pipeline amplio, pero valida timing, energía y ocupación real por proyecto — no solo anuncios.",
+    "category": "industrial",
+    "sourceUrl": "https://www.publimetro.com.mx/queretaro/2026/09/03/llegaron-139-mmdp-de-inversion-a-queretaro-en-cinco-anos/",
+    "sourceName": "Publimetro / Ruta Querétaro",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/centro-de-datos-racks.jpg",
+      "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "IED en Querétaro: 863.4 mdd en el 1S 2026 (−11%); 3° nacional en nuevas inversiones",
+      "slug": "ied-queretaro-863-4-mdd-primer-semestre-2026-cae-11-tercer-lugar-nuevas",
+      "summary": "A Tiempo (14 sep 2026, con datos vía El Economista) reporta que Querétaro acumuló 863.4 millones de dólares de IED en el primer semestre de 2026: −11% frente al mismo periodo de 2025 (1T 456.3 mdd; 2T 407.1 mdd). En nuevas inversiones quedó 3° nacional con 410.5 mdd (solo detrás de BCS y Nuevo León); en IED total ocupó el 8° lugar. El flujo se apoyó en reinversión de utilidades y nuevas inversiones, con saldo negativo en transacciones entre compañías. La caída se atribuye a menor flujo desde EE.UU., España y Alemania y a incertidumbre previa a la revisión del T-MEC. Contraste útil con la cartera estatal de anuncios: hay proyectos, pero el capital extranjero medido se enfría.",
+      "category": "industrial",
+      "sourceUrl": "https://atiempo.mx/sucesos/acumula-queretaro-863-4-mdd-en-inversion-extranjera-directa-durante-primer-semestre/",
+      "sourceName": "A Tiempo / El Economista",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+        "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+      }
+    },
+    {
+      "title": "Canadevi: Huimilpan proyecta ~5,000 ha habitacionales y ~500 ha industriales; meta de trámites a 9 meses",
+      "slug": "canadevi-huimilpan-5000-ha-habitacionales-500-ha-industriales-tramites-9-meses-2026",
+      "summary": "En el Foro de Vivienda CANADEVI 2026 (Al Diálogo, 26 ago 2026), alcaldes metropolitanos coincidieron en coordinar crecimiento urbano e industrial. Huimilpan ofreció ~5 mil hectáreas proyectadas para crecimiento inmobiliario/habitacional y ~500 hectáreas para inversión industrial, más el Parque Eólico de San Pedro (30 MW iniciales, hasta ~100 MW). Felifer Macías (Querétaro) dijo que un proyecto de ~50 ha podría equivaler a ~3 mil viviendas de interés medio y que la meta es bajar el ciclo terreno–venta de hasta ~18 meses a máximo 9. Corregidora destacó una subestación en Industrialix para atraer data centers e industria con energía disponible. Señal de suelo y permisos: la reserva está, el cuello de botella sigue siendo infraestructura y tiempos de autorización.",
+      "category": "tierra",
+      "sourceUrl": "https://aldialogo.mx/queretaro/2026/08/26/municipios-metropolitanos-coordinan-su-crecimiento-en-queretaro-canadevi",
+      "sourceName": "Al Diálogo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/tierra-plana-bajio-cultivo.jpg",
+        "alt": "Terreno agrícola plano en el Bajío, con surcos abiertos y cerros bajos en el horizonte.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Cultivo_(Dolores_Hidalgo,_Gto.)_III.jpg"
+      }
+    },
+    {
+      "title": "Bajío industrial 1S 2026: absorción 522 mil m² (−25%) e inicios ~300 mil m² (−32%)",
+      "slug": "bajio-absorcion-industrial-522-mil-m2-cae-25-inicios-300-mil-cae-32-1s-2026",
+      "summary": "Solili (Real Estate Market, 21 jul 2026) reporta que el Bajío acumuló 522,000 m² de absorción industrial entre enero y junio de 2026: −25% vs. el 1S 2025. Los inicios de obra cayeron a ~300,000 m² de nuevas naves: −32% anual. La nota describe mayor cautela de empresas e inversionistas tras años de auge regional. Lectura para el inversionista: encaja con el inventario vacante ~1 millón de m² reportado al cierre de julio y matiza los anuncios de cartera estatal — hay capital anunciado, pero la demanda física de naves se desaceleró en el semestre.",
+      "category": "industrial",
+      "sourceUrl": "https://www.solili.mx/noticias/bajio-disminuye-el-ritmo-de-inversion-industrial-en-el-primer-semestre-de-2026/8065/",
+      "sourceName": "Solili / Real Estate Market",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Cartera 5 años: Publimetro (3 sep) y Ruta Querétaro (8 sep) — 233 proyectos; monto ~138,830.4–139 mil mdp; empleos ~63,035; data centers ~72% nacional; cifras redondeadas (~). IED 1S: A Tiempo (14 sep, vía El Economista) — 863.4 mdd (−11%); nuevas 410.5 mdd (3° nacional). Canadevi: Al Diálogo (26 ago) — reservas Huimilpan y meta de trámites son declaraciones de alcaldes, no inventario cerrado. Absorción Bajío: Solili vía Real Estate Market (21 jul) — 522 mil m² (−25%) e inicios ~300 mil (−32%). Verifica con la fuente antes de negociar."
+}
