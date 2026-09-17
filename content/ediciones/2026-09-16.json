@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-16",
+  "intro": "Hub aeroespacial y precios de naves: Safran abre su Shop 2 MRO (~140 mdd) en Querétaro. En renta industrial, El Marqués y Colón marcan bandas distintas; un hotel voco by IHG de 431 mdp aterriza cerca del AIQ; y las oficinas sumaron inventario y demanda en el 1T.",
+  "headline": {
+    "title": "Safran inaugura en Querétaro su Shop 2 MRO: ~140 mdd, ~50 mil m² y ~500 empleos",
+    "slug": "safran-shop-2-mro-queretaro-140-mdd-50-mil-m2-500-empleos-2026",
+    "summary": "Cluster Industrial (30 jun 2026) y comunicados de Safran reportan la inauguración de SAFRAN Aircraft Engine Services Americas Shop 2 en Querétaro: inversión de ~140 millones de dólares, complejo de ~50,000 m² con dos talleres (CFM56 y LEAP), celda de pruebas y fábrica de reparación de componentes. Generará cerca de 500 empleos directos de alta especialidad (otras notas del grupo hablan de más de 450 al pleno). Meta a 2030: hasta ~350 visitas anuales de motores LEAP entre los dos talleres; Safran proyecta que Querétaro sea su mayor centro de mantenimiento mundial. En la entidad ya emplea a más de 4,000 personas. Señal aeroespacial/AIQ: demanda de suelo, naves y servicios cerca del aeropuerto y del clúster aeronáutico — valida timing de entrega y specs MRO vs. manufactura general.",
+    "category": "aeroportuario",
+    "sourceUrl": "https://clusterindustrial.com.mx/safran-inaugura-en-queretaro-complejo-aeronautico-con-inversion-de-140-mdd/",
+    "sourceName": "Cluster Industrial / Safran",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+      "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Renta de naves en Querétaro 2026: ~US$6.20–8.00/m²; El Marqués arriba, Colón más competitivo",
+      "slug": "renta-naves-industriales-queretaro-2026-620-800-usd-m2-el-marques-colon",
+      "summary": "Propiedades Industriales (11 may 2026) proyecta rentas de naves en Querétaro entre ~US$6.20 y US$8.00 por m² al mes en 2026, según ubicación y amenidades. El Marqués (carretera 57) tiende a la banda alta (~US$7.00–8.00/m²); Colón, con más reserva y cercanía al AIQ, ~US$6.20–6.80/m². Construcción (sin terreno) ~US$450–700/m²; lotes industriales ~US$70–150/m². Cap rates Clase A estabilizada en el Bajío ~7.0%–8.5% anual en dólares; plusvalía de tierra citada ~4%–6% anual. Señal para inversionistas: precio por corredor y energía (KVA) pesan tanto como el m² — trata cifras como proyecciones de broker, no índice cerrado.",
+      "category": "industrial",
+      "sourceUrl": "https://blog.propiedadesindustriales.com.mx/costo-m2-nave-industrial-queretaro-2026/",
+      "sourceName": "Propiedades Industriales",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Hotel voco by IHG en El Marqués: 431 mdp, 116 habitaciones junto a viñedos y cerca del AIQ",
+      "slug": "voco-ihg-vinedos-del-polo-queretaro-431-mdp-116-habitaciones-el-marques-2026",
+      "summary": "Real Estate Market (8 jul 2026) reporta que 3B Holding y Polo & Ski El Marqués desarrollarán el hotel voco Viñedos del Polo Querétaro bajo marca IHG: inversión de 431 millones de pesos, terreno de 2.5 ha en El Marqués cerca del Aeropuerto Internacional de Querétaro. Contará con 116 habitaciones, spa, gimnasio, cinco salones ejecutivos y salón social para hasta 700 personas, más ~5,000 m² de jardines. Proyectan 178 empleos directos, 534 indirectos (712 en total) y masa salarial directa ~42 mdp anuales. Motivos citados: industria aeroespacial/manufactura, enoturismo (>1.5 millones de visitantes a la región vitivinícola en 2025) y bodas destino (>3,000 al año; derrama >5,400 mdp). Señal mixta industrial–turismo de negocios cerca del corredor Aeropuerto.",
+      "category": "corporativo",
+      "sourceUrl": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51083-queretaro-atrae-inversion-hotelera-de-431-mdp-con-la-llegada-de-voco-by-ihg",
+      "sourceName": "Real Estate Market",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Fachada moderna del edificio corporativo C911 en Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "C911 Querétaro / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:C911_Quer%C3%A9taro.jpg"
+      }
+    },
+    {
+      "title": "Oficinas Querétaro 1T 2026: +14 mil m² (Cápita Sur ~87% ocupado) y The Own suma ~13 mil m² en obra",
+      "slug": "oficinas-queretaro-1t-2026-capita-sur-14-mil-m2-the-own-13-mil-demanda-10-mil",
+      "summary": "Solili (9 abr 2026) reporta que el mercado de oficinas de Querétaro expandió ~14 mil m² de inventario en el 1T 2026 al terminar Cápita Sur, que arrancó con ocupación cercana al 87%. En paralelo inició obra The Own, que incorporará ~13 mil m² de oficinas en ciclos siguientes. La demanda de oficinas del trimestre fue ~10 mil m², el doble que en el 1T 2025. Lectura: ciclo de expansión ordenado — nueva oferta de calidad con absorción inmediata en el edificio recién entregado; vigila vacancia y rentas cuando The Own entregue.",
+      "category": "corporativo",
+      "sourceUrl": "https://www.solili.mx/noticias/mercado-corporativo-de-queretaro-registro-expansion-de-14-mil-m2-en-el-1t-2026/7923/",
+      "sourceName": "Solili",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Fachada moderna del edificio corporativo C911 en Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "C911 Querétaro / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:C911_Quer%C3%A9taro.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Safran Shop 2: Cluster Industrial (30 jun 2026) y press Safran (30 jun / 2 jul) — ~140 mdd; ~50,000 m²; ~500 empleos (otras notas >450); meta ~350 visitas LEAP/año a 2030. Rentas naves: Propiedades Industriales (11 may 2026) — bandas US$/m²/mes por corredor y cap rates son proyecciones de broker (~). Hotel voco: Real Estate Market (8 jul) — 431 mdp; 116 hab; 712 empleos; cifras de turismo/bodas citadas por el desarrollador. Oficinas: Solili (9 abr) — +14 mil m²; The Own ~13 mil; demanda ~10 mil (×2 vs 1T 2025). Verifica con la fuente antes de negociar."
+}
