@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-18",
+  "intro": "Infraestructura digital: Guanajuato anuncia 630 mdd en centros de datos (ODATA y un tercero en San Miguel). En el Bajío, Aguascalientes reactiva demanda industrial (+38% jul–ago) con vacancia de solo 1.2%; en Querétaro edificar vivienda ya cuesta ~7% más y el piso económico ronda 1.1 mdp; Colón espera tres plantas (eléctrica, aeroespacial y data) más Aeropark II junto al AIQ.",
+  "headline": {
+    "title": "Guanajuato apuesta a centros de datos: 630 mdd y 200 empleos; subestación PESMA de 60 MVA",
+    "slug": "guanajuato-centros-de-datos-630-mdd-odata-pesma-60-mva-2026-09-18",
+    "summary": "El boletín oficial de Guanajuato (18 sep 2026) reporta proyectos de centros de datos por una inversión conjunta de 630 millones de dólares y 200 empleos directos. Operan dos centros y uno más está en desarrollo: dos de ODATA (Aligned Data Centers) en San Miguel de Allende y Apaseo el Grande; el tercero también en San Miguel. Para sostener la demanda eléctrica, PESMA (Polígono Empresarial San Miguel de Allende) suma una subestación de 60 MVAs con inversión de más de 45 mdd. La política Guanajuato Suma incorpora TI, IA y semiconductores como sectores estratégicos. Avance de la meta sexenal de 8,000 mdd: 81.9%, con inversión acumulada de más de 6,556 mdd (cifras de gobierno). Señal para inversionistas: el Bajío compite ya no solo por naves automotrices, sino por tierra e infraestructura energética para data centers.",
+    "category": "industrial",
+    "sourceUrl": "https://boletines.guanajuato.gob.mx/2026/09/18/guanajuato-avanza-en-infraestructura-para-atraer-proyectos-de-alta-tecnologia/",
+    "sourceName": "Gobierno de Guanajuato",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/centro-de-datos-racks.jpg",
+      "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Aguascalientes: demanda industrial +38% en jul–ago (16 mil m²) y vacancia de solo 1.2%",
+      "slug": "aguascalientes-demanda-industrial-38-julio-agosto-2026-vacancia-12",
+      "summary": "Solili (4 sep 2026) reporta que entre julio y agosto de 2026 Aguascalientes acumuló 16 mil m² de demanda industrial, +38% frente al mismo bimestre de 2025. Al cierre de agosto la vacancia quedó en 1.2%: disponibilidad muy limitada. En agosto, el corredor Aguascalientes Norte concentró el 100% de las transacciones de arrendamiento. Lectura Bajío: mientras Querétaro y Guanajuato concentran volumen, AGS opera con oferta apretada — señal de oportunidad para nuevo inventario y BTS si la reactivación se sostiene al cierre de año.",
+      "category": "industrial",
+      "sourceUrl": "https://www.solili.mx/noticias/demanda-industrial-en-aguascalientes-incrementa-38-durante-julio-agosto-2026/8132/",
+      "sourceName": "Solili",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Canadevi: edificar vivienda en Querétaro cuesta ~7% más; el piso económico ya ronda 1.1 mdp",
+      "slug": "canadevi-costo-edificacion-vivienda-queretaro-sube-7-piso-11-mdp-2026",
+      "summary": "El Universal Querétaro y Alternativo (21 ago 2026) citan a Félix Córdova Mendizábal (Canadevi QRO): el costo de edificación subió alrededor de 7% este año, con variaciones por segmento. Los insumos que más presionan son concreto y acero (regla 70-30: ~30% de productos ≈ 70% del costo). La vivienda más económica que hoy se puede construir en el estado ronda 1 millón a 1.1 millones de pesos; por debajo, tierra, agua y energía no lo permiten. Solo ~10% del stock es de interés social. El sector genera poco más del 10% del PIB estatal. Señal residencial: el piso de precio lo marcan insumos y servicios, no solo plusvalía de zona.",
+      "category": "residencial",
+      "sourceUrl": "https://www.eluniversalqueretaro.mx/cartera/incrementa-7-el-costo-de-edificacion-de-la-vivienda-en-queretaro/",
+      "sourceName": "El Universal Querétaro / Canadevi",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    },
+    {
+      "title": "Colón espera 3 inversiones de gran escala (eléctrica, aeroespacial y data) más Aeropark II junto al AIQ",
+      "slug": "colon-tres-inversiones-electrica-aeroespacial-data-aeropark-ii-2026",
+      "summary": "AlertaQro y Presencia Universitaria (2 jul 2026) reportan que el presidente municipal Gaspar Trueba Moncada anticipó tres inversiones de gran escala antes de que cierre 2026: sectores eléctrico, aeroespacial y almacenamiento de datos. Los anuncios oficiales corresponderían al gobernador Mauricio Kuri; montos, empleos y ubicaciones exactas aún no se divulgan. También se prevé el inicio de Aeropark II y de otro parque industrial en inmediaciones del AIQ. Colón concentra hoy más de 27 mil empleos formales IMSS. Lectura tierra/aeroportuario: pipeline cerca del aeropuerto, pero cifras aún sin confirmar — marcar como preliminar.",
+      "category": "tierra",
+      "sourceUrl": "https://www.alertaqronoticias.com/2026/07/02/espera-colon-tres-nuevas-inversiones-de-gran-escala-antes-de-que-concluya-el-ano/",
+      "sourceName": "AlertaQro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/tierra-plana-bajio-cultivo.jpg",
+        "alt": "Terreno agrícola plano en el Bajío, con surcos abiertos y cerros bajos en el horizonte.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Cultivo_(Dolores_Hidalgo,_Gto.)_III.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Centros de datos Gto: boletín oficial (18 sep 2026) — 630 mdd; 200 empleos; ODATA en SMA y Apaseo; 3er proyecto en SMA; subestación PESMA 60 MVA / >45 mdd; meta sexenal 81.9% (~6,556 mdd acumulados, cifras de gobierno). AGS industrial: Solili (4 sep) — demanda jul–ago 16 mil m² (+38%); vacancia 1.2%; Norte 100% de transacciones en agosto. Vivienda QRO: El Universal / Alternativo (21 ago) / Canadevi — edificación ~+7%; piso económico ~1.0–1.1 mdp; concreto/acero; ~10% PIB. Colón: AlertaQro (2 jul) — 3 inversiones (eléctrica, aeroespacial, data) sin montos; Aeropark II + parque cerca AIQ; ~27 mil empleos IMSS. Verifica con la fuente antes de negociar."
+}
