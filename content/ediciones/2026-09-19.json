@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-19",
+  "intro": "Infraestructura digital: KIO evalúa hasta 1,300 mdd para QRO3 (~100 MW) en Querétaro. En Aguascalientes abre la 1ª etapa de San Marcos Valley (1,700 mdp / 140 ha). Solili marca julio con demanda nacional +10% y renta QRO en ~6.14 usd/m². En vivienda, Inmuebles24 pone el m² de venta en ~29,851 pesos y la renta promedio en ~11,601.",
+  "headline": {
+    "title": "KIO evalúa hasta 1,300 mdd para QRO3 en Querétaro: ~100 MW hacia 2030",
+    "slug": "kio-data-centers-qro3-1300-mdd-100-mw-queretaro-2026-09-19",
+    "summary": "Real Estate Market e Inmobiliare (ago 2026) reportan que KIO Data Centers evalúa invertir hasta 1,300 millones de dólares hacia 2030 en QRO3, un campus con capacidad cercana a 100 MW que podría ser el más grande de la empresa. La cifra es potencial: aún sin calendario de obra, contrato de energía ni cliente ancla confirmados. QRO2 ya cerró fases 2 y 3 con ~170 mdd acumulados; en 2026 KIO destina >200 mdd a proyectos en CDMX, Monterrey, Querétaro y Guatemala. Marcelo Ebrard citó que Querétaro concentra cerca del 80% de los centros de datos del país. CBRE (1T 2026) midió inventario QRO en 298.2 MW (+450% anual) y vacancia en 10.6%. Señal para inversionistas: tierra, energía y conectividad en El Marqués/corredor data — marcar como preliminar hasta que haya MW contratados.",
+    "category": "industrial",
+    "sourceUrl": "https://www.realestatemarket.com.mx/noticias/economia-y-politica/51319-kio-data-centers-evalua-inversion-de-1-300-mdd-para-crecer-en-queretaro",
+    "sourceName": "Real Estate Market / Inmobiliare",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/centro-de-datos-racks.jpg",
+      "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Aguascalientes inaugura 1ª etapa de San Marcos Valley: 1,700 mdp y 140 ha",
+      "slug": "aguascalientes-san-marcos-valley-primera-etapa-1700-mdp-2026-09",
+      "summary": "Somos Industria (sep 2026) reporta la inauguración de la primera etapa del Parque Industrial San Marcos Valley, al sur de Aguascalientes, desarrollado por Lintel. El complejo suma 140 hectáreas con inversión de 1,700 millones de pesos; la 1ª etapa urbaniza ~30 ha listas para comercializar. Capacidad estimada: 20 a 30 compañías (automotriz, electrónica, tecnología, salud, logística). Proyecciones del desarrollador: atraer ~1,100 mdd en inversión y generar ~9,000 empleos directos y 36,000 indirectos. Lectura Bajío: AGS suma inventario nuevo justo cuando Solili midió vacancia de solo 1.2% en ago — pipeline de tierra industrial con timing favorable.",
+      "category": "tierra",
+      "sourceUrl": "https://somosindustria.com/articulo/avanza-desarrollo-industrial-en-aguascalientes/",
+      "sourceName": "Somos Industria",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+        "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+      }
+    },
+    {
+      "title": "Solili julio: demanda industrial nacional +10%; renta QRO ~6.14 usd/m²",
+      "slug": "solili-julio-2026-demanda-industrial-10-renta-queretaro-614",
+      "summary": "Real Estate Market (5 ago 2026) resume el reporte mensual de Solili: en julio se arrendaron más de 480 mil m² industriales a nivel nacional (+10% anual). La desocupación del mes cayó ~60% interanual (~80 mil m² liberados). Inicios de obra: 226 mil m² (−36% anual); Monterrey lideró, seguido por Querétaro y CDMX. Renta promedio nacional: 7.63 usd/m²/mes (+5.7%). Querétaro, Guanajuato y SLP siguen competitivos: 6.14, 5.44 y 5.64 usd/m²/mes. Inventario nacional ~115 millones de m²; vacancia 5.2%. Lectura: el Bajío sigue barato frente al promedio y QRO aparece entre los mercados que aún arrancan obra selectiva.",
+      "category": "industrial",
+      "sourceUrl": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51259-mercado-industrial-en-equilibrio-mayor-absorcion-y-menor-construccion",
+      "sourceName": "Real Estate Market / Solili",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Inmuebles24: venta QRO ~29,851 $/m² (+7% en 2 años); renta promedio ~11,601",
+      "slug": "inmuebles24-vivienda-queretaro-precios-zona-junio-2026",
+      "summary": "Real Estate Market / El Economista (ago 2026) con Index Inmuebles24 a junio 2026: el precio promedio de venta en Querétaro pasó de 28,016 a 29,851 pesos por m² en dos años (+7%). Renta promedio estatal: 11,601 pesos mensuales (+4% vs jun 2024). Zonas accesibles en renta (<10 mil): Felipe Carrillo Puerto (~9,310), Corregidora (~9,284), Epigmenio González (~9,642) y El Marqués (~9,919, −2%). Venta alta: Cayetano Rubio ~36,492 $/m² y Centro Histórico ~35,680; Corregidora ~24,078 y El Marqués ~26,722 debajo del promedio. Félix Osores lideró el alza de venta (+34% en 2 años). Señal residencial: el spread zona a zona sigue siendo la variable clave para el presupuesto de quien se muda por nearshoring.",
+      "category": "residencial",
+      "sourceUrl": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51302-vivienda-en-queretaro-cuanto-cuesta-comprar-y-rentar-en-2026",
+      "sourceName": "Real Estate Market / Inmuebles24",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    }
+  ],
+  "editorialNote": "KIO QRO3: REM (13 ago) + Inmobiliare (18 ago) — evalúa hasta 1,300 mdd hacia 2030; ~100 MW; potencial (sin calendario/energía/ancla); QRO2 fases 2–3 ~170 mdd; >200 mdd en 2026 multi-ciudad; Ebrard ~80% data centers en QRO; CBRE 1T inventario 298.2 MW / vacancia 10.6%. San Marcos Valley AGS: Somos Industria (sep) — 1ª etapa inaugurada; 1,700 mdp; 140 ha; ~30 ha etapa 1; 20–30 empresas; proyección ~1,100 mdd / 9 mil empleos directos (cifras desarrollador). Solili julio vía REM (5 ago): >480 mil m² arrendados (+10%); inicios 226 mil (−36%); QRO 2º en inicios tras MTY; renta QRO 6.14 usd/m². Vivienda: Index Inmuebles24 jun 2026 vía REM/El Economista — venta ~29,851 $/m² (+7% 2 años); renta ~11,601 (+4%). Verifica con la fuente antes de negociar."
+}
