@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-20",
+  "intro": "Movilidad y tierra: Sheinbaum estima el Tren México-Querétaro para el 2S 2027 (avance 19%). El Bajío frena fuerte en jul–ago: demanda industrial −43% y renta QRO en ~6.17 usd/m². Energía privada busca destrabar más data centers. La federación suma Ruta Alterna Huehuetoca–SJR (~24,175 mdp) y meta de 48,500 viviendas.",
+  "headline": {
+    "title": "Tren México-Querétaro: Sheinbaum apunta al 2S 2027; avance 19% y licitación hacia Nuevo Laredo",
+    "slug": "tren-mexico-queretaro-2s-2027-avance-19-sheinbaum-2026-09-20",
+    "summary": "En el Segundo Informe de Gobierno (18 sep 2026, Centro de Congresos de Querétaro), la presidenta Claudia Sheinbaum estimó que el Tren México-Querétaro podría estar listo en el segundo semestre de 2027, con llegada a Buenavista (Metro/Metrobús) y conectividad hacia Guadalajara y Nuevo Laredo. Al Diálogo y La de Hoy (18 sep) precisan avance de obra del tramo CDMX–Querétaro en 19%; el tramo Querétaro–Irapuato (Tren México–Guadalajara, 108 km) en 12%; e inicio de licitación del trazo Querétaro–San Luis Potosí–Saltillo del Tren México–Nuevo Laredo. Sheinbaum también citó la ampliación San Juan del Río–Querétaro. Lectura para inversionistas: el calendario 2027 revalúa tierra y usos mixtos a lo largo del corredor ferroviario — marcar hitos de obra y estaciones antes de apostar plusvalía.",
+    "category": "tierra",
+    "sourceUrl": "https://www.infobae.com/mexico/2026/09/19/tren-cdmx-queretaro-podria-estar-listo-en-segundo-semestre-de-2027-adelanta-sheinbaum/",
+    "sourceName": "Infobae / Al Diálogo / La de Hoy",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/patio-ferroviario-queretaro.jpg",
+      "alt": "Vista aérea del patio de maniobras del ferrocarril en la ciudad de Querétaro, con la mancha urbana a los costados de las vías.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "ViajanteVerde / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_antiguo_patio_de_maniobras_de_la_Estaci%C3%B3n_del_Ferrocarril_en_Quer%C3%A9taro_01.png"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Bajío industrial jul–ago: demanda −43% (134 mil m²); renta QRO sube a ~6.17 usd/m²",
+      "slug": "bajio-demanda-industrial-cae-43-julio-agosto-renta-queretaro-617-2026-09",
+      "summary": "Real Estate Market (1 sep 2026) con Solili: en julio–agosto el país arrendó 945 mil m² industriales (+7% anual), pero el Bajío solo 134 mil m² (−43% anual). Alternativo (19 sep) subraya el mismo freno regional en arranques de obra. Nacional: vacancia 5.3% (6.1 millones m² disponibles); construcción en proceso 3.7 millones m² (−20%); inicios 540 mil m² (−32%). Rentas ago: promedio México 7.67 usd/m² (+5%); Querétaro 6.17; Guanajuato 5.44; SLP 5.66. Aguascalientes sigue con vacancia de solo 1.2%. Lectura: QRO mantiene la renta más alta del Bajío mientras la región absorbe menos — selectividad en corredores Aeropuerto y México–Querétaro.",
+      "category": "industrial",
+      "sourceUrl": "https://realestatemarket.com.mx/noticias/mercado-inmobiliario/51460-demanda-industrial-crece-7-en-mexico-en-julio-agosto-y-construccion-pierde-ritmo",
+      "sourceName": "Real Estate Market / Solili",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Subestaciones privadas: energía como candado para más data centers en Querétaro",
+      "slug": "subestaciones-privadas-energia-data-centers-queretaro-2026-09",
+      "summary": "Al Diálogo (30 ago 2026): Mauricio Reyes Caracheo (Agencia Estatal de Energía) señaló que subestaciones eléctricas privadas en desarrollo podrán suministrar a centros de datos e industria, al exigir estos usuarios múltiples puntos de respaldo. Mencionó que instalaciones así podrían contemplarse para proyectos como Querétaro 3, sin confirmar asignación. En paralelo, Publimetro (17 ago) citó a Marco Del Prete (SEDESU): data centers llevan anunciados más de 12 mil mdd (~240 mil mdp); niega que el agua sea el cuello de botella y sostiene que ninguna empresa ha dejado de llegar por falta de energía. Señal: el cuello real sigue siendo MW firmes y tiempos CFE/IP — cruzar con el anuncio potencial de KIO QRO3 de la edición anterior.",
+      "category": "industrial",
+      "sourceUrl": "https://aldialogo.mx/estado/2026/08/30/subestaciones-privadas-de-energia-impulsaran-la-llegada-de-mas-centros-de-datos-a-queretaro",
+      "sourceName": "Al Diálogo / Publimetro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/centro-de-datos-racks.jpg",
+        "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+      }
+    },
+    {
+      "title": "Federación en QRO: Ruta Alterna Huehuetoca–SJR ~24,175 mdp y meta de 48,500 viviendas",
+      "slug": "inversion-federal-queretaro-ruta-alterna-vivienda-sauz-ii-2026-09",
+      "summary": "Al Diálogo y La de Hoy (18 sep 2026), con el Segundo Informe: además del tren, Banobras respalda la Ruta Alterna Huehuetoca–San Juan del Río con ~24,175 mdp y la modernización del Libramiento Noreste de Querétaro con 800 mdp (ambos con meta 2028); 423 mdp para conservación de la red federal. Energía: concluyó El Sauz II (ciclo combinado) con 292 mdd. Vivienda: meta de 48,500 acciones (Conavi/Infonavit/Fovissste), con 1,666 casas en obra, 119,555 créditos otorgados y 14,526 escrituras vía INSUS. Infobae suma la cifra de 50 mil viviendas edificadas y 120 mil familias con reestructura de créditos. Lectura: infraestructura carretera + stock social mueven demanda en SJR, libramientos y periferia — verificar avance físico antes de comprar tierra de plusvalía.",
+      "category": "residencial",
+      "sourceUrl": "https://aldialogo.mx/estado/2026/09/18/inversion-federal-en-queretaro-por-segundo-informe-de-claudia-sheinbaum",
+      "sourceName": "Al Diálogo / La de Hoy / Infobae",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Tren CDMX–QRO: Infobae (18–19 sep) Sheinbaum 2S 2027 Buenavista; Al Diálogo + La de Hoy (18 sep) avance 19% CDMX–QRO, 12% QRO–Irapuato (108 km), licitación QRO–SLP–Saltillo. Industrial Bajío: REM/Solili (1 sep) demanda jul–ago 134 mil m² (−43%); nacional 945 mil (+7%); renta QRO 6.17 / GTO 5.44 / SLP 5.66; vacancia AGS 1.2%; Alternativo (19 sep) refuerza −43% en arranques. Energía/data: Al Diálogo (30 ago) subestaciones privadas (Reyes Caracheo); Publimetro (17 ago) Del Prete >12 mil mdd anunciados. Infra/vivienda federal: Ruta Alterna ~24,175 mdp; Libramiento NE 800 mdp; El Sauz II 292 mdd; meta 48,500 viviendas / 1,666 en obra. Verifica con la fuente antes de negociar."
+}
