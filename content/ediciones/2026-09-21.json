@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-21",
+  "intro": "SOPREMA anuncia ~300 mdd y 250 empleos en San Miguel de Allende (campus industrial). En el corredor Aeropuerto de QRO, Salsas Castillo abrirá planta a inicios de 2027. El Colegio de Valuadores dice que vivienda bajo 1 mdp casi desapareció. El AIQ suma pasaje internacional +20% ene–jul.",
+  "headline": {
+    "title": "SOPREMA: ~300 mdd y 250 empleos en San Miguel de Allende; campus industrial a 3–4 fases",
+    "slug": "soprema-300-mdd-san-miguel-allende-guanajuato-campus-industrial-2026-09",
+    "summary": "Somos Industria (sep 2026): la canadiense SOPREMA inició la construcción de una nueva planta en el Polígono Empresarial de San Miguel de Allende, Guanajuato, con inversión de ~300 millones de dólares y ~250 empleos directos. Operaciones previstas a finales de 2027 con una primera línea de membranas bituminosas; el plan contempla entre tres y cuatro fases hacia un campus industrial (segunda etapa: productos líquidos/impermeabilizantes). Richard Voyer (CEO SOPREMA Canadá) habló de relación de largo plazo; Jorge Luis Echeverría Ríos (dir. comercial México) la calificó como una de sus inversiones más grandes en el mundo. Alejandro Hernández Fonseca (subsecretario de Atracción de Inversiones, Gto.) vinculó la sede a confianza en el estado. Lectura: SMA suma suelo industrial de proveeduría para construcción — marcar avance físico y fases antes de apostar plusvalía local.",
+    "category": "industrial",
+    "sourceUrl": "https://somosindustria.com/articulo/invierte-soprema-en-guanajuato/",
+    "sourceName": "Somos Industria",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Salsas Castillo abrirá planta integral en el Parque Industrial Aeropuerto (QRO)",
+      "slug": "salsas-castillo-planta-parque-industrial-aeropuerto-queretaro-2026-09",
+      "summary": "Al Diálogo (19 sep 2026): Salsas Castillo (Hermosillo, Sonora; ~80 años) ampliará su presencia en Querétaro con una nueva planta en el Parque Industrial Aeropuerto. Elizabeth Delgado Rodríguez (Capital Humano) describió una instalación integral —del chile fresco y las salsas hasta la fabricación de envases— orientada a mercado nacional y exportación a EE.UU. Arranque previsto a principios de 2027 con un turno y una línea; el proyecto contempla escalar hasta tres turnos de lunes a viernes. La fuente no publicó monto de inversión ni metros cuadrados. Lectura: refuerzo de absorción/ocupación en el corredor Aeropuerto — cruzar con disponibilidad PIA y tiempos de ramp-up 2027.",
+      "category": "industrial",
+      "sourceUrl": "https://aldialogo.mx/estado/2026/09/19/salsas-castillo-abrira-planta-en-queretaro",
+      "sourceName": "Al Diálogo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Colegio de Valuadores: vivienda bajo 1 mdp casi imposible; piso ~1–1.2 mdp",
+      "slug": "colegio-valuadores-vivienda-bajo-1-mdp-queretaro-2026-09-21",
+      "summary": "El Queretano (21 sep 2026): Grecia Nayeli Servín Sánchez, presidenta del Colegio de Valuadores del Estado de Querétaro, afirmó que encontrar vivienda por debajo de 1 millón de pesos se volvió prácticamente imposible; las opciones más económicas rondan ~1 a 1.2 mdp, y la vivienda de interés social tradicional casi dejó de desarrollarse. Atribuyó parte del encarecimiento al costo de tierra y servicios (ej. contrato de toma de agua para interés social ~80–90 mil pesos que termina en el precio al comprador). Citó diferenciales de hasta ~500 mil pesos por ubicación (mismo diseño a ~750 mil de un lado del libramiento vs ~1.2 mdp al cruzar hacia Querétaro) y recargos de ~200 mil según zona. Lectura para inversionistas: piso de entrada se desplaza al millón — selectividad en periferia/libramiento vs plusvalía sobrepagada.",
+      "category": "residencial",
+      "sourceUrl": "https://elqueretano.info/destacadas/desarrolladores-inflan-precio-de-la-vivienda-en-queretaro-advierte-el-colegio-de-valuadores/",
+      "sourceName": "El Queretano / Colegio de Valuadores QRO",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    },
+    {
+      "title": "AIQ: pasaje internacional ene–jul +20% (479,400); carga total 47,697 ton (+4.1%)",
+      "slug": "aiq-pasaje-internacional-479400-carga-47697-ene-jul-2026-09",
+      "summary": "El Universal Querétaro (20 sep 2026), con Estadística Operacional de Aeropuertos: el AIQ atendió 479,400 pasajeros internacionales ene–jul 2026 (+20% vs 399,700 en 2025), 8º lugar nacional y el 2º mayor aumento entre terminales (solo detrás de Morelia). En julio solo: 99,200 internacionales (+38.1%). Carga: 47,697 toneladas totales ene–jul (+4.1%); carga internacional 13,540 ton (5º nacional, +8.8%); carga doméstica 34,157.2 ton (1º nacional, +2.4%). Contexto: el total nacional de pasaje internacional cayó ~1.9% en el mismo lapso. Lectura: más tráfico de negocios/turismo y peso logístico aéreo refuerzan demanda de suelo, hoteles y naves cerca del AIQ — cruzar con ruta QRO–LAS (oct) de ediciones previas.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://www.eluniversalqueretaro.mx/sociedad/crece-pasaje-internacional-en-el-aeropuerto-de-queretaro/",
+      "sourceName": "El Universal Querétaro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    }
+  ],
+  "editorialNote": "SOPREMA: Somos Industria (sep 2026) ~300 mdd / ~250 empleos; Polígono Empresarial SMA; ops fin 2027 membranas bituminosas; 3–4 fases campus. Salsas Castillo: Al Diálogo (19 sep) planta PIA QRO; ops inicios 2027; 1→3 turnos; sin monto. Vivienda: El Queretano (21 sep) Colegio Valuadores — piso ~1–1.2 mdp; agua toma ~80–90 mil; diferencial libramiento ~500 mil. AIQ: El Universal (20 sep) 479,400 int. ene–jul (+20%); jul 99,200 (+38.1%); carga 47,697 ton (+4.1%); int. 13,540 (+8.8%); dom. 34,157.2 (1º). Verifica con la fuente antes de negociar."
+}
