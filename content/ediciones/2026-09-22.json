@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-22",
+  "intro": "Querétaro se mantiene como primer lugar nacional en captación de nuevas inversiones en 2026; Kuri citó la expansión de Microsoft (~2,300 mdd) en data centers. Sedeco SLP firma carta de intención por más de 1,150 mdp en automotriz. Banorte: vivienda QRO +4% en agosto (~25,826 $/m²). Fuji OOZX amplía en San José Iturbide con ~10.2 mdd.",
+  "headline": {
+    "title": "Querétaro: 1er lugar nacional en nuevas inversiones 2026; Kuri cita Microsoft ~2,300 mdd en data centers",
+    "slug": "queretaro-primer-lugar-nacional-inversiones-microsoft-data-centers-2026-09",
+    "summary": "Somos Industria (sep 2026): el gobernador Mauricio Kuri González afirmó que Querétaro mantiene el primer lugar nacional en captación de nuevas inversiones en lo que va de 2026, pese a un contexto económico complicado, y atribuyó el flujo a competitividad y confianza. Como ejemplo citó la expansión de Microsoft vinculada a una inversión de ~2,300 millones de dólares para fortalecer su red de centros de datos en la entidad. También subrayó que el futuro del T-MEC es estratégico para seguir atrayendo capital. Lectura: el discurso oficial refuerza la narrativa de QRO como hub de data centers e IED — cruzar anuncios con disponibilidad de energía, agua y suelo en El Marqués/Airport antes de apostar plusvalía.",
+    "category": "corporativo",
+    "sourceUrl": "https://somosindustria.com/articulo/queretaro-primer-lugar-nacional-en-captacion-de-inversiones/",
+    "sourceName": "Somos Industria",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/centro-de-datos-racks.jpg",
+      "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Sedeco SLP: carta de intención por más de 1,150 mdp para clúster automotriz",
+      "slug": "sedeco-slp-carta-intencion-1150-mdp-cluster-automotriz-2026-09-22",
+      "summary": "CN13 (22 sep 2026): Mario García Valdez, titular de la Sedeco de San Luis Potosí, informó que firmará en la CDMX una carta de intención con una empresa automotriz (nombre confidencial) por una inversión superior a ~1,150 millones de pesos, con terreno ya disponible para una posible planta. Situó el anuncio en el Quinto Informe de Ricardo Gallardo Cardona y dijo que las inversiones del sexenio superan ~10 mil millones de dólares. Lectura: señal temprana de más suelo industrial en SLP — el monto y el empleador se confirman al pasar de carta a contrato; vigilar municipio y calendario de obra.",
+      "category": "industrial",
+      "sourceUrl": "https://cn13.tv/sedeco-busca-inversion-por-mas-de-1150-millones-para-cluster-automotriz-en-slp/",
+      "sourceName": "CN13 Noticias San Luis Potosí",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Vivienda en Querétaro: +4% anual en agosto; promedio ~25,826 $/m² (Banorte)",
+      "slug": "vivienda-queretaro-banorte-25826-m2-agosto-2026-09",
+      "summary": "El Universal Querétaro (19 sep 2026), con Indicador Banorte de Precios de la Vivienda (Inbaprevi): en agosto el precio de la vivienda en Querétaro subió ~4% anual y el valor promedio por m² alcanzó ~25,826 pesos (+0.6% vs julio). Nacional: ~4.4% anual y ~32,394 $/m². En QRO, vivienda nueva fue 50.5% de la muestra; casas 67.6% vs departamentos 32.4%. Por antigüedad, lo más caro fue en construcción (~27,052 $/m²), luego nueva (~26,548) y 1–5 años (~26,171). Lectura: el piso de mercado se consolida cerca de 26 mil $/m² — útil para valuación y comparables vs el piso de entrada ~1–1.2 mdp de ediciones recientes.",
+      "category": "residencial",
+      "sourceUrl": "https://www.eluniversalqueretaro.mx/cartera/aumenta-4-precio-de-vivienda-en-queretaro/",
+      "sourceName": "El Universal Querétaro / Banorte Inbaprevi",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    },
+    {
+      "title": "Fuji OOZX: ~10.2 mdd para ampliar planta en San José Iturbide; ops oct 2027",
+      "slug": "fuji-oozx-10-2-mdd-ampliacion-san-jose-iturbide-guanajuato-2026-09",
+      "summary": "Somos Industria (sep 2026): Fuji OOZX (válvulas de motor, Japón) invertirá ~10.2 millones de dólares para ampliar su planta en San José Iturbide, Guanajuato, con nuevas líneas; la meta es producir más de ~2.3 millones de piezas mensuales. Obras previstas desde agosto 2026 e inicio de operaciones en octubre de 2027, orientado a demanda en Norteamérica y reglas T-MEC. La firma opera en México desde 2014 (Guanajuato Puerto Interior, Silao). Lectura: expansión de proveeduría automotriz en el corredor Gto. — tamaño moderado pero confirma absorción de naves/equipo en Iturbide hacia 2027.",
+      "category": "industrial",
+      "sourceUrl": "https://somosindustria.com/articulo/fuji-oozx-invierte-y-amplia-su-planta-en-mexico/",
+      "sourceName": "Somos Industria",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+        "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+      }
+    }
+  ],
+  "editorialNote": "QRO inversiones: Somos Industria (sep 2026) Kuri — 1er lugar nacional nuevas inversiones 2026; Microsoft ~2,300 mdd data centers (cifra citada por el gobernador). SLP: CN13 (22 sep) Sedeco carta intención >~1,150 mdp automotriz; empresa confidencial; terreno ya; sexenio >~10 mil mdd. Vivienda: El Universal (19 sep) Banorte ago — QRO +4% anual / ~25,826 $/m²; nacional ~32,394 / +4.4%; nueva 50.5%; casas 67.6%. Fuji OOZX: Somos Industria ~10.2 mdd Iturbide; >~2.3M piezas/mes; obras ago 2026; ops oct 2027. Verifica con la fuente antes de negociar."
+}
