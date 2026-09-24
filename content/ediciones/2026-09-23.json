@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-23",
+  "intro": "Safran Aero Composites amplía en Querétaro (~48 mdd, ~7,500 m², 132 empleos) para bordes de ataque LEAP. Schneider Electric suma ~115 mil m² y apunta a ~4 mil empleos directos a 2027. En la glosa, Sedesu reporta ~60% de los empleos comprometidos ya en IMSS y salario asociado ~731 $/día. En Tequisquiapan abre módulo de Vivienda para el Bienestar (23–26 sep).",
+  "headline": {
+    "title": "Safran Aero Composites: ~48 mdd y ~7,500 m² en Querétaro para bordes de ataque LEAP; +132 empleos",
+    "slug": "safran-aero-composites-48-mdd-7500-m2-leap-queretaro-2026-09",
+    "summary": "Infodefensa (sep 2026): Safran inició la ampliación de Safran Aero Composites (SAC) en Querétaro para añadir líneas del borde de ataque de titanio de los motores LEAP 1A y, después, 1B. Alejandro Cardona Seemann (Safran México) situó la inversión en ~48 millones de dólares; la obra de ~7,500 m² debería concluir en el verano de 2027 e incorpora ~132 colaboradores. Jean-Baptiste Vaney (SAC QRO) remarcó que la planta opera desde 2017 con Albany en álabes de fibra de carbono; Sedesu (Marco Del Prete) subrayó que ahora el perfil de titanio se manufacturará en la entidad, dentro del hub aeroespacial (MRO, pruebas y ensamble de motores). Lectura: refuerzo del clúster aeroespacial y demanda de naves/servicios cerca del AIQ — distinto al Shop 2 MRO (~140 mdd) ya cubierto; cruzar timing de entrega 2027 con disponibilidad de suelo y talento especializado.",
+    "category": "industrial",
+    "sourceUrl": "https://www.infodefensa.com/texto-diario/mostrar/5708329/safran-aero-composites-amplia-queretaro",
+    "sourceName": "Infodefensa / Safran",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Schneider Electric: ~115 mil m² en Querétaro; ~4 mil empleos directos a 2027 (200–250/mes)",
+      "slug": "schneider-electric-115-mil-m2-4-mil-empleos-queretaro-2026",
+      "summary": "Somos Industria (ago 2026): Schneider Electric anunció con el gobernador Mauricio Kuri la expansión de su capacidad manufacturera en Querétaro — dos instalaciones ya concluidas y una tercera fase futura — por ~115 mil m². Fabricarán soluciones de distribución eléctrica, infraestructura energética crítica y proyectos Engineer-to-Order (ETO). Kuri indicó que ya contratan ~200–250 personas al mes hacia ~4 mil empleos directos a fines de 2027 (e indirectos hacia ~8 mil). Luis D’Acosta Anezin (México y Centroamérica) situó el paso en el marco de 12 plantas en el país, orientadas a industria, data centers y economía digital en Norteamérica. Lectura: ancla grande de manufactura eléctrica en QRO — útil para absorción de naves y proveeduría; validar municipio exacto, fases entregadas y ritmo real de contratación antes de proyectar plusvalía.",
+      "category": "industrial",
+      "sourceUrl": "https://www.somosindustria.com/articulo/schneider-electric-se-expandira-en-queretaro/",
+      "sourceName": "Somos Industria",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Glosa Sedesu: ~60% de empleos ya en IMSS; salario asociado ~731 $/día; PIB estatal ~621 mil mdp",
+      "slug": "sedesu-glosa-60-empleos-imss-salario-731-pib-621-mil-mdp-2026-09-23",
+      "summary": "Informe Queretano (23 sep 2026): en comparecencia por la glosa del quinto informe, Marco Del Prete (Sedesu) reiteró 233 proyectos concretados (~138 mil mdp; ~63,035 empleos potenciales) y aportó métricas nuevas: cerca del ~60% de esos empleos ya están registrados ante el IMSS; salario diario asociado promedio ~731 pesos; entre oct 2021 y jul 2026 se crearon ~86 mil empleos formales (6° nacional). En IED, QRO fue 1er lugar nacional en nuevas inversiones en el 1T 2026 y 3° en el acumulado anual; reiteró ~72% de la capacidad instalada de data centers del país. PIB estatal ~621 mil mdp (+~8% desde 2021); exportaciones ~+30% en el mismo lapso. Lectura: el pipeline se traduce parcialmente en plazas IMSS — priorizar proyectos con documentación de instalación real y presión sobre energía/sueldo calificado, no solo el stock de anuncios.",
+      "category": "tierra",
+      "sourceUrl": "https://informequeretano.com/2026/09/23/sedesu-reporta-233-proyectos-de-inversion-y-63-mil-empleos-durante-la-glosa/",
+      "sourceName": "Informe Queretano / Sedesu",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+      }
+    },
+    {
+      "title": "Vivienda para el Bienestar: módulo en Tequisquiapan del 23 al 26 de septiembre",
+      "slug": "vivienda-bienestar-tequisquiapan-modulo-23-26-septiembre-2026",
+      "summary": "Al Diálogo (22 sep 2026) y Amanecer Querétaro: el alcalde Héctor Magaña informó que del miércoles 23 al sábado 26 de septiembre operará un módulo de registro del programa federal Vivienda para el Bienestar en el Auditorio Municipal de Tequisquiapan (10:00–14:00), a cargo de Conavi y Bienestar, sin costo. Requisitos locales: INE/identificación con domicilio en Tequisquiapan, CURP, comprobante de domicilio ≤3 meses e ingresos. Criterios federales citados: ≥18 años (o menores con dependientes), ingreso familiar ≤~2 salarios mínimos (~17 mil $/mes), no ser derechohabiente Infonavit/Fovissste/Pemex/ISSFAM ni haber recibido apoyo Conavi, residir en polígono prioritario y no contar con vivienda propia. Lectura: señal de demanda social en el corredor semi-rural del este queretano — impacto directo limitado en plusvalía media/alta, pero útil para mapa de polígonos y presión de servicios en Tequisquiapan.",
+      "category": "residencial",
+      "sourceUrl": "https://aldialogo.mx/tramites-y-servicios/2026/09/22/abren-nuevo-registro-para-vivienda-para-el-bienestar-en-queretaro-todo-lo-que-debes-saber",
+      "sourceName": "Al Diálogo / Amanecer Querétaro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Safran SAC: Infodefensa (sep 2026) — ~48 mdd; ~7,500 m²; ops verano 2027; ~132 empleos; LEAP 1A/1B borde de ataque titanio (Cardona / Vaney / Del Prete). Schneider: Somos Industria (ago 2026) — ~115 mil m²; ~4 mil empleos directos a 2027; contratación ~200–250/mes; ETO/energía; 12 plantas en México. Glosa Sedesu: Informe Queretano (23 sep) — 233 proyectos ~138 mil mdp / ~63,035 empleos; ~60% ya IMSS; salario ~731 $/día; ~86 mil empleos oct 2021–jul 2026; IED 1° nuevas T1 / 3° acumulado; ~72% data centers; PIB ~621 mil mdp; export ~+30% desde 2021. Vivienda Bienestar Tequisquiapan: Al Diálogo (22 sep) — módulo 23–26 sep Auditorio Municipal 10–14 h; ingreso ≤~17 mil $/mes. Verifica con la fuente antes de negociar."
+}
