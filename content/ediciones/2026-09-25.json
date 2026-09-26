@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-25",
+  "intro": "Puerta Logística del Bajío obtuvo autorización para construir una sección aduanal en Celaya (~150 mil TEUs/año). El tren México–Querétaro avanza a ~30% (Publimetro/Sedena). Kuri reportó ~800 mdd de inversión de EE.UU. en 2026 y ~72% de data centers del país. En SLP, AMPI sitúa el crecimiento habitacional en Villa de Pozos y Villa de Reyes, con trámites ~40% más lentos que en el resto del Bajío.",
+  "headline": {
+    "title": "PLB Celaya: sección aduanal autorizada (~150 mil TEUs/año) sobre ~6.6 ha; fase 1 ~52 ha",
+    "slug": "plb-celaya-seccion-aduanal-150000-teus-2026-09",
+    "summary": "GPI / Mexico Industry (22–24 sep 2026): Puerta Logística del Bajío (PLB) obtuvo la autorización para iniciar la construcción de una sección aduanal en Celaya, Guanajuato, con capacidad proyectada de hasta ~150,000 TEUs anuales para importación/exportación de contenedores y carga suelta. La instalación ocupará ~6.6 hectáreas dentro de las ~52 ha de la primera fase del proyecto logístico; se integrará con ~9 ha de infraestructura intermodal y conexión dual Ferromex + CPKC. El desarrollo se suma al Polo de Desarrollo Económico para el Bienestar (PODECOBI) de Celaya. Lectura: ancla de comercio exterior cerca del corredor Celaya–Apaseo–Irapuato — plusvalía en naves/intermodal y demanda de suelo logístico; cruzar timing de obra aduanal vs ocupación real antes de comprar «por la aduana».",
+    "category": "industrial",
+    "sourceUrl": "https://puertointerior.guanajuato.gob.mx/blog/2026/09/24/puerta-logistica-del-bajio-construira-seccion-aduanal-en-celaya-con-capacidad-para-150000-teus/",
+    "sourceName": "GPI / Mexico Industry",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Tren México–Querétaro ~30.4% de avance; Querétaro–Irapuato ~22.3%; meta operación 2S 2027",
+      "slug": "tren-mexico-queretaro-avance-30-irapuato-22-publimetro-2026-09",
+      "summary": "Publimetro (24–25 sep 2026), con datos Sedena/ARTF en la mañanera: el tren México–Querétaro reporta ~30.38% de avance e inversión acumulada de ~143,435 mdp (14 frentes activos); ~232 km de derecho de vía / ~545 km de vías nuevas; 6 estaciones (incluye San Juan del Río, El Marqués y Querétaro «La Corregidora»). El tramo Querétaro–Irapuato va a ~22.26% con ~47,713 mdp invertidos; 108 km, 5 estaciones (Apaseo El Grande, Celaya, Cortazar, Salamanca, Irapuato) y proyección de >~30 mil usuarios/día en ~30 min. Derecho de vía liberado: ~86% (MX–QRO, ~10.2 Mm²) y ~98% (QRO–Irapuato, ~4.9 Mm²); 15 de 50 familias reubicadas. Sheinbaum reitera operación en el 2S 2027. Lectura: actualización vs el ~19% reportado semanas atrás — timing de plusvalía en SJR/El Marqués/corredor Celaya; no comprar solo por el % de avance sin liberar derecho de vía local.",
+      "category": "tierra",
+      "sourceUrl": "https://www.publimetro.com.mx/queretaro/2026/09/25/tren-mexico-qro-va-al-31-queretaro-irapuato-al-22/",
+      "sourceName": "Publimetro / Sedena–ARTF",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/patio-ferroviario-queretaro.jpg",
+        "alt": "Vista aérea del patio de maniobras del ferrocarril en la ciudad de Querétaro, con la mancha urbana a los costados de las vías.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ViajanteVerde / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_antiguo_patio_de_maniobras_de_la_Estaci%C3%B3n_del_Ferrocarril_en_Quer%C3%A9taro_01.png"
+      }
+    },
+    {
+      "title": "Kuri: ~800 mdd de inversión de EE.UU. en Querétaro en 2026; estado concentra ~72% de data centers",
+      "slug": "kuri-800-mdd-inversion-eeuu-queretaro-72-data-centers-2026-09",
+      "summary": "Update Me (23 sep 2026): en la Quinta Convención Binacional México–Estados Unidos (American Society of Mexico), el gobernador Mauricio Kuri González afirmó que Querétaro ha recibido cerca de ~800 millones de dólares de inversión procedente de EE.UU. en lo que va de 2026, y que la entidad se ubica entre los tres primeros lugares del país en captación de inversión norteamericana. También sostuvo que el estado concentra ~72% de los centros de datos de México (sin precisar periodo/método en la nota). Priorizó aeroespacial, automotriz y el clúster de data centers ante la revisión del T-MEC; mencionó ~125 IES y la Universidad Aeronáutica. Lectura: señal de demanda corporativa/energética — cruzar con disponibilidad de suelo, subestaciones y agua antes de apostar a «data center ready»; las cifras de participación en data centers conviene validarlas con fuentes técnicas.",
+      "category": "corporativo",
+      "sourceUrl": "https://updateme.news/economia/han-llegado-cerca-de-800-mdd-de-inversion-de-eeuu-a-queretaro-en-2026-kuri/",
+      "sourceName": "Update Me / Gobierno QRO",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/centro-de-datos-racks.jpg",
+        "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+      }
+    },
+    {
+      "title": "SLP: vivienda crece en Villa de Pozos y Villa de Reyes; trámites ~40% más lentos que en el Bajío",
+      "slug": "slp-vivienda-pozos-villa-de-reyes-tramites-ampi-2026-09",
+      "summary": "Global Media (15 sep 2026): Francisco Eduardo Naif Gallegos (AMPI México, Región 7 centro) situó en Villa de Pozos y Villa de Reyes los principales polos habitacionales de San Luis Potosí, impulsados por demanda de trabajadores industriales. En Villa de Reyes hay proyectos de ~600 viviendas, en su mayoría entre ~1.4 y ~2.2 millones de pesos; el reto sigue siendo producir vivienda por debajo de ~1 mdp «que es la que no existe». Señaló que los trámites de vivienda en SLP son ~40% más lentos que en otras zonas del Bajío, y que faltan factibilidades de agua, luz, movilidad y tierra apta. Otras franjas con potencial: poniente, Santa María del Río y norte (Zacatecas/Mexquitic). Lectura: presión de renta/compra cerca de la zona industrial potosina; para inversionistas, el cuello de botella es permisología y servicios, no solo precio de tierra.",
+      "category": "residencial",
+      "sourceUrl": "https://queretaro.globalmedia.mx/articles/vivienda_crece_hacia_pozos_y_villa_de_reyes_pero_tramites_frenan_inversion_en_slp",
+      "sourceName": "Global Media / AMPI",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    }
+  ],
+  "editorialNote": "PLB Celaya: GPI (24 sep) / Mexico Industry (22 sep) — sección aduanal autorizada; ~150 mil TEUs/año; ~6.6 ha; fase 1 ~52 ha; ~9 ha intermodal; Ferromex+CPKC; PODECOBI Celaya. Tren: Publimetro (24–25 sep) / Sedena–ARTF — MX–QRO ~30.38% / ~143,435 mdp / 14 frentes; QRO–Irapuato ~22.26% / ~47,713 mdp; DV liberado ~86% y ~98%; 15/50 familias; meta 2S 2027. Inversión EE.UU.: Update Me (23 sep) — Kuri ~800 mdd 2026; top-3 IED norteamericana; ~72% data centers (cifra del gobernador). Vivienda SLP: Global Media (15 sep) / AMPI — Pozos y Villa de Reyes; ~600 uds / ~1.4–2.2 mdp; trámites ~40% más lentos vs Bajío. Verifica con la fuente antes de negociar."
+}
