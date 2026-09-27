@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-26",
+  "intro": "En glosa legislativa, Sedesu reportó ~63 mil empleos vinculados a 233 proyectos y ~138,830 mdp acumulados en Querétaro. La IED del 1S 2026 sumó ~863.4 mdd (−11% anual), pero las nuevas inversiones crecieron ~2.5× a ~410.5 mdd (El Economista). En Guanajuato, PESMA puso en marcha una subestación de ~50 mdd / 60 MVA orientada a industria intensiva en energía. En Aguascalientes, San Marcos Valley abre ~30 ha urbanizadas de un parque de ~140 ha (~1,700 mdp).",
+  "headline": {
+    "title": "Sedesu: ~63 mil empleos y ~138,830 mdp en 233 proyectos de inversión en Querétaro",
+    "slug": "sedesu-63-mil-empleos-138830-mdp-233-proyectos-queretaro-2026-09",
+    "summary": "La de Hoy Querétaro (23 sep 2026): en comparecencia ante la LXI Legislatura (glosa del quinto informe), el titular de Sedesu, Marco Antonio Del Prete Tercero, reportó más de ~63 mil nuevos empleos vinculados a 233 proyectos de inversión nacional y extranjera, con acumulación de ~138,830 millones de pesos. Citó exportaciones 2025 de ~18,224.8 mdd (+2.2% vs 2024; +28.6% vs 2021) y mencionó proyectos como LG Innotek, Safran y Pilgrim’s. En IED, situó a Querétaro 1º nacional en nuevas inversiones del 1T 2026 y 3º en nuevas inversiones acumuladas del año; principales orígenes: EE.UU. ~389.7 mdd, España ~297.6 mdd y Alemania ~102.2 mdd. El AIQ movilizó ~55,982 t de carga (4º nacional) y sumó 11 rutas en 2026 (10 internacionales / 16 nacionales). Lectura: pipeline estatal amplio — filtrar qué proyectos ya tienen suelo/nave vs anuncios; cruzar con disponibilidad energética y agua antes de apostar a corredores «por la glosa».",
+    "category": "corporativo",
+    "sourceUrl": "https://ladehoy.com.mx/queretaro-reporta-63-mil-empleos-y-138-mil-mdp-en-inversiones-durante-comparecencia-de-sedesu/",
+    "sourceName": "La de Hoy Querétaro / Sedesu",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+      "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "IED Querétaro 1S 2026: ~863.4 mdd (−11%); nuevas inversiones ~410.5 mdd (×2.5)",
+      "slug": "ied-queretaro-863-mdd-1s-nuevas-inversiones-410-eleconomista-2026-09",
+      "summary": "El Economista (14–15 sep 2026) / Secretaría de Economía: Querétaro captó ~863.4 mdd de IED en el primer semestre de 2026, −11% vs ~970.3 mdd del 1S 2025 (8ª entidad receptora). El motor fueron reinversión de utilidades (~929.8 mdd, +34%) y nuevas inversiones (~410.5 mdd, ~2.5× vs ~158.7 mdd un año antes); El Economista ubica a Querétaro como 3ª entidad en inversión nueva tras Baja California Sur y Nuevo León. Cuentas entre compañías: −476.8 mdd. EE.UU. aportó ~389.7 mdd (45.1%, −33.8% anual), seguido de España ~297.6, Alemania ~102.2, Japón ~41.1 y Brasil ~33.7. Manufactura: ~273.4 mdd (31.7%). CANACINTRA QRO (Trending, 23 sep) prevé buen cierre de año pese a tensiones comerciales. Lectura: el flujo agregado baja, pero el capital para capacidad nueva sube — señal para naves/build-to-suit; validar sector (servicios financieros vs manufactura) antes de comprar cerca de un «anuncio de IED».",
+      "category": "industrial",
+      "sourceUrl": "https://www.eleconomista.com.mx/estados/queretaro-capta-863-4-millones-dolares-ied-primer-semestre-cae-20260914-833489.html",
+      "sourceName": "El Economista / CANACINTRA",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+        "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+      }
+    },
+    {
+      "title": "PESMA (San Miguel): subestación ~50 mdd / 60 MVA; 24 empresas y ~3,500 mdd acumulados",
+      "slug": "pesma-subestacion-50-mdd-60-mva-san-miguel-allende-2026-09",
+      "summary": "Mexico Industry (7 sep 2026): el Polígono Empresarial San Miguel de Allende (PESMA) puso en operación una subestación eléctrica de ~50 millones de dólares con capacidad instalada de 60 MVA (configuración 230 kV → 13.8 kV, redundancia N-1). Obra conjunta iniciativa privada–Nafin–CFE; ~400 empleos en construcción y ~40 en operación 24 h. El parque reporta 24 empresas en operación, seis proyectos en desarrollo, más de ~3,500 mdd de inversión acumulada y cerca de ~8,000 empleos directos. La capacidad apunta a manufactura avanzada, data centers, IA y automatización. Lectura: diferencial energético en GTO frente a parques saturados de potencia — plusvalía en lotes «power-ready»; pedir factibilidad CFE/contrato de carga antes de pagar prima por la subestación.",
+      "category": "industrial",
+      "sourceUrl": "https://mexicoindustry.com/noticia/inversion-en-infraestructura-energetica-impulsa-la-siguiente-etapa-industrial-de-poligono-empresarial-san-miguel-de-allende",
+      "sourceName": "Mexico Industry / PESMA",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/centro-de-datos-racks.jpg",
+        "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+      }
+    },
+    {
+      "title": "Aguascalientes: San Marcos Valley ~140 ha / ~1,700 mdp; etapa 1 ~30 ha urbanizadas",
+      "slug": "san-marcos-valley-aguascalientes-140-ha-1700-mdp-2026-09",
+      "summary": "Somos Industria (sep 2026) / Lintel: inauguraron la primera etapa del Parque Industrial San Marcos Valley, al sur de Aguascalientes. El complejo suma ~140 hectáreas con inversión de ~1,700 millones de pesos; la etapa 1 comprende ~30 ha urbanizadas listas para comercialización. Capacidad estimada: ~20–30 empresas (automotriz, electrónica, manufactura avanzada, salud, logística); proyección de atracción ~1,100 mdd y ~9,000 empleos directos (~36,000 indirectos). La gobernadora Tere Jiménez encabezó la apertura. Lectura: oferta nueva de tierra industrial en AGS cuando el Bajío frena obra — timing para quien busca alternativa a rentas altas de QRO; cruzar absorción real vs proyecciones de 9 mil empleos antes de especular con lotes.",
+      "category": "tierra",
+      "sourceUrl": "https://somosindustria.com/articulo/avanza-desarrollo-industrial-en-aguascalientes/",
+      "sourceName": "Somos Industria / Lintel",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/tierra-plana-bajio-cultivo.jpg",
+        "alt": "Terreno agrícola plano en el Bajío, con surcos abiertos y cerros bajos en el horizonte.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Cultivo_(Dolores_Hidalgo,_Gto.)_III.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Sedesu (La de Hoy, 23 sep): ~63 mil empleos / 233 proyectos / ~138,830 mdp; exportaciones 2025 ~18,224.8 mdd; IED orígenes EE.UU. ~389.7 / España ~297.6 / Alemania ~102.2 mdd; AIQ carga ~55,982 t (4º). IED 1S (El Economista 14–15 sep / SE): ~863.4 mdd (−11%); nuevas ~410.5 mdd (×2.5); reinversión ~929.8 mdd; cuentas −476.8 mdd; 8ª entidad; CANACINTRA (23 sep) outlook positivo. PESMA (Mexico Industry 7 sep): subestación ~50 mdd / 60 MVA; 24 empresas + 6 en desarrollo; ~3,500 mdd / ~8,000 empleos. San Marcos Valley (Somos Industria sep / Lintel): ~140 ha / ~1,700 mdp; etapa 1 ~30 ha; ~20–30 empresas; ~1,100 mdd / ~9,000 empleos proyectados. Cifras con ~. Verifica con la fuente antes de negociar."
+}
