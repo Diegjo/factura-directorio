@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-27",
+  "intro": "KIO Data Centers anunció ~1,300 mdd para expandir QRO3 (~100 MW) en El Marqués, con ~8,100 empleos proyectados. En el Bajío, la construcción industrial nueva cayó ~43% en julio–agosto. El AIQ opera ~24 destinos directos en septiembre. En Michoacán, el Parque Bajío (~342 ha) alista obras de cabecera a fines de septiembre.",
+  "headline": {
+    "title": "KIO Data Centers: ~1,300 mdd y QRO3 ~100 MW en El Marqués; ~8,100 empleos proyectados",
+    "slug": "kio-data-centers-1300-mdd-qro3-100-mw-el-marques-2026-09",
+    "summary": "Somos Industria (sep 2026): KIO Data Centers anunció una inversión de ~1,300 millones de dólares en Querétaro, que incluye la expansión de su tercer complejo QRO3, con capacidad aproximada de ~100 megawatts en el Parque Industrial El Marqués. El proyecto proyecta más de ~8,100 empleos directos e indirectos de alta especialización, orientados a nube e inteligencia artificial con foco en el mercado norteamericano. El CEO Octavio Camarena situó a QRO3 como posible data center más grande de KIO. Desde la entrada de I Squared Capital, KIO reporta >~900 mdd invertidos en México y LatAm, de los cuales ~200 mdd van este año a CDMX, Monterrey, Querétaro y Guatemala. Al entregar el certificado Hecho en México, el secretario federal Marcelo Ebrard señaló que Querétaro concentra casi ~80% de los data centers del país. El gobernador Mauricio Kuri enfatizó crecimiento ordenado con cuidado de recursos. Lectura: ancla energética/corporativa en El Marqués — cruzar factibilidad eléctrica, agua y timeline de MW antes de pagar prima «data-center ready»; la cifra de ~80% conviene validarla vs otras fuentes (~72% citadas semanas atrás).",
+    "category": "corporativo",
+    "sourceUrl": "https://www.somosindustria.com/articulo/kio-data-centers-invertira-en-queretaro/",
+    "sourceName": "Somos Industria / KIO",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/centro-de-datos-racks.jpg",
+      "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Bajío: construcción industrial nueva −43% en jul–ago; nacional −20% a ~3.7 Mm²",
+      "slug": "bajio-construccion-industrial-cae-43-julio-agosto-2026-09",
+      "summary": "Alternativo (19 sep 2026), con datos difundidos el 17 sep (Yahoo/El Economista) y Solili: Guanajuato, Querétaro, San Luis Potosí y Aguascalientes registraron una contracción de ~43% en el arranque de nuevos proyectos de construcción industrial en julio–agosto 2026 vs el mismo bimestre 2025. A nivel nacional, la superficie en construcción industrial cayó ~20% anual a ~3.7 millones de m²; los inicios de obra bajaron ~32% a ~540 mil m², mientras la demanda acumulada subió ~15% a ~5.9 Mm². En julio, la absorción nacional sumó ~480 mil m² (+10%) y los espacios liberados cayeron ~60%. Un tablero Solili (5 ago) ubicó la renta industrial de Querétaro en ~6.14 usd/m², frente a ~5.64 en SLP y ~5.44 en Guanajuato. Lectura: se construye menos mientras se ocupa más stock — riesgo de estrechez y rentas altas en el corredor GTO–QRO hacia 2027; preferir naves listas o pre-arrendadas sobre especulación de obra nueva.",
+      "category": "industrial",
+      "sourceUrl": "https://alternativo.mx/construccion-industrial-bajio-se-frena-43-por-ciento-queretaro/",
+      "sourceName": "Alternativo / Solili",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "AIQ: ~24 destinos directos en septiembre (13 nacionales, 10 EE.UU. y Madrid)",
+      "slug": "aiq-24-destinos-directos-septiembre-2026-09",
+      "summary": "Oferta en Viajes (actualizado 17 sep 2026) y Al Diálogo (7 sep): a septiembre de 2026 el Aeropuerto Intercontinental de Querétaro (QRO) opera vuelos de pasajeros sin escalas hacia ~24 destinos — ~13 nacionales, ~10 en Estados Unidos y una ruta directa a Madrid. Nacionales incluyen Cancún, Monterrey, Guadalajara, Tijuana, Puerto Vallarta, Los Cabos, Oaxaca, Mérida, Veracruz, Acapulco, Mazatlán, Zihuatanejo y CDMX. Internacionales EE.UU.: Atlanta, Chicago, Dallas-Fort Worth, Denver, Detroit, Houston, Las Vegas, Los Ángeles, Orlando y San Antonio. Aerolíneas citadas: Aeroméxico, American, United, Viva, Volaris e Iberojet. Lectura: conectividad de negocios y turismo refuerza demanda de hoteles, oficinas y logística cerca del AIQ/El Marqués; validar frecuencias reales (estacionales) antes de modelar ocupaciones «por la ruta».",
+      "category": "aeroportuario",
+      "sourceUrl": "https://ofertaenviajes.mx/nuevos-vuelos-desde-queretaro/",
+      "sourceName": "Oferta en Viajes / Al Diálogo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Parque Bajío (Michoacán): ~342 ha; obras de cabecera fin sep–inicio oct; ~27 mil empleos/10 años",
+      "slug": "parque-bajio-michoacan-342-ha-obras-cabecera-2026-09",
+      "summary": "AIMICH (4 sep) y Michoacán Imparcial (24 sep 2026): el Parque Bajío —Polo de Desarrollo para el Bienestar en el Bajío michoacano— suma ~342 hectáreas con tres desarrolladores. Tras la firma del fideicomiso, Sedeco (Claudio Méndez) fijó inicio de obras de cabecera a finales de septiembre o principios de octubre. Proyecta ~27 mil empleos directos en los primeros 10 años; vocaciones: agroindustria, automotriz/autopartes, electromecánico, electrodomésticos, maquinaria y logística. Avance técnico de un gasoducto de ~19 km. Méndez reportó interés de empresas de España y Asia (electromecánica, automotriz, línea blanca, agroindustria) y campaña de atracción en sep–oct; Michoacán es uno de los 4 primeros polos nacionales en arrancar. Lectura: oferta nueva de tierra industrial en el flanco sur del Bajío — timing atractivo vs saturación QRO, pero validar resolución ambiental, servicios y anclas reales antes de especular con lotes.",
+      "category": "tierra",
+      "sourceUrl": "https://aimich.org/parque-bajio-fortalece-condiciones-para-atraer-inversiones/",
+      "sourceName": "AIMICH / Sedeco Michoacán",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/tierra-plana-bajio-cultivo.jpg",
+        "alt": "Terreno agrícola plano en el Bajío, con surcos abiertos y cerros bajos en el horizonte.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Cultivo_(Dolores_Hidalgo,_Gto.)_III.jpg"
+      }
+    }
+  ],
+  "editorialNote": "KIO (Somos Industria sep): ~1,300 mdd; QRO3 ~100 MW El Marqués; ~8,100 empleos; I Squared >~900 mdd LatAm / ~200 mdd este año; Ebrard ~80% data centers en QRO. Bajío industrial (Alternativo 19 sep / datos 17 sep + Solili): −43% inicios jul–ago GTO–QRO–SLP–AGS; nacional construcción −20% a ~3.7 Mm²; inicios −32% a ~540 mil m²; demanda +15% a ~5.9 Mm²; absorción jul ~480 mil m² (+10%); renta QRO ~6.14 / SLP ~5.64 / GTO ~5.44 usd/m² (Solili 5 ago). AIQ (Oferta en Viajes 17 sep / Al Diálogo 7 sep): ~24 destinos (13 nac / 10 EE.UU. / Madrid). Parque Bajío (AIMICH 4 sep / Michoacán Imparcial 24 sep): ~342 ha; 3 desarrolladores; obras cabecera fin sep–inicio oct; ~27 mil empleos/10 años; gasoducto ~19 km; interés España/Asia. Cifras con ~. Verifica con la fuente antes de negociar."
+}
