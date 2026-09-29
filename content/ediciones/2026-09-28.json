@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-28",
+  "intro": "El Bajío concentró ~41.4% de la IED nacional en autopartes en el 1S 2026 (~671 mdd), con Guanajuato a la cabeza (~337 mdd). SOPREMA arranca planta de ~300 mdd en San Miguel de Allende. Colón alista Aeropark II y otro parque junto al AIQ. En vivienda, Querétaro llega a ~$25,826/m² (+4% anual en agosto).",
+  "headline": {
+    "title": "Bajío: ~41.4% de la IED nacional en autopartes (~671 mdd); Guanajuato lidera con ~337 mdd",
+    "slug": "bajio-ied-autopartes-41-guanajuato-337-mdd-2026-09",
+    "summary": "Líder Empresarial (15 sep 2026) y El Economista (17–18 sep), con el Reporte Mensual de la Industria Nacional de Autopartes (INA) / Secretaría de Economía: en el primer semestre de 2026 México captó ~1,617 mdd de IED en fabricación de autopartes (+31.3% vs ~1,232 mdd del 1S 2025). El Bajío concentró ~671 mdd, equivalentes a ~41.4% del total nacional, por delante de la Zona Norte (~520 mdd) y la Zona Centro (~365 mdd). Desglose estatal del corredor: Guanajuato ~337 mdd (20.8% nacional; ~82% de su IED total); Jalisco ~141 mdd (8.7%); San Luis Potosí ~76 mdd (4.7%); Aguascalientes ~75 mdd (4.6%); Querétaro ~42 mdd (2.6%). Orígenes del flujo nacional: EE.UU. ~25.1%, Alemania ~23.3%, Reino Unido ~12.5%. Lectura: el capital autopartista sigue anclado en GTO–SLP–AGS–QRO pese a menor obra industrial — demanda de naves/build-to-suit y proveeduría; filtrar proyectos con suelo/energía asegurados vs mera captura de IED.",
+    "category": "industrial",
+    "sourceUrl": "https://www.liderempresarial.com/bajio-lidera-inversion-extranjera-autopartes-mexico-2026/",
+    "sourceName": "Líder Empresarial / INA / El Economista",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+      "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "SOPREMA: ~300 mdd y ~250 empleos en Polígono Empresarial San Miguel de Allende",
+      "slug": "soprema-300-mdd-poligono-empresarial-san-miguel-allende-2026-09",
+      "summary": "Somos Industria (sep 2026) y Mexico Industry (26 ago): la canadiense SOPREMA colocó la primera piedra de su planta en el Polígono Empresarial de San Miguel de Allende (Guanajuato), con inversión estimada de ~300 millones de dólares a largo plazo y ~250 empleos directos. La primera etapa será de membranas bituminosas (impermeabilización), con operaciones proyectadas a finales de 2027; el plan contempla 3–4 fases adicionales hasta consolidar un campus industrial. Atenderá mercados de Texas, Luisiana, Carolinas, Centroamérica y Sudamérica. El subsecretario Alejandro Hernández Fonseca situó a Guanajuato con ~79 proyectos por más de ~6,450 mdd. Lectura: ancla de materiales de construcción en SMA — plusvalía en lotes del polígono y demanda de proveeduría local; cruzar timeline 2027 y fases reales antes de especular con el campus completo.",
+      "category": "industrial",
+      "sourceUrl": "https://somosindustria.com/articulo/invierte-soprema-en-guanajuato/",
+      "sourceName": "Somos Industria / Mexico Industry",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+        "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+      }
+    },
+    {
+      "title": "Colón: Aeropark II y otro parque junto al AIQ; tres inversiones (eléctrico, aeroespacial, data center) en 2026",
+      "slug": "colon-aeropark-ii-parque-aiq-tres-inversiones-2026-09",
+      "summary": "Somos Industria (ago–sep 2026) y Líder Empresarial (jul 2026): el alcalde de Colón, Gaspar Trueba, anticipó al menos tres proyectos de gran escala para el cierre de 2026 —sector eléctrico, aeroespacial y almacenamiento de datos— cuyos anuncios oficiales corresponderían al gobernador Mauricio Kuri. El municipio alista dos nuevos parques industriales: Aeropark II y otro complejo «próximo a arrancar» cerca del Aeropuerto Intercontinental de Querétaro (AIQ). Ya operan ~4 data centers en Colón; una gaceta municipal (dic 2025) señaló una nueva subestación eléctrica ante la demanda energética. En marzo, el secretario municipal Hugo Costa proyectó crecimiento del empleo de hasta ~13% (~3 mil plazas). El Summit Industrial Colón se realizó el 25 sep 2026. Lectura: oferta nueva de tierra industrial/aeroportuaria en Colón — timing atractivo vs saturación El Marqués; montos, empresas y empleos aún sin anuncio formal, no comprar «por el rumor».",
+      "category": "tierra",
+      "sourceUrl": "https://somosindustria.com/articulo/llegaran-3-nuevas-empresas-a-colon/",
+      "sourceName": "Somos Industria / Líder Empresarial",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Vivienda Querétaro: ~$25,826/m² en agosto (+4% anual); nacional ~$32,394 (+4.4%)",
+      "slug": "vivienda-queretaro-25826-m2-agosto-inbaprevi-2026-09",
+      "summary": "Efecto Qro (9 sep 2026), con el Indicador Banorte de Precios de Vivienda (INBAPREVI): en agosto 2026 el precio ponderado en Querétaro se ubicó en ~$25,826 pesos por m² construido, +4% anual y +0.6% mensual — por debajo del alza nacional de ~4.4% a ~$32,394/m². La oferta nueva representó ~50.5% de la muestra; casas ~67.6% y departamentos ~32.4%. En el Bajío comparable, San Luis Potosí alcanzó ~$27,781/m² (+4% anual) y registró la mayor variación mensual entre entidades (+1%); Guanajuato ~$23,159/m². Lectura: QRO sigue por debajo del promedio nacional pero con tendencia alcista moderada — para inversionistas, el diferencial vs SLP/nacional importa más que el % anual; validar zona (Juriquilla vs periferia) antes de extrapolar el m² estatal.",
+      "category": "residencial",
+      "sourceUrl": "https://efectoqro.com/queretaro-sube-un-4-el-valor-de-la-vivienda/",
+      "sourceName": "Efecto Qro / INBAPREVI Banorte",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    }
+  ],
+  "editorialNote": "IED autopartes (Líder Empresarial 15 sep / El Economista 17–18 sep / INA–SE): México ~1,617 mdd (+31.3%); Bajío ~671 mdd (~41.4%); GTO ~337 (20.8% / ~82% de su IED); JAL ~141; SLP ~76; AGS ~75; QRO ~42 mdd. SOPREMA (Somos Industria sep / Mexico Industry 26 ago): ~300 mdd; ~250 empleos; membranas bituminosas; ops fin 2027; 3–4 fases; GTO ~79 proyectos / ~6,450 mdd. Colón (Somos Industria / Líder Empresarial): 3 proyectos (eléctrico, aeroespacial, data center); Aeropark II + parque cerca AIQ; ~4 data centers; empleo +~13%/~3 mil (mar); Summit 25 sep. Vivienda (Efecto Qro 9 sep / INBAPREVI): QRO ~$25,826/m² (+4%); nacional ~$32,394 (+4.4%); SLP ~$27,781 (+1% mensual); GTO ~$23,159. Cifras con ~. Verifica con la fuente antes de negociar."
+}
