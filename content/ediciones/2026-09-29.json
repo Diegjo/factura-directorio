@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-29",
+  "intro": "AutoZone colocó la primera piedra de un CEDIS en PILBA (León) con ~183 mdd, ~194,832 m² y ~600 empleos. Sedesu alista la Cédula de Operación Anual para medir el impacto ambiental de los ~17 data centers de Querétaro. Odata instala refrigeración líquida en QR03 (fase MX–Brasil ~630 mdd). En vivienda Bienestar, QRO lleva ~16,740 unidades en obra (~35% de la meta ~48,500).",
+  "headline": {
+    "title": "AutoZone: CEDIS en León (PILBA) con ~183 mdd, ~194,832 m² y ~600 empleos",
+    "slug": "autozone-cedis-leon-pilba-183-mdd-2026-09",
+    "summary": "Cluster Industrial (28 sep 2026) y el gobierno de León: AutoZone colocó la primera piedra de un nuevo Centro de Distribución (CEDIS) en la Plataforma Industrial León-Bajío (PILBA), con inversión de ~183 millones de dólares. El predio suma ~194 mil 832 m² y proyecta ~600 empleos, que se suman a los ~500 colaboradores que la compañía ya mantiene en Guanajuato. AutoZone opera ~55 tiendas en el estado (llegó en 2005) y supera las ~900 tiendas / ~12 mil colaboradores a nivel nacional. PILBA ya alberga Amazon y Mercado Libre; cuenta con subestación eléctrica propia, gas natural, planta de tratamiento, fibra óptica y conectividad multimodal hacia la federal 45, el Aeropuerto Internacional de Guanajuato y corredores del Bajío (~2 h a AGS, GDL, QRO y SLP). Participaron la gobernadora Libia Dennise García Muñoz Ledo y la alcaldesa Ale Gutiérrez. Lectura: ancla logística en León que refuerza demanda de naves/CEDIS en PILBA — validar timeline de obra y absorción de los ~600 puestos antes de extrapolar plusvalía del parque.",
+    "category": "industrial",
+    "sourceUrl": "https://clusterindustrial.com.mx/autozone-fortalece-su-red-logistica-en-el-bajio-con-inversion-de-183-mdd/",
+    "sourceName": "Cluster Industrial / Gobierno de León",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+      "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Sedesu: COA para medir impacto de ~17 data centers en QRO; 6 hiperescala ~50 MW en Colón",
+      "slug": "sedesu-coa-data-centers-queretaro-impacto-ambiental-2026-09",
+      "summary": "El Economista (24 sep 2026): el secretario de Sedesu, Marco Antonio Del Prete, anunció en glosa del 5º informe (23 sep) que Querétaro implementará la Cédula de Operación Anual (COA) con la Asociación Mexicana de Data Centers (MEXDC) para reportar emisiones, agua y residuos de los centros de datos. La entidad concentra ~72% de la capacidad instalada nacional. Hay ~17 data centers (mayoría medianos); por construirse seis de hiperescala de ~50 MW en un complejo de Colón y otro de ~50 MW en El Marqués; el resto oscila entre ~8 y ~20 MW. Comparó el consumo hídrico de un DC mediano (~25 MW) con un hotel de ~300 habitaciones, un hospital de ~100 camas o un edificio de ~1,000 trabajadores. La COA es voluntaria; primeras mediciones públicas estimadas a principios de 2027. Oxfam México cuestiona el aporte social y la demanda de agua/energía en el estudio «La huella que dejan las nubes». Lectura: más transparencia operativa en Colón/El Marqués — filtrar proyectos con energía/agua asegurados y reportes COA vs mera narrativa «data-center ready».",
+      "category": "corporativo",
+      "sourceUrl": "https://www.eleconomista.com.mx/estados/cuestionamientos-consumo-recursos-buscan-medir-impacto-centros-datos-queretaro-20260924-835213.html",
+      "sourceName": "El Economista / Sedesu",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/centro-de-datos-racks.jpg",
+        "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+      }
+    },
+    {
+      "title": "Odata QR03: refrigeración líquida DeltaFlow; fase MX–Brasil ~630 mdd",
+      "slug": "odata-qr03-refrigeracion-liquida-deltaflow-630-mdd-2026-09",
+      "summary": "El Economista (22 sep 2026): Odata (Aligned Data Centers) instalará refrigeración líquida DeltaFlow (con Munters) en su centro de datos QR03 en Querétaro para atender demanda de servidores de alta densidad (IA / machine learning). El sistema lleva refrigerante hasta los gabinetes y convive con el enfriamiento por aire Delta Cube. La fase que incluye QR03 (México) y el campus SP04 (Brasil) se relaciona con una inversión conjunta de ~630 millones de dólares. Munters fabricará las unidades en Araucária (Paraná). México operaba ~279 MW de capacidad en data centers en abril 2026 y tenía ~205 MW en construcción (MEXDC); parte de lo terminado aún espera energía. CloudHQ, con campus de seis instalaciones en QRO, terminó su primera subestación de alta tensión y reportó en septiembre ~36% de avance en la segunda. Lectura: densificación de MW en stock existente — prima a naves/campus con subestación y PPA; el ~630 mdd es conjunto MX–BR, no solo QRO.",
+      "category": "corporativo",
+      "sourceUrl": "https://www.eleconomista.com.mx/tecnologia/odata-demanda-operar-servidores-alta-densidad-queretaro-20260922-834690.html",
+      "sourceName": "El Economista / Odata",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Edificio corporativo moderno con fachada de cristal en Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Gobierno de Querétaro / uso editorial",
+        "creditUrl": "https://www.queretaro.gob.mx/"
+      }
+    },
+    {
+      "title": "Vivienda Bienestar QRO: ~16,740 en obra (~35% de meta ~48,500); ~119 mil créditos",
+      "slug": "vivienda-bienestar-queretaro-16740-obra-meta-48500-2026-09",
+      "summary": "Informe Queretano (18 sep 2026), con el balance del segundo año de la administración federal: la meta estatal de vivienda contempla ~48,500 hogares vía CONAVI, INFONAVIT y FOVISSSTE. Al cierre de agosto, SEDATU registraba ~16,740 viviendas en proceso de construcción (~35% de la meta). Más de ~119 mil familias han recibido créditos de vivienda a través de INFONAVIT y FOVISSSTE; se mantiene una meta de regularización de ~14,526 escrituras vía INSUS. El informe también cita avance del tren CDMX–Querétaro cercano a ~19% y del tramo Querétaro–Irapuato (~108 km) de ~12%, además de ~24,175 mdp para la Ruta Alterna Huehuetoca–San Juan del Río y ~800 mdp para modernizar el Libramiento Noreste (horizonte 2028, BANOBRAS). Lectura: pipeline de vivienda social/media en QRO aún lejos de la meta — oportunidad en suelo periurbano y trámites, pero cruzar avance real por municipio vs el agregado estatal.",
+      "category": "residencial",
+      "sourceUrl": "https://informequeretano.com/2026/09/18/claudia-sheinbaum-reporta-avances-de-infraestructura-y-bienestar-en-queretaro/",
+      "sourceName": "Informe Queretano / SEDATU",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    }
+  ],
+  "editorialNote": "AutoZone (Cluster Industrial 28 sep / Gobierno de León): CEDIS PILBA ~183 mdd; ~194,832 m²; ~600 empleos; ~55 tiendas GTO; ~900 tiendas / ~12 mil colaboradores nacionales; vecinos Amazon/Mercado Libre. Sedesu COA (El Economista 24 sep / glosa 23 sep): ~17 DC; ~72% capacidad nacional; 6 hiperescala ~50 MW Colón + 1 ~50 MW El Marqués; mediciones ~inicio 2027; Oxfam «La huella que dejan las nubes». Odata (El Economista 22 sep): DeltaFlow QR03; fase MX–BR ~630 mdd; México ~279 MW operando / ~205 MW en obra (abr 2026, MEXDC); CloudHQ 2ª subestación ~36%. Vivienda (Informe Queretano 18 sep / SEDATU): meta ~48,500; ~16,740 en obra (~35%); ~119 mil créditos; INSUS ~14,526 escrituras. Cifras con ~. Verifica con la fuente antes de negociar."
+}
