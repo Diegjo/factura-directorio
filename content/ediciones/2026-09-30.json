@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-30",
+  "intro": "Martinrea reinvirtió ~50 mdd en su planta de Silao (Puerto Interior) con prensa SIMPAC de ~3,000 t y ~30 empleos nuevos. Sedesu alista ampliación del AIQ en tres etapas (fase 1 ~+3 millones de pasajeros). En oficinas, Juriquilla concentra ~75% de la construcción corporativa de QRO. En León, Montevalle arranca ~128 departamentos con inversión conjunta ~103 mdp.",
+  "headline": {
+    "title": "Martinrea: ~50 mdd en Silao (Puerto Interior); prensa ~3,000 t y ~30 empleos",
+    "slug": "martinrea-50-mdd-silao-puerto-interior-prensa-2026-09",
+    "summary": "Gobierno de Guanajuato y Publimetro (30 sep 2026): la canadiense Martinrea inauguró una ampliación de ~50 millones de dólares en su planta de Silao, dentro de Puerto Interior. El proyecto incorpora una prensa SIMPAC de ~3 mil toneladas —una de las de mayor capacidad en América Latina para estampado metálico automotriz—, un proceso de roll forming (Samco) y celdas de automatización/robótica ligadas a plataformas de General Motors. Compromete ~30 empleos nuevos; la planta pasó de ~53 colaboradores en 2012 a ~596 hoy y proyecta superar ~600. Rob Wildeboer (Martinrea International) destacó que México es el país con mayor presencia operativa de la firma (~15 instalaciones en 5 estados, ~8 mil colaboradores). Con esta reinversión, la administración estatal suma ~81 proyectos por ~6,556.87 mdd y ~20,747 empleos comprometidos. Lectura: ancla automotriz en Silao/Puerto Interior — validar ramp-up de volumen GM y absorción real de los ~30 puestos antes de extrapolar demanda de naves o proveeduría local.",
+    "category": "industrial",
+    "sourceUrl": "https://boletines.guanajuato.gob.mx/2026/09/30/crece-martinrea-en-guanajuato-con-inversion-de-50-mdd/",
+    "sourceName": "Gobierno de Guanajuato / Publimetro",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+      "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "AIQ: plan de ampliación en 3 etapas; fase 1 ~+3 M pasajeros antes de fin 2026",
+      "slug": "aiq-plan-ampliacion-tres-etapas-3-millones-pasajeros-2026-09",
+      "summary": "El Economista (23 sep 2026) y adn40 (27 sep): Sedesu (Marco Antonio Del Prete) presentó ante la LXI Legislatura un proyecto de ampliación de la terminal de pasajeros del Aeropuerto Internacional de Querétaro. En el momento más crítico, la ocupación llegó a ~2.08 m² por pasajero (umbral IATA de no saturación ~1.8 m²). Del 2021 a la fecha el tráfico creció ~191%; ene–ago 2026 movilizó ~1,575,580 pasajeros (+11.7% anual) y se estima cerrar 2026 en ~2.7 millones (capacidad actual ~3.5 M). El plan se daría a conocer a finales de 2026, en tres etapas; la primera sumaría capacidad para ~3 millones de pasajeros adicionales (meta >~6 M). En aire hay margen: capacidad ~59 operaciones/hora vs ~24 en pico. El AIQ opera sobre ~688.5 ha entre El Marqués y Colón. Lectura: cuello de botella en tierra, no en pista — oportunidad en hoteles, oficinas y logística cerca del AIQ; timing de obra aún por confirmar antes de pagar prima «aeropuerto-ready».",
+      "category": "aeroportuario",
+      "sourceUrl": "https://www.eleconomista.com.mx/estados/plan-ampliacion-aeropuerto-queretaro-busca-frenar-saturacion-pasajeros-20260923-834991.html",
+      "sourceName": "El Economista / Sedesu",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Juriquilla: ~75% de oficinas en obra en QRO; vacancia ~4.1% y renta ~19 usd/m²",
+      "slug": "juriquilla-oficinas-75-construccion-vacancia-4-1-renta-19-usd-2026-09",
+      "summary": "Líder Empresarial (25 sep 2026), con datos Solili al cierre de agosto 2026: el corredor Juriquilla concentró ~75% de la superficie de oficinas en construcción en Querétaro, con proyectos principalmente Clase A. Disponibilidad ~6,000 m² y vacancia ~4.1% —la más baja del mercado corporativo local—. En ene–ago 2026 concentró ~25% de las transacciones (tercer corredor por actividad). La renta promedio alcanzó ~19 dólares por m² al mes, +~1.62 usd/m² vs agosto 2025, el precio más alto entre corredores queretanos. Lectura: oferta nueva Clase A llega a un corredor ya estrecho — prima de renta justificada si la absorción se mantiene; filtrar entregas reales vs anuncios y comparar vs Bernardo Quintana u otros corredores antes de anclar valuaciones.",
+      "category": "corporativo",
+      "sourceUrl": "https://www.liderempresarial.com/corredor-juriquilla-concentra-75-de-la-construccion-de-oficinas-en-queretaro/",
+      "sourceName": "Líder Empresarial / Solili",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+      }
+    },
+    {
+      "title": "León Montevalle: ~128 departamentos (~740–870 mil); inversión conjunta ~103 mdp",
+      "slug": "leon-montevalle-128-departamentos-imuvi-103-mdp-2026-09",
+      "summary": "Página Central (17 sep 2026): León inició la construcción de ~128 departamentos en Montevalle (polígono Las Joyas), con precios de ~740 mil a ~870 mil pesos. IMUVI estima inversión conjunta con el desarrollador de ~103 millones de pesos; el municipio aportó el terreno. Con subsidios municipales/estatales, el costo para familias podría bajar a ~620 mil pesos. Cada unidad: 2 habitaciones, cocina, baño, estacionamiento y áreas verdes; 16 torres con primeros módulos hacia marzo próximo. El programa estatal Mi Nuevo Hogar ofrece hasta ~100 mil pesos a fondo perdido (viviendas ≤~1 mdp, crédito Infonavit preaprobado). Lectura: vivienda económica vertical en León con mezcla público-privada — útil para absorción de empleo industrial (PILBA/Silao); cruzar lista de espera IMUVI y calendario de entrega vs la meta de marzo.",
+      "category": "residencial",
+      "sourceUrl": "https://paginacentral.com.mx/local/2026/sep/17/quieres-un-departamento-economico-arranca-construccion-de-vivienda-con-apoyo-de-imuvi-67835.html",
+      "sourceName": "Página Central / IMUVI León",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Martinrea (Gob. GTO / Publimetro 30 sep): ~50 mdd Silao Puerto Interior; prensa SIMPAC ~3,000 t; roll forming Samco; ~30 empleos; planta ~596 colaboradores (de ~53 en 2012); Martinrea MX ~15 instalaciones / ~8 mil colaboradores; admin. GTO ~81 proyectos / ~6,556.87 mdd / ~20,747 empleos. AIQ (El Economista 23 sep / adn40 27 sep / Sedesu): ~2.08 m²/pasajero vs IATA ~1.8; +~191% desde 2021; ene–ago ~1,575,580 (+11.7%); cierre 2026 ~2.7 M (capacidad ~3.5 M); plan 3 etapas, fase 1 ~+3 M; pico aéreo ~24 vs ~59 ops/h; ~688.5 ha. Juriquilla (Líder Empresarial 25 sep / Solili ago): ~75% oficinas en obra; vacancia ~4.1% / ~6,000 m²; ~25% transacciones ene–ago; renta ~19 usd/m² (+~1.62 vs ago 2025). Montevalle León (Página Central 17 sep / IMUVI): ~128 deptos; ~740–870 mil; ~103 mdp; ~620 mil con subsidios; 16 torres; Mi Nuevo Hogar hasta ~100 mil. Cifras con ~. Verifica con la fuente antes de negociar."
+}
