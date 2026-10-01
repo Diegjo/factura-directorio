@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-10-01",
+  "intro": "La vivienda sube más rápido donde están los parques industriales: según Inmuebles24, El Marqués avanza ~8.5% en dos años contra ~6.5% del promedio estatal. Guanajuato cierra agosto con ~36 mil m² de demanda industrial frente a más de ~260 mil m² disponibles, y su aeropuerto estrena ruta a Vancouver el 3 de octubre con un plan maestro de ~2,881 mdp. En la capital queretana, el Semáforo Inmobiliario solo marca 2 de 101 fraccionamientos entregados al municipio.",
+  "headline": {
+    "title": "Vivienda junto a parques industriales: El Marqués +~8.5% en 2 años; Santa Rosa Jáuregui ~31,899 $/m²",
+    "slug": "vivienda-parques-industriales-el-marques-santa-rosa-inmuebles24-2026-10",
+    "summary": "Centro Urbano y Real Estate Market (30 sep 2026), con el Index de Inmuebles24: los precios de publicación de vivienda en venta en Querétaro subieron ~6.5% entre 2024 y 2026, pero los municipios con parques industriales van por encima del promedio. El Marqués —que concentra ~30 de los más de 50 parques industriales del estado— lidera con +~8.49% y ~26,722 $/m². Santa Rosa Jáuregui (2 parques) sube ~7.14% a ~31,899 $/m², el valor más alto de las tres zonas; Corregidora (3 parques) avanza ~7% a ~24,078 $/m². En renta el cuadro es desigual: el promedio estatal sube ~3.5%; Corregidora +~10.9% (~9,284 $/mes), Santa Rosa Jáuregui +>~7% (~12,376 $/mes) y El Marqués −~2.4% (~9,919 $/mes). Son precios de publicación, no cierres. Lectura: el empleo industrial empuja más la compraventa que la renta — en El Marqués el spread venta/renta se abre y comprime el rendimiento bruto; para patrimonial en renta, Corregidora muestra mejor tracción. Validar con avalúo y absorción por desarrollo antes de pagar prima «cerca del parque».",
+    "category": "residencial",
+    "sourceUrl": "https://centrourbano.com/revista/vivienda/expansion-industrial-precios-vivienda-queretaro/",
+    "sourceName": "Centro Urbano / Inmuebles24",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+      "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Guanajuato industrial: ~36 mil m² de demanda a agosto y más de ~260 mil m² disponibles (~70% Clase A)",
+      "slug": "guanajuato-industrial-demanda-36-mil-m2-disponible-260-mil-2026-10",
+      "summary": "Solili (28 sep 2026) y Real Estate Market: al cierre de agosto de 2026, Guanajuato acumuló una demanda industrial de ~36 mil m². La oferta disponible para arrendamiento supera ~260 mil m², de la cual más de ~70% son naves Clase A. La renta promedio se mantuvo en ~5.44 dólares por m² al mes, la más competitiva del país y estable en los últimos meses. Solili atribuye la cautela a los cambios arancelarios y en el comercio internacional, que alargan las decisiones de desarrolladores y clientes; en julio la demanda estatal había caído ~20% anual (~17 mil m²), sin nuevos arrendamientos build-to-suit en lo que va del año. Lectura: mercado del inquilino en GTO — la oferta disponible equivale a ~7 veces la demanda acumulada a agosto; buen momento para negociar renta y periodos de gracia, mal momento para especular con nave nueva sin pre-arrendamiento.",
+      "category": "industrial",
+      "sourceUrl": "https://www.solili.mx/noticias/guanajuato-con-las-rentas-industriales-mas-competitivas-del-pais-y-mas-de-260-mil-m2-vacantes/8166/",
+      "sourceName": "Solili / Real Estate Market",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+        "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+      }
+    },
+    {
+      "title": "Aeropuerto de Guanajuato: ruta a Vancouver desde el 3 de octubre; plan maestro ~2,881 mdp a 2029",
+      "slug": "aeropuerto-guanajuato-vancouver-plan-maestro-2881-mdp-2026-10",
+      "summary": "Líder Empresarial (1 sep 2026): el Aeropuerto Internacional de Guanajuato (BJX, Silao) suma una ruta a Vancouver, Canadá, con inicio previsto el 3 de octubre de 2026, a sus ~11 destinos nacionales y ~12 en Estados Unidos. El Plan Maestro 2025–2029 contempla ~2,881 mdp: terminal +~23%, sala de reclamo +~49%, tres puertas de abordaje y dos líneas de inspección nuevas, cinco filtros migratorios autónomos y seis posiciones para aeronaves. En ene–jul la carga creció ~128% (~1,885 t). Con cifras preliminares de GAP (Líder Empresarial, 10 sep), BJX movió ~289.5 mil pasajeros en agosto (+3.4%), pero el acumulado ene–ago (~2.13 millones) va −3.3% y el internacional −6.1%. El calendario estatal (feb 2026) carga el grueso de la obra en 2027–2029 (~1,900 mdp). Lectura: el enlace con Canadá suma para la proveeduría automotriz de Silao/Puerto Interior, pero el tráfico 2026 aún no se recupera — no pagar prima hotelera o logística junto a BJX antes de ver avance real de la obra 2027–2029.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://www.liderempresarial.com/aeropuerto-internacional-guanajuato-inversion-economia-bajio/",
+      "sourceName": "Líder Empresarial / GAP",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Semáforo Inmobiliario QRO: 2 de 101 fraccionamientos entregados; 36 condominios ofertados sin autorización",
+      "slug": "semaforo-inmobiliario-queretaro-fraccionamientos-condominios-sin-autorizacion-2026-10",
+      "summary": "Expreso Querétaro (28 sep 2026): el Semáforo Inmobiliario del municipio de Querétaro lista 101 fraccionamientos y solo 2 han sido entregados formalmente a la autoridad municipal: Altos de Juriquilla (Banregio), en los ejidos El Nabo y Jurica, y Misión La Joya II (Cecsa de Querétaro del Centro), en sus tres etapas. 13 están en rojo —en 4 se desconoce el propietario; los demás se vinculan con Monex, Garb Mobiliaria (3), Actinver, otras razones sociales y una persona física—; el resto tiene trámite de entrega vencido, en proceso, no aplica, sin autorización u oferta comercial no regularizada. En condominios hay 30 entregados y 36 en rojo como «desarrollos ofertados a la venta sin autorización», la mayoría bajo fideicomisos de administración o inmobiliarios, o en revisión de licencias urbanísticas y permisos de comercialización. Lectura: due diligence antes de comprar en preventa o lote — revisar el semáforo, la licencia de venta y el estatus de entrega-recepción; un fraccionamiento no entregado puede dejar vialidades, alumbrado y agua a cargo de los colonos y castigar la reventa.",
+      "category": "tierra",
+      "sourceUrl": "https://expresoqueretaro.com/2026/09/28/asi-va-el-semaforo-inmobiliario-solo-van-2-fraccionamientos-y-30-condominios-entregados-a-las-autoridades/",
+      "sourceName": "Expreso Querétaro / Municipio de Querétaro",
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Vivienda/parques (Centro Urbano / REM 30 sep, Index Inmuebles24): QRO venta +~6.5% en 2 años; El Marqués +~8.49% (~26,722 $/m²; ~30 de >50 parques); Santa Rosa Jáuregui +~7.14% (~31,899 $/m²); Corregidora +~7% (~24,078 $/m²); renta QRO +~3.5%, Corregidora +~10.9% (~9,284), Santa Rosa +>~7% (~12,376), El Marqués −~2.4% (~9,919); precios de publicación, no cierres. GTO industrial (Solili / REM 28 sep): demanda acumulada ~36 mil m² a agosto; disponible >~260 mil m² (>~70% Clase A); renta ~5.44 usd/m²/mes; julio ~17 mil m² (−~20%, Solili 21 ago). BJX (Líder Empresarial 1 y 10 sep / GAP / Gob. GTO feb): Vancouver desde 3 oct; plan maestro ~2,881 mdp 2025–2029 (~1,900 mdp en 2027–2029); terminal +~23%; carga ene–jul ~1,885 t (+~128%); ago ~289.5 mil pasajeros (+3.4%); ene–ago ~2.13 M (−3.3%). Semáforo Inmobiliario QRO (Expreso Querétaro 28 sep): 101 fraccionamientos, 2 entregados, 13 en rojo; condominios 30 entregados / 36 ofertados sin autorización. Cifras con ~. Verifica con la fuente antes de negociar."
+}
