@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-02",
+  "intro": "Querétaro frena la obra industrial: ~132 mil m² en construcción (−~57% anual) y arrendamientos jul–ago −~35%, con vacancia estable en ~5%. El contraste es Guanajuato, que en el 1S26 inició ~170 mil m² (~85% BTS). El AIQ estrena ruta a Las Vegas con Volaris, y Sedesu cifra 233 proyectos por más de ~130 mil mdp en la administración.",
+  "headline": {
+    "title": "Construcción industrial en Querétaro cae ~57%: ~132 mil m² en obra y arrendamientos jul–ago −~35%",
+    "slug": "construccion-industrial-queretaro-cae-57-solili-agosto-2026-10",
+    "summary": "Centro Urbano (23 sep 2026) y Real Estate Market, con datos de Solili al cierre de agosto: la superficie industrial en construcción en Querétaro sumó ~132 mil m², −~57% frente a agosto de 2025, y representa apenas ~1.5% del inventario (~8.79 millones de m², +~5% anual). En julio–agosto, los proyectos que iniciaron obra acumularon poco más de ~50 mil m² (−~47% anual) y los arrendamientos ~53 mil m² (−~35%). La vacancia se mantuvo en ~5.0% (+~0.2 pp vs. un año antes) y Solili reporta rentas al alza. Lectura: el mercado ya no expande oferta a ciegas — hay espacio para negociar pre-arrendamiento y plazos, pero no para especular con nave especulativa sin demanda firmada; la vacancia estable dice que el ajuste es de pipeline, no de sobreoferta aguda.",
+    "category": "industrial",
+    "sourceUrl": "https://centrourbano.com/revista/inmobiliario/construccion-industrial-en-queretaro-cae-57-ante-menor-demanda/",
+    "sourceName": "Centro Urbano / Solili",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+      "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "AIQ: Volaris abre Querétaro–Las Vegas desde el 2 de octubre; ~2 vuelos/sem y tarifa desde ~1,653 pesos",
+      "slug": "aiq-volaris-ruta-las-vegas-octubre-2026-10",
+      "summary": "Al Diálogo (2–3 oct 2026): Volaris inició el 2 de octubre la ruta directa Querétaro–Las Vegas, con dos frecuencias semanales (lunes y viernes). Salidas desde Querétaro a las 17:20 h y desde Las Vegas a las 14:00 h; costo aproximado de ~1,653 pesos según la nota. Con esta conexión, el Aeropuerto Intercontinental de Querétaro alcanza ~19 destinos (~11 nacionales y ~8 internacionales); Las Vegas se suma a Orlando, Los Ángeles, Houston, Dallas y San Antonio en la red Volaris hacia EE.UU. Rodrigo Ibarra (Promoción Turística, Sectur QRO) subrayó el potencial turístico y de negocios. Lectura: buena señal de conectividad para hotelero y MICE de corto plazo, pero el impacto inmobiliario industrial/logístico será marginal frente a rutas cargo o hubs de manufactura — no pagar prima aeroportuaria solo por este vuelo.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://aldialogo.mx/trending/2026/10/02/queretaro-estrena-vuelo-directo-a-las-vegas",
+      "sourceName": "Al Diálogo / Sectur Querétaro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "Sedesu: 233 proyectos de inversión concretados y más de ~130 mil mdp en la administración",
+      "slug": "sedesu-233-proyectos-inversion-130-mil-mdp-queretaro-2026-10",
+      "summary": "Rotativo de Querétaro y Expediente Q (30 sep 2026): el secretario de Desarrollo Sustentable, Marco Antonio Del Prete Tercero, presidió la tercera sesión del Comité Promotor de Inversión y reportó 233 proyectos de inversión concretados en lo que va de la administración estatal, por un monto superior a ~130 mil millones de pesos. El encuentro se centró en competitividad y en los factores que mantienen a Querétaro entre los primeros lugares del Índice de Competitividad Estatal del IMCO. Lectura: cifra agregada de atracción de capital — útil como contexto macro, no como pipeline inmobiliario verificable; antes de asumir absorción industrial o de oficinas, pedir desglose por sector, municipio y estatus (anunciado vs. en obra vs. operando).",
+      "category": "tierra",
+      "sourceUrl": "https://rotativo.com.mx/sedesu-233-proyectos-inversion-130-mil-millones-queretaro",
+      "sourceName": "Rotativo / Expediente Q / Sedesu",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/tierra-plana-bajio-cultivo.jpg",
+        "alt": "Terreno agrícola plano en el Bajío, con surcos abiertos y cerros bajos en el horizonte.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Cultivo_(Dolores_Hidalgo,_Gto.)_III.jpg"
+      }
+    },
+    {
+      "title": "Guanajuato 1S26: ~170 mil m² de inicios industriales; ~85% BTS y Silao–León con ~68%",
+      "slug": "guanajuato-170-mil-m2-bts-silao-leon-1s26-2026-10",
+      "summary": "Solili (30 jul 2026) y Centro Urbano (31 jul): entre enero y junio de 2026 Guanajuato acumuló ~170 mil m² en inicios de construcción industrial. Los desarrollos Build to Suit concentraron ~85% de esa actividad, impulsados sobre todo por compañías de origen extranjero orientadas a manufactura. El corredor Silao–León concentró ~68% de la superficie que inició obras, por demanda sostenida y disponibilidad de tierra. Lectura: contraste con Querétaro — en GTO el pipeline sigue jalado por BTS (menos riesgo especulativo); para desarrolladores en Silao/Puerto Interior, priorizar pre-arrendamiento manufacturero; el dato es de cierre 1S26, no de agosto, así que cruzarlo con la demanda acumulada reciente (~36 mil m² a ago) antes de asumir absorción inmediata.",
+      "category": "industrial",
+      "sourceUrl": "https://centrourbano.com/revista/inmobiliario/bts-concentra-construccion-industrial-guanajuato/",
+      "sourceName": "Centro Urbano / Solili",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+        "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+      }
+    }
+  ],
+  "editorialNote": "QRO industrial (Centro Urbano 23 sep / REM / Solili ago): en construcción ~132 mil m² (−~57% anual; ~1.5% del inventario); inventario ~8.79 Mm² (+~5%); inicios jul–ago ~>~50 mil m² (−~47%); arrendamientos jul–ago ~53 mil m² (−~35%); vacancia ~5.0% (+~0.2 pp); rentas al alza. AIQ Las Vegas (Al Diálogo 2–3 oct / Sectur QRO): Volaris desde 2 oct; lun/vie; QRO 17:20 / LAS 14:00; ~1,653 pesos; AIQ ~19 destinos (~11 nac / ~8 int). Sedesu (Rotativo / Expediente Q 30 sep): 233 proyectos / >~130 mil mdp administración; Comité Promotor / IMCO. GTO 1S26 (Solili 30 jul / Centro Urbano 31 jul): inicios ~170 mil m²; BTS ~85%; Silao–León ~68%. Cifras con ~. Verifica con la fuente antes de negociar."
+}
