@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-04",
+  "intro": "Querétaro exportó ~5,231.9 mdd en manufactura en el 2T26 (+~12% anual), aunque la construcción de naves viene frenando. La Secretaría de Turismo proyecta cerrar 2026 con ~26 millones de visitantes y ~22,400 cuartos de hotel (+10–15%). Inmuebles24 muestra rentas habitacionales divergentes: Corregidora +~10.9% y El Marqués −~2.4% en dos años. Y Guanajuato ya va en ~85% de su meta sexenal de inversión (~7 mil mdd).",
+  "headline": {
+    "title": "Querétaro exporta ~5,231.9 mdd en manufactura en el 2T26; +~12% anual pese al freno en naves nuevas",
+    "slug": "queretaro-exportaciones-manufactureras-2t26-12-por-ciento-2026-10",
+    "summary": "Quadratín Querétaro (3 oct 2026): el sector manufacturero concentró ~98.6% de las exportaciones de Querétaro en el segundo trimestre de 2026, con un valor de ~5,231.9 millones de dólares, un crecimiento de ~12% frente al 2T25. Las exportaciones totales del estado sumaron ~5,305.4 mdd en el trimestre (+~12.3% anual). Contexto: en paralelo, Solili reporta que la superficie industrial en construcción en Querétaro cayó ~57% a ~132 mil m² al cierre de agosto, con vacancia estable en ~5% y rentas al alza. Lectura: la planta instalada está produciendo y exportando más aunque los desarrolladores frenan la oferta nueva — combinación que tiende a sostener ocupación y rentas de naves existentes. Para el inversionista, favorece activos estabilizados con inquilino exportador sobre especulación en naves inventario; la cifra es de valor exportado, no de metros rentados.",
+    "category": "industrial",
+    "sourceUrl": "https://queretaro.quadratin.com.mx/sector-manufacturero-concentra-98-6-de-exportaciones/",
+    "sourceName": "Quadratín Querétaro",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Querétaro proyecta ~26 M de turistas en 2026 y ~22,400 cuartos de hotel (+10–15%); ocupación ~65%",
+      "slug": "queretaro-turismo-2026-hoteles-22400-cuartos-2026-10",
+      "summary": "El Economista (1 oct 2026): la Secretaría de Turismo estatal estima cerrar 2026 con ~26 millones de turistas y una derrama de ~36,000 millones de pesos, ambos ~5% arriba de 2025. El estado cuenta con ~1,800 establecimientos de hospedaje y ~22,400 habitaciones, indicador que crece ~10–15%; la ocupación hotelera promedio ronda ~65% (60–65% en el puente patrio, ~70% el 15 y 16 de septiembre). El vuelo Madrid–Querétaro reporta ocupación promedio de ~95%, la más alta del AIQ. El turismo pesa casi ~20% del PIB estatal. Lectura: la oferta de cuartos crece más rápido que la demanda (+10–15% vs +~5%), así que el margen para hoteles nuevos genéricos se estrecha; el espacio está en producto diferenciado (boutique en Centro Histórico, Ruta del Arte, Queso y Vino, pueblos mágicos) más que en cuartos de negocio estándar.",
+      "category": "corporativo",
+      "sourceUrl": "https://www.eleconomista.com.mx/estados/queretaro-estima-cerrar-2026-alza-5-indicadores-turisticos-20261001-836343.html",
+      "sourceName": "El Economista",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/edificio-corporativo-c911-queretaro.jpg",
+        "alt": "Fachada de vidrio de un edificio corporativo de oficinas en la ciudad de Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Mizael Contreras / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Edificio_C911_Corporativo,_en_Quer%C3%A9taro.jpg"
+      }
+    },
+    {
+      "title": "Rentas de vivienda en QRO divergen: Corregidora +~10.9% en dos años; El Marqués −~2.4%",
+      "slug": "rentas-vivienda-queretaro-corregidora-el-marques-inmuebles24-2026-10",
+      "summary": "El Economista / Index Inmuebles24 (4 oct 2026): en renta, Corregidora registró el mayor incremento de 2024 a 2026, ~10.9%, hasta un precio de publicación de ~9,284 pesos mensuales; Santa Rosa Jáuregui subió poco más de ~7% a ~12,376 pesos; en El Marqués la renta publicada bajó ~2.4% a ~9,919 pesos. En venta, el precio de publicación en Querétaro subió ~6.5% en dos años (El Marqués +~8.49%, Santa Rosa Jáuregui +~7.14%, Corregidora +~7%), con ~31,899 $/m² en Santa Rosa Jáuregui, ~26,722 en El Marqués y ~24,078 en Corregidora. Lectura: en El Marqués los precios de venta suben pero la renta retrocede — señal de sobreoferta de producto en arrendamiento y de cap rates comprimiéndose; Corregidora luce más sana para compra-para-rentar. Ojo: son precios de publicación en portal, no de cierre.",
+      "category": "residencial",
+      "sourceUrl": "https://www.eleconomista.com.mx/econohabitat/buscas-casa-queretaro-zonas-han-encarecido-vivienda-dos-anos-20261004-836730.html",
+      "sourceName": "El Economista / Inmuebles24",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos en Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    },
+    {
+      "title": "Guanajuato llega a ~85% de su meta sexenal de inversión: ~7 mil mdd de ~10 mil",
+      "slug": "guanajuato-85-por-ciento-meta-sexenal-inversion-2026-10",
+      "summary": "NW Noticias (4 oct 2026): la secretaria de Economía de Guanajuato, Cristina Villaseñor Aguilar, informó que el estado alcanzó ~85% de la meta sexenal de atracción de inversiones, al acercarse a ~7 mil millones de dólares frente a un objetivo de ~10 mil millones. Destacó la inversión canadiense como señal de confianza en medio de la incertidumbre arancelaria (la semana pasada Martinrea anunció ~50 mdd en Silao/Puerto Interior). Lectura: el ritmo de anuncios sigue dando soporte a la demanda de tierra y naves en el corredor Silao–León–Celaya, pero el avance es de compromisos anunciados, no de capital ejercido ni de m² absorbidos; contrasta con la caída de inicios industriales que reporta Solili. Útil como contexto para tierra industrial con servicios, no como garantía de absorción en 2026.",
+      "category": "tierra",
+      "sourceUrl": "https://nwnoticias.com/estados/guanajuato-alcanza-85-de-la-meta-sexenal-de-atraccion-de-inversiones",
+      "sourceName": "NW Noticias Guanajuato",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Exportaciones QRO 2T26 (Quadratín 3 oct): manufactura ~5,231.9 mdd / ~98.6% / +~12% anual; total ~5,305.4 mdd / +~12.3%; contexto Solili construcción industrial ~132 mil m² (−~57%), vacancia ~5%. Turismo QRO (El Economista 1 oct): ~26 M turistas / ~36,000 mdp derrama (+~5%); ~1,800 establecimientos / ~22,400 cuartos (+10–15%); ocupación ~65%; Madrid–QRO ~95%. Rentas QRO (El Economista / Inmuebles24 4 oct): Corregidora +~10.9% a ~9,284 $/mes; Santa Rosa Jáuregui +~7% a ~12,376; El Marqués −~2.4% a ~9,919; venta +~6.5% en 2 años. GTO meta sexenal (NW Noticias 4 oct): ~85% / ~7 mil de ~10 mil mdd. Cifras con ~. Verifica con la fuente antes de negociar."
+}
