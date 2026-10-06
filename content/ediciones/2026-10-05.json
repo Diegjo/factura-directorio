@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-05",
+  "intro": "CloudHQ eleva a casi ~6,000 mdd el financiamiento de su campus de seis centros de datos en Querétaro y lleva la capacidad energética a su cargo de ~250 MW a casi ~1,000 MW. Mars revela que invirtió ~3,500 mdp en cinco años en sus plantas queretanas de alimento para mascotas. El Centro SICT ubica a Querétaro como nodo de los trenes hacia Nuevo Laredo y Guadalajara, con operación prevista para noviembre de 2027. Y la Fiscalía frena al menos ~3 desarrollos por presunto fraude en venta de lotes, mientras el Semáforo Inmobiliario mantiene ~13 fraccionamientos y ~36 condominios en rojo.",
+  "headline": {
+    "title": "CloudHQ eleva a casi ~6,000 mdd su campus de data centers en Querétaro; energía propia de ~250 a ~1,000 MW",
+    "slug": "cloudhq-queretaro-6000-mdd-1000-mw-data-centers-2026-10",
+    "summary": "El Economista (5 oct 2026): CloudHQ aumentará de ~4,800 millones de dólares a casi ~6,000 millones el monto de financiamiento para su campus de seis centros de datos en Querétaro, proyecto que desarrolla en conjunto con el gobierno estatal. En reunión con el gobernador Mauricio Kuri, la firma estadounidense informó que elevará la capacidad energética —completamente a su cargo— de ~250 MW a casi ~1,000 MW, y que el calendario de ejecución avanza conforme a los tiempos establecidos; participaron Sedesu (Marco Antonio Del Prete) y la Agencia de Energía estatal. Códice Informativo confirma las cifras (~4,800 a ~6,000 mdd; ~250 a ~1,000 MW). Lectura: el salto no es solo de capex sino de potencia: cuadruplicar la energía autosuministrada resuelve el principal candado de los data centers en Querétaro (subestaciones y transmisión) y suele arrastrar demanda de tierra con factibilidad eléctrica, servicios para contratistas y vivienda para personal técnico en el corredor oriente. Para el inversionista, la señal favorece predios con acceso a líneas de alta tensión y agua; ojo: es monto de financiamiento anunciado, no capital ejercido ni MW en operación.",
+    "category": "corporativo",
+    "sourceUrl": "https://www.eleconomista.com.mx/estados/cloudhq-aumenta-6-000-millones-dolares-monto-financiamiento-campus-queretaro-20261005-837021.html",
+    "sourceName": "El Economista",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/centro-de-datos-racks.jpg",
+      "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos (imagen de referencia).",
+      "width": 1600,
+      "height": 1067,
+      "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Mars: ~3,500 mdp en cinco años en Querétaro; cuadruplica capacidad de alimento húmedo para mascotas",
+      "slug": "mars-queretaro-3500-mdp-alimento-mascotas-hub-2026-10",
+      "summary": "El Cronista México (5 oct 2026): la división de alimento para mascotas de Mars cuenta con dos plantas en Querétaro, donde invirtió ~3,500 millones de pesos en los últimos cinco años en producción de alimento húmedo, cuadruplicando su capacidad inicial; la empresa presume el sitio como el más grande y eficiente de Mars en el mundo y hub de exportación para América. En México, Mars tiene ~7,200 colaboradores y nueve plantas; en Querétaro también produce cereales (Zucaritas, Corn Flakes, Choco Krispis), que abastecen a más de ~10 países con ~200 presentaciones. Contexto: Solili reporta al 3T26 una vacancia industrial nacional de ~5.5% e inicios de construcción −~35% en ene–sep (Real Estate Market / T21, 5 oct). Lectura: es reinversión de un inquilino ya instalado —ampliaciones dentro de su propio sitio— más que nueva absorción de naves; sostiene empleo y proveeduría local (empaque, logística en frío) pero no mueve directamente la vacancia. Señal útil para naves de proveeduría pequeña y bodegas cercanas, no para especular con naves inventario.",
+      "category": "industrial",
+      "sourceUrl": "https://www.cronista.com/mexico/finanzas-economia/mars-convierte-a-queretaro-en-su-hub-de-produccion-de-alimento-para-mascotas-para-america-latina/",
+      "sourceName": "El Cronista México",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México (imagen de referencia).",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Querétaro, nodo ferroviario: trenes hacia Nuevo Laredo y Guadalajara; operación prevista en noviembre de 2027",
+      "slug": "queretaro-nodo-ferroviario-nuevo-laredo-guadalajara-noviembre-2027-2026-10",
+      "summary": "Quadratín Querétaro (4 oct 2026): el director general del Centro SICT en el estado, Carlos García Villaseñor, informó que Querétaro se perfila como punto central del proyecto ferroviario federal, pues desde la entidad partirán trenes hacia Nuevo Laredo y hacia Guadalajara, además de la infraestructura complementaria necesaria para su operación. El inicio de operaciones del tren está previsto para noviembre de 2027, según el calendario vigente, y la red se integrará con distintos tipos de estaciones y conexiones según cada municipio. Lectura: si Querétaro queda como bifurcación norte–occidente, el suelo con frente a derecho de vía y cerca de futuras estaciones gana opcionalidad (uso mixto, logística ligera, vivienda media). Aún no hay ubicación fina de estaciones ni montos en la nota: conviene esperar el trazo definitivo antes de pagar sobreprecio por cercanía.",
+      "category": "tierra",
+      "sourceUrl": "https://queretaro.quadratin.com.mx/queretaro-sera-nodo-central-del-sistema-ferroviario/",
+      "sourceName": "Quadratín Querétaro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/patio-ferroviario-queretaro.jpg",
+        "alt": "Vista aérea del patio de maniobras del ferrocarril en la ciudad de Querétaro, con vías y andenes.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ViajanteVerde / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_antiguo_patio_de_maniobras_de_la_Estaci%C3%B3n_del_Ferrocarril_en_Quer%C3%A9taro_01.png"
+      }
+    },
+    {
+      "title": "Fiscalía frena al menos ~3 desarrollos por presunto fraude en QRO; Semáforo marca ~13 fraccionamientos y ~36 condominios en rojo",
+      "slug": "fiscalia-queretaro-frena-desarrollos-fraude-semaforo-inmobiliario-2026-10",
+      "summary": "TV Azteca Querétaro (3 oct 2026): la Fiscalía General del Estado frenó al menos ~3 desarrollos inmobiliarios en la zona metropolitana por presuntos actos de fraude, tras denuncias por falta de permisos y predios no entregados. Antes, el 30 de septiembre, la FGE ejecutó ~7 órdenes de cateo vinculadas a ~2 carpetas por fraude genérico y delitos contra el desarrollo urbano, por venta de lotes sin derechos de propiedad completos ni autorización de lotificación (Al Diálogo). En paralelo, el Semáforo Inmobiliario del Municipio de Querétaro mantiene en luz roja ~13 fraccionamientos (Tlacote El Bajo, Buenavista, Santa Rosa Jáuregui, Ejido El Zapote, av. San Agustín) y ~36 condominios (Juriquilla, San Pedro Mártir, El Refugio, Cimatario, Milenio, Campanario, entre otros) que se ofertan sin autorización de venta (Al Diálogo, 3 oct). Lectura: el riesgo legal se concentra en lotes y condominios de periferia con solo dictamen de uso de suelo; antes de apartar, exige autorización de venta, licencia de urbanización y asesor con licencia vigente. La mayor vigilancia castiga la preventa informal y favorece a desarrolladores con permisos completos.",
+      "category": "residencial",
+      "sourceUrl": "https://www.aztecaqueretaro.com/local/frenan-al-menos-tres-desarrollos-inmobiliarios-en-queretaro-por-presuntos-actos-de-fraude/",
+      "sourceName": "TV Azteca Querétaro / Al Diálogo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro (imagen de referencia).",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    }
+  ],
+  "editorialNote": "CloudHQ QRO (El Economista / Códice Informativo 5 oct): financiamiento de ~4,800 a casi ~6,000 mdd; seis centros de datos; energía a cargo de la firma de ~250 a casi ~1,000 MW. Mars QRO (El Cronista 5 oct): ~3,500 mdp en cinco años; capacidad ×4; dos plantas de alimento para mascotas; ~7,200 colaboradores y nueve plantas en México; contexto Solili 3T26 vacancia nacional ~5.5%, inicios −~35% (Real Estate Market / T21 5 oct). Tren (Quadratín 4 oct): QRO nodo hacia Nuevo Laredo y Guadalajara; operación prevista noviembre de 2027 (Centro SICT). Fraude inmobiliario (TV Azteca 3 oct / Al Diálogo 30 sep y 3 oct): ~3 desarrollos frenados; ~7 cateos / ~2 carpetas; Semáforo ~13 fraccionamientos y ~36 condominios en rojo. Cifras con ~. Verifica con la fuente antes de negociar."
+}
