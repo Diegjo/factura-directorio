@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-06",
+  "intro": "El reporte industrial de Solili al 3T26 confirma el ajuste en Querétaro: la superficie en construcción cae ~76% frente a su pico de finales de 2023, el mercado aporta ~10% de los metros liberados en el país y sus operaciones promedian espacios pequeños de ~6 mil m², mientras el Bajío conserva las rentas de salida más competitivas. En vivienda, Expansión e Infonavit muestran el hueco en Querétaro: en 2025 salieron ~3,478 viviendas nuevas al mercado abierto y solo ~133 eran económicas, frente a ~12,100 contratadas por Vivienda para el Bienestar. Activistas piden al gobernador suspender nuevas autorizaciones de data centers y Sedesu responde que es ir contra el desarrollo. Y en el AIQ, Volaris presume ~79% de ocupación y el vuelo a Madrid va al ~95%.",
+  "headline": {
+    "title": "Solili 3T26: construcción industrial en Querétaro ~76% abajo de su pico; QRO libera ~10% de los m² desocupados del país",
+    "slug": "solili-3t26-queretaro-construccion-industrial-76-desocupacion-2026-10",
+    "summary": "Solili (Reporte Industrial 3T 2026, 5 oct): la vacancia industrial nacional llegó a ~5.5% (~6.3 millones de m² vacantes sobre un inventario de ~115.1 millones de m²), el triple del mínimo de ~1.8% de mediados de 2023. En Querétaro, la superficie en construcción se redujo ~76% frente a su máximo de finales de 2023, solo detrás de Ciudad Juárez (−~86%). Durante el trimestre se desocuparon más de ~560 mil m² en México y Querétaro concentró ~10% (tercer lugar, tras CDMX ~27% y Reynosa ~15%), contra ~2% de Guanajuato. Querétaro destacó por un alto número de transacciones, pero de espacios pequeños, con superficies promedio de alrededor de ~6 mil m² (vs ~20 mil m² en CDMX). Guanajuato, San Luis Potosí y Querétaro cerraron con los precios de salida más competitivos del país (promedio nacional ~7.67 usd/m²/mes; el indicador de Solili marca QRO industrial en ~6.15). A nivel nacional, la absorción bruta del 3T fue ~1.6 millones de m² (+~5% a/a) y los inicios de obra ene–sep cayeron ~35%. Lectura: el freno de obra limita nueva oferta y debería ayudar a digerir la vacancia queretana en 2027; mientras tanto, el inquilino tiene poder de negociación (periodos de gracia, mejoras) y el producto chico (~5–8 mil m²) es el que rota. Para el inversionista en tierra industrial, no es momento de especular con naves inventario grandes en QRO; la ventaja de Guanajuato es una desocupación mucho menor.",
+    "category": "industrial",
+    "sourceUrl": "https://www.solili.mx/noticias/reporte-industrial-solili-tercer-trimestre-2026/8177/?lang=es",
+    "sourceName": "Solili",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Querétaro: ~3,478 viviendas nuevas en 2025 y solo ~133 económicas; Bienestar contrata ~12,100 y Serfimex apuesta crédito puente",
+      "slug": "queretaro-vivienda-economica-133-bienestar-12100-serfimex-2026-10",
+      "summary": "Expansión (5 oct 2026), con datos de Infonavit y RUV: en 2025 se registraron en Querétaro ~3,478 viviendas nuevas para el mercado abierto, pero apenas ~133 eran del segmento económico-popular; frente a ello, el Programa de Vivienda para el Bienestar suma alrededor de ~12,100 viviendas contratadas en la metrópoli. A nivel nacional, entre 2015 y 2025 la producción de vivienda cayó ~54.2% y la de hasta 200 UMA (~688 mil pesos en 2025) se desplomó ~87.3%. Serfimex Capital, financiera de crédito puente, ubica a Querétaro entre sus plazas prioritarias junto con CDMX, Mérida, Cancún y Los Cabos, y amplió en ~500 mdp su línea con SHF hasta ~1,000 mdp, enfocada en vivienda de primera necesidad. El Infonavit advierte además que la distancia vivienda–empleo crece con el tamaño del mercado laboral (~17.9 km en ciudades de más de 500 mil empleos). Lectura: hay demanda de sobra para vivienda accesible bien ubicada; el reto es suelo barato con servicios cerca de los parques (El Marqués, Colón, SJR). Para el desarrollador mediano, el crédito puente para producto económico vuelve a fluir; para el inversionista, el producto de entrada cerca del empleo industrial es donde la brecha oferta–demanda es mayor.",
+      "category": "residencial",
+      "sourceUrl": "https://expansion.mx/economia/2026/10/05/queretaro-cancun-cabos-crecen-pero-falta-vivienda",
+      "sourceName": "Expansión",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-vertical-construccion-queretaro.jpg",
+        "alt": "Casas y torres de departamentos en construcción en la zona de Juriquilla, Querétaro.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torre_m%C3%A9dica.jpg"
+      }
+    },
+    {
+      "title": "Activistas piden suspender nuevos data centers en Querétaro y anuncian amparo; Sedesu: \"es ir en contra de lo que el país necesita\"",
+      "slug": "queretaro-solicitud-suspension-data-centers-sedesu-2026-10",
+      "summary": "CódigoQro (6 oct 2026): la asociación Vocer@s de la Madre Tierra ingresó ante el Poder Ejecutivo una solicitud al gobernador Mauricio Kuri para suspender de manera precautoria y temporal la autorización de nuevos centros de datos en Querétaro, alegando falta de transparencia y regulación, y anunció que presentará un amparo. El secretario de Desarrollo Sustentable, Marco Antonio Del Prete, respondió que los data centers instalados han cumplido con los requisitos federales, estatales y municipales, que no restan energía a la ciudadanía porque usan voltajes distintos y que un data center requiere tanta agua como un hotel de ~100 habitaciones; reiteró que en Querétaro está ~72% de la capacidad energética de data centers del país. Contexto: un día antes, CloudHQ elevó a casi ~6,000 mdd su campus de seis centros de datos (Al Diálogo, 5 oct). Lectura: el riesgo regulatorio y social empieza a ser parte del costo de la tierra para data centers; un amparo o una moratoria, aunque sea temporal, retrasaría autorizaciones nuevas, no las ya otorgadas. Para quien tiene predios con factibilidad eléctrica en Colón o El Marqués, conviene seguir el caso: un freno a nuevas licencias encarecería los terrenos ya autorizados y pausaría los que apenas están en trámite.",
+      "category": "corporativo",
+      "sourceUrl": "https://codigoqro.mx/nota/local/2026/10/06/querer-detener-los-centros-de-datos-es-ir-en-contra-de-lo-que-el-pais-necesita-sedesu",
+      "sourceName": "CódigoQro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/centro-de-datos-racks.jpg",
+        "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+      }
+    },
+    {
+      "title": "AIQ: Volaris supera ~6 mil operaciones con ~79% de ocupación; vuelo Querétaro–Madrid al ~95% y casi vendido a fin de año",
+      "slug": "aiq-volaris-79-ocupacion-madrid-95-2026-10",
+      "summary": "Quadratín Querétaro (6 oct 2026): Carlos Alberto Perera, director comercial del AIQ, informó que Volaris —principal socio comercial del aeropuerto— supera ~6 mil operaciones en Querétaro con una ocupación promedio de ~79%, y suma ~19 destinos desde la terminal (~11 nacionales y ~8 internacionales); la nueva ruta a Las Vegas arrancó con ~2 frecuencias semanales y la aerolínea espera llegar gradualmente a un vuelo diario. En paralelo, Rotativo (5 oct) reporta que el vuelo directo Querétaro–Madrid mantiene ~95% de ocupación en sus dos frecuencias semanales y casi todos los vuelos hasta fin de año ya están vendidos, según Sectur estatal; el turismo internacional (hoy ~20–25% de los visitantes) podría crecer ~5–10%. Entre enero y agosto, el AIQ creció ~11.7% en pasajeros, el mayor alza entre los 15 aeropuertos más transitados del país (Sectur federal). Lectura: ocupaciones altas sostienen la apertura de frecuencias y refuerzan la demanda de hotelería de negocios, renta corta y servicios en el corredor Colón–El Marqués; también dan argumentos a la segunda terminal en estudio.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://queretaro.quadratin.com.mx/queretaro-estreno-vuelo-directo-a-las-vegas-con-volaris/",
+      "sourceName": "Quadratín Querétaro / Rotativo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    }
+  ],
+  "editorialNote": "Solili 3T26 (5 oct): vacancia nacional ~5.5% (~6.3 Mm² sobre ~115.1 Mm²); QRO construcción −~76% vs pico fin 2023; desocupación nacional >~560 mil m², QRO ~10%, GTO ~2%; transacción promedio QRO ~6 mil m²; precio de salida nacional ~7.67 usd/m²/mes, QRO ~6.15 (indicador Solili). Vivienda (Expansión 5 oct, Infonavit/RUV): QRO 2025 ~3,478 nuevas, ~133 económico-popular; Bienestar ~12,100 contratadas en QRO; Serfimex línea SHF +~500 mdp a ~1,000 mdp. Data centers (CódigoQro 6 oct): solicitud de suspensión precautoria y amparo anunciado; Sedesu: ~72% de la capacidad nacional en QRO. AIQ (Quadratín 6 oct / Rotativo 5 oct / Sectur): Volaris >~6 mil operaciones, ~79% ocupación, ~19 destinos; Madrid ~95%; AIQ ene–ago +~11.7%. Cifras con ~. Verifica con la fuente antes de negociar."
+}
