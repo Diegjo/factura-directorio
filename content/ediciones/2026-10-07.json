@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-07",
+  "intro": "Guanajuato Puerto Interior cumple 20 años como la plataforma industrial de referencia del Bajío: ~140 empresas de ~19 países sobre más de ~1,500 ha, inversión acumulada de alrededor de ~6,500 mdd y más de ~40 mil empleos directos, con la automotriz como columna (~91 empresas). En San Luis Potosí, la coreana HS Hyosung anuncia ~60 mdd (más de ~1,100 mdp) para una planta de alfombras automotrices en el Parque Industrial Colinas, en Villa de Pozos. En aviación, el Aeropuerto de Guanajuato pierde ~91 mil pasajeros en ene–sep frente a 2025 según GAP, aunque el pasaje internacional de septiembre sube. Y en Aguascalientes, la AMPI ve en el Cuarto Anillo el detonador de plusvalía y venta de terrenos en el oriente de la ciudad.",
+  "headline": {
+    "title": "Guanajuato Puerto Interior cumple 20 años: ~6,500 mdd acumulados, ~140 empresas de ~19 países y más de ~40 mil empleos directos",
+    "slug": "guanajuato-puerto-interior-20-anos-6500-mdd-140-empresas-2026-10",
+    "summary": "GPI NEWS (7 oct 2026): en la celebración de sus 20 años (Silao, 6 oct), Guanajuato Puerto Interior informó que reúne ~140 empresas provenientes de ~19 países dentro de una plataforma de más de ~1,500 hectáreas, con una inversión acumulada estimada en alrededor de ~6,500 mdd y más de ~40 mil empleos directos; diariamente ingresan más de ~25 mil vehículos. Con estimaciones proyectadas a 2026 a partir de los Censos Económicos 2024, las operaciones instaladas generan entre ~37 mil y ~48 mil mdp anuales de valor agregado, equivalentes a ~37–48% del de Silao y ~4.5–5.8% del estado. La manufactura representa más de tres cuartas partes de las operaciones y la especialización es automotriz: ~91 de las ~140 empresas participan en esa cadena y concentran más de ~31 mil empleos. Se presentó el Mapeo GPI 2026 y la gobernadora Libia Dennise García pidió llevar el complejo \"al siguiente nivel\", con energía, agua, electromovilidad y talento como retos de la siguiente etapa. Mexico Business News (7 oct) lo enmarca junto al CEDIS de AutoZone en León (~183 mdd en PILBA). Contexto energético: la CFE reportó que la central de ciclo combinado Salamanca I (GTO) entró en operación entre 2025 y 2026 (CódigoQro, 7 oct). Lectura: GPI es el mejor termómetro del corredor Silao–León; su dependencia automotriz (~65% de las empresas) lo expone a la revisión del T-MEC, pero también sostiene la demanda de naves para proveedores Tier 2 y logística. Para el inversionista, la tierra con servicios cerca de GPI y PILBA conserva liquidez; la vivienda para trabajadores en Silao y León poniente sigue siendo la demanda derivada más directa.",
+    "category": "industrial",
+    "sourceUrl": "https://puertointerior.guanajuato.gob.mx/blog/2026/10/07/guanajuato-puerto-interior-20-aniversario-de-una-vision-que-trasciende-en-la-vida-de-nuestra-gente/",
+    "sourceName": "GPI NEWS / Mexico Business News",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/guanajuato-puerto-interior-silao.jpg",
+      "alt": "Edificios de oficinas con fachadas de vidrio junto a una avenida arbolada dentro de Guanajuato Puerto Interior, en Silao.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Guanajuato_Puerto_Interior_(Silao)_I.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "HS Hyosung: ~60 mdd (más de ~1,100 mdp) para planta de alfombras automotrices en el Parque Industrial Colinas (SLP); ~250 empleos desde 2027",
+      "slug": "hs-hyosung-60-mdd-parque-industrial-colinas-slp-2026-10",
+      "summary": "El Economista (7 oct 2026, información del Gobierno de San Luis Potosí): el gobernador Ricardo Gallardo anunció una inversión de ~60 mdd, equivalente a más de ~1,100 mdp, de la coreana HS Hyosung para instalar una planta de alfombras automotrices en el Parque Industrial Colinas, en Ciudad Satélite, Villa de Pozos. El proyecto se desarrollará en ~3 etapas; la primera iniciará en 2027 con alrededor de ~250 empleos directos especializados. Cluster Industrial (5 oct) precisa que el Memorando de Entendimiento se firmó el 25 de septiembre en el WTC de la Ciudad de México, durante el Foro Empresarial Corea–México, y que el plan contempla ampliar gradualmente las inversiones en la entidad. Contexto energético: la CFE reporta en operación la central de ciclo combinado Villa de Reyes, en SLP (CódigoQro, 7 oct). Lectura: es una inversión de proveeduría (Tier 1/Tier 2) que alimenta la demanda de naves medianas en el corredor Villa de Pozos–Villa de Reyes; el arranque en 2027 y el esquema por etapas sugieren build-to-suit o nave inventario de tamaño medio, justo el producto que hoy rota en el Bajío.",
+      "category": "industrial",
+      "sourceUrl": "https://www.eleconomista.com.mx/politica/ricardo-gallardo-anuncia-inversion-1-100-millones-dolares-hs-hyosung-san-luis-potosi-20261007-837355.html",
+      "sourceName": "El Economista / Cluster Industrial",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México (imagen de referencia).",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "Aeropuerto de Guanajuato pierde ~91 mil pasajeros en ene–sep (−~3.7%); en septiembre el nacional cae ~12% y el internacional sube ~4%",
+      "slug": "aeropuerto-guanajuato-bjx-91-mil-pasajeros-menos-ene-sep-2026-10",
+      "summary": "Periódico Correo (7 oct 2026), con datos de GAP: en septiembre los 12 aeropuertos mexicanos del grupo bajaron ~6.7% su tráfico total de pasajeros. En el Aeropuerto Internacional de Guanajuato (BJX) el total de septiembre pasó de ~249.4 mil en 2025 a ~230.1 mil en 2026 (−~7.7%); los pasajeros nacionales cayeron de ~180.6 mil a ~158.4 mil (−~12%), mientras los internacionales subieron de ~68.9 mil a ~71.7 mil (+~4%). En el acumulado ene–sep, BJX suma ~2.359 millones de pasajeros frente a ~2.450 millones de 2025, unos ~91 mil menos (−~3.7%): nacional ~1.668 → ~1.618 millones e internacional ~781.1 → ~741.2 mil. GAP atribuyó la baja de septiembre a menor oferta de las aerolíneas, sobre todo en el mercado doméstico, por el clima adverso en el Pacífico. Lectura: el repunte internacional de septiembre es buena señal (y desde el 3 de octubre se suma la ruta a Vancouver), pero el año viene abajo; para hotelería de negocios y renta corta en Silao–León conviene no proyectar crecimiento de pasaje en 2026, y el plan maestro del aeropuerto dependerá de recuperar frecuencias nacionales.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://periodicocorreo.com.mx/vida-publica/2026/oct/07/cae-trafico-de-aeropuerto-de-guanajuato-en-2026-fueron-91-mil-pasajeros-menos-que-en-2025-168492.html",
+      "sourceName": "Periódico Correo",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-internacional-guanajuato.jpg",
+        "alt": "Sala de llegadas del Aeropuerto Internacional de Guanajuato con filas de asientos y letrero de salidas y reclamo de equipaje.",
+        "width": 800,
+        "height": 533,
+        "credit": "Jeat1993 / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_de_Guanajuato_8.jpg"
+      }
+    },
+    {
+      "title": "Aguascalientes: la AMPI ve en el Cuarto Anillo el detonador de plusvalía y venta de terrenos en el oriente; poniente y sur concentran hoy el mercado",
+      "slug": "aguascalientes-cuarto-anillo-plusvalia-terrenos-oriente-ampi-2026-10",
+      "summary": "BI Noticias (7 oct 2026): Mauricio Peña, representante de la Asociación Mexicana de Profesionales Inmobiliarios (AMPI) en Aguascalientes, señaló que el poniente y el sur de la ciudad concentran hoy la mayor actividad inmobiliaria —el poniente en comercialización de inmuebles y el sur en venta de terrenos—, mientras el oriente comienza a activarse con nuevos proyectos de vivienda, impulsados por el Instituto de Vivienda estatal para segmentos de menor ingreso. Según Peña, los precios de los terrenos en el oriente todavía se mantienen en niveles accesibles y la zona podría ganar plusvalía conforme avance la infraestructura; el Cuarto Anillo, al sumar una nueva vía de circulación, podría aumentar las operaciones de compraventa de terrenos y dar relevancia a proyectos de vivienda vertical, aunque eso dependerá del avance de la urbanización y de los nuevos desarrollos. La nota no incluye cifras de precios. Lectura: es una apuesta clásica de tierra por infraestructura vial; para el inversionista, conviene verificar trazo y calendario de obra del Cuarto Anillo, factibilidad de agua y uso de suelo antes de pagar por la plusvalía esperada.",
+      "category": "tierra",
+      "sourceUrl": "https://www.binoticias.com/aguascalientes/cuarto-anillo-podria-impulsar-plusvalia-y-venta-de-terrenos-en-el-oriente",
+      "sourceName": "BI Noticias",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/oriente-aguascalientes-vista-aerea.jpg",
+        "alt": "Vista aérea del oriente de la ciudad de Aguascalientes, con colonias densas, naves comerciales y el Segundo Anillo en primer plano.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Luisalvaz / Wikimedia Commons (CC0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A1mica_del_oriente_de_Aguascalientes_desde_un_dron.jpg"
+      }
+    }
+  ],
+  "editorialNote": "GPI 20 años (GPI NEWS 7 oct / MBN 7 oct): ~140 empresas, ~19 países, >~1,500 ha, inversión acumulada ~6,500 mdd, >~40 mil empleos directos, >~25 mil vehículos/día, valor agregado ~37–48 mil mdp/año (~4.5–5.8% del estado), ~91 empresas automotrices con >~31 mil empleos; AutoZone ~183 mdd en PILBA. HS Hyosung (El Economista 7 oct / Cluster Industrial 5 oct): ~60 mdd (>~1,100 mdp), Parque Industrial Colinas, Villa de Pozos, ~3 etapas, ~250 empleos desde 2027. BJX (Correo 7 oct, GAP): sep ~230.1 mil pasajeros (−~7.7%), nacional −~12%, internacional +~4%; ene–sep ~2.359 M (−~91 mil, −~3.7%). Aguascalientes (BI Noticias 7 oct, AMPI): Cuarto Anillo como detonador del oriente; sin cifras. CFE (CódigoQro 7 oct): Salamanca I, Villa de Reyes y El Sauz II en operación 2025–2026. Cifras con ~. Verifica con la fuente antes de negociar."
+}
