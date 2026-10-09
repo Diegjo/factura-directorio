@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-08",
+  "intro": "Querétaro cierra el 3T26 con una cartera privada confirmada de más de ~22 mil mdp y más de ~10 mil empleos proyectados en manufactura avanzada y electromovilidad. En San Luis Potosí abre la Expo Potosí Industrial 2026 (~8 mil visitantes esperados) y la AMPI local describe un mercado residencial más lento por mayor oferta. En la capital, el tren México–Querétaro reporta ~19% de avance en un tramo, con ~140 mil mdp de inversión y vecinos que piden más información sobre el túnel en Héroe de Nacozari.",
+  "headline": {
+    "title": "Querétaro: más de ~22 mil mdp en inversión privada confirmada y más de ~10 mil empleos proyectados en manufactura avanzada y electromovilidad",
+    "slug": "queretaro-22-mil-mdp-inversion-privada-10-mil-empleos-electromovilidad-2026-10",
+    "summary": "SWICH (8 oct 2026), con datos de SEDESU y organismos empresariales al cierre del 3T26: Querétaro reporta una cartera confirmada de proyectos privados que supera los ~22 mil millones de pesos y proyecta la creación de más de ~10 mil puestos de trabajo de alta especialización en los corredores de la zona metropolitana y municipios aledaños. El perfil de las inversiones se concentra en automotriz (~27.5%), aeronáutico (~9.9%) y tecnologías de la información; destacan aperturas y expansiones en El Marqués, Colón y Corregidora orientadas a electromovilidad y electrónica avanzada (cableado de alta tensión para VE, circuitos, sensores y dirección asistida), con capital de EE. UU., Alemania, Corea del Sur y Francia. SEDESU habla de más de ~40 proyectos adicionales en negociación y recuerda que la manufactura genera más del ~98% de las exportaciones del estado. El reto inmediato: energía, infraestructura y talento técnico antes de las aperturas previstas para el 1S2027. Lectura: es demanda de naves especializadas y build-to-suit en El Marqués–Colón–Corregidora; la vivienda para técnicos cerca de esos corredores sigue siendo el derivado más claro, y la suficiencia eléctrica determina plazos de ocupación.",
+    "category": "industrial",
+    "sourceUrl": "https://swichtv.com/queretaro-afianza-cartera-industrial-manufactura-avanzada-y-electromovilidad-proyectan-mas-de-10-mil-nuevos-empleos/",
+    "sourceName": "SWICH / SEDESU",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+      "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Expo Potosí Industrial 2026 abre con ~100 stands y más de ~8 mil visitantes esperados; Sedeco cita ~10 mil mdd de inversión privada 2021–2026",
+      "slug": "expo-potosi-industrial-2026-8-mil-visitantes-10-mil-mdd-2026-10",
+      "summary": "Futuro San Luis (8 oct 2026): la segunda edición de Expo Potosí Industrial arrancó en el Centro de Negocios Potosí (8–9 oct) con ~100 espacios de exhibición y una expectativa superior a ~8 mil visitantes. Reúne ocho sectores, entre ellos automotriz, manufactura, energía, logística e inmobiliario industrial, con reuniones B2B vía iMatch.mx. Cifras Sedeco citadas por el Gobierno estatal: entre octubre 2021 y septiembre 2026 se concertaron cerca de ~10 mil mdd en inversión privada en SLP; exportaciones crecieron ~94.4% hasta diciembre 2025 (~7 mil mdd); y el Portafolio para la Prosperidad Compartida agrupa ~45 proyectos por ~5 mil mdd con proyección de más de ~12 mil empleos formales. El gobernador también mencionó conectividad (tren QRO–SLP–Saltillo y autopista a Matehuala). Lectura: es el mejor termómetro de proveeduría y tierra industrial en Villa de Pozos–Villa de Reyes tras el anuncio de HS Hyosung; conviene cruzar stands de logística e inmobiliario industrial con disponibilidad real de naves clase A.",
+      "category": "industrial",
+      "sourceUrl": "https://www.futurosanluis.com/2026/10/08/expo-potosi-industrial-2026-reune-a-empresas-e-inversionistas-preve-mas-de-8-mil-visitantes/",
+      "sourceName": "Futuro San Luis / Sedeco SLP",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/nave-corporativa-industrial-mexico.jpg",
+        "alt": "Fachada de una nave corporativa e industrial de capital extranjero instalada en México (imagen de referencia).",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ZschimmerSchwarz / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Standort_Mexiko.jpg"
+      }
+    },
+    {
+      "title": "AMPI San Luis Potosí: más oferta alarga las decisiones de compra y renta; 2026 con balance positivo pero menor movimiento que 2025",
+      "slug": "ampi-slp-menor-movimiento-inmobiliario-mayor-oferta-2026-10",
+      "summary": "Potosinoticias (8 oct 2026): el presidente de la AMPI en San Luis Potosí, Neil Castro Ortega, señaló que la mayor disponibilidad de propiedades este año ha llevado a compradores y arrendatarios a tomarse más tiempo para elegir. Ese comportamiento ha generado cierta desaceleración en algunas operaciones, aunque descartó una crisis: 2026 mantiene balance positivo, pero con menor actividad respecto a 2025. Tampoco ve un escenario preocupante por ajustes generalizados de precios de rentas o propiedades; lo enmarca como un periodo de menor movimiento propio del cierre anual, con posible recuperación en los primeros meses de 2027. La nota no incluye cifras de precios. Lectura: en SLP el residencial pasa de vendedor a comprador selectivo; conviene no forzar listados altos y priorizar ubicaciones con empleo industrial cercano (Villa de Pozos, corredor Colinas) donde la demanda de renta laboral sigue más firme que el resto del mercado.",
+      "category": "residencial",
+      "sourceUrl": "https://potosinoticias.com/2026/10/08/video-mas-opciones-hacen-que-compradores-inmobiliarios-tarden-en-decidir/",
+      "sourceName": "Potosinoticias / AMPI SLP",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/vivienda-juriquilla-queretaro.jpg",
+        "alt": "Vista aérea de fraccionamientos de vivienda horizontal y una torre de departamentos (imagen de referencia del Bajío).",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Yuri.Drone / Wikimedia Commons (CC BY 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Juriquilla,_Quer%C3%A9taro_skyline_torres_Juriquilla,_Santa_Fe.jpg"
+      }
+    },
+    {
+      "title": "Tren México–Querétaro: ~19% de avance en un tramo y ~140 mil mdp de inversión; vecinos piden conocer el túnel en Héroe de Nacozari",
+      "slug": "tren-mexico-queretaro-19-por-ciento-avance-140-mil-mdp-2026-10",
+      "summary": "Quadratín Querétaro (8 oct 2026): Santiago Nieto Castillo destacó un avance de ~19% en uno de los tramos del tren México–Querétaro y una inversión de alrededor de ~140 mil mdp; el proyecto contempla túneles, pasos a desnivel, cruces peatonales y estaciones, con impacto en Querétaro, San Juan del Río y El Marqués, y pidió más transparencia hacia la ciudadanía. En paralelo, Expreso Querétaro (8 oct) documentó lonas en Héroe de Nacozari contra el paso subterráneo: los vecinos no piden cancelar el tren, sino conocer el proyecto ejecutivo; la ampliación de 2 a 4 vías clausuraría el cruce a nivel en Invierno y se plantea un paso a desnivel hacia El Tepetate, más una estación junto a la antigua terminal (1903) y el parque Alcanfores. Lectura: la plusvalía de tierra y vivienda cerca de estaciones y del corredor El Marqués–San Juan del Río sigue siendo la apuesta de largo plazo, pero el riesgo político-vecinal en el polígono del Centro / El Tepetate puede retrasar obras y afectar liquidez de predios colindantes hasta que haya proyecto ejecutivo público.",
+      "category": "tierra",
+      "sourceUrl": "https://queretaro.quadratin.com.mx/nieto-destaca-avance-del-tren-mexico-queretaro/",
+      "sourceName": "Quadratín Querétaro / Expreso Querétaro",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/patio-ferroviario-queretaro.jpg",
+        "alt": "Vista aérea del patio de maniobras del ferrocarril en la ciudad de Querétaro, con vías y andenes.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "ViajanteVerde / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_antiguo_patio_de_maniobras_de_la_Estaci%C3%B3n_del_Ferrocarril_en_Quer%C3%A9taro_01.png"
+      }
+    }
+  ],
+  "editorialNote": "Cartera QRO (SWICH 8 oct / SEDESU 3T26): >~22 mil mdp confirmados, >~10 mil empleos, automotriz ~27.5%, aeronáutico ~9.9%, TI; >~40 proyectos en negociación; manufactura >~98% exportaciones; aperturas 1S2027. Expo Potosí (Futuro San Luis 8 oct / Sedeco): ~100 stands, >~8 mil visitantes, ~10 mil mdd inversión oct 2021–sep 2026, exportaciones ~7 mil mdd (+~94.4% a dic 2025), Portafolio ~45 proyectos / ~5 mil mdd / >~12 mil empleos. AMPI SLP (Potosinoticias 8 oct): menor movimiento por mayor oferta; sin crisis ni cifras de precios. Tren MX–QRO (Quadratín 8 oct): ~19% avance en un tramo, ~140 mil mdp; lonas vecinales Héroe de Nacozari (Expreso QRO 8 oct). Cifras con ~. Verifica con la fuente antes de negociar."
+}
