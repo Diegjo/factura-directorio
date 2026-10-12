@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-11",
+  "intro": "CloudHQ eleva a casi ~6,000 mdd el financiamiento de su campus de seis data centers en Querétaro y sube la capacidad energética a cargo de la firma de ~250 a casi ~1,000 MW. El mismo día, Sedesu confirma que el cuadro de maniobras de Ciudad Aeropuerto (~750 MW / ~250 mdd) está casi listo para energizarse a finales de 2026. En Guanajuato, SOPREMA arranca planta en San Miguel de Allende con ~300 mdd y ~250 empleos. En Aguascalientes, AMPI reporta que el poniente concentra la compraventa con valores >~1 mdp.",
+  "headline": {
+    "title": "CloudHQ eleva a casi ~6,000 mdd el campus de seis data centers en Querétaro; capacidad energética a ~1,000 MW",
+    "slug": "cloudhq-6000-mdd-campus-data-centers-queretaro-1000-mw-2026-10",
+    "summary": "El Economista (5 oct 2026): CloudHQ aumentará de ~4,800 a casi ~6,000 millones de dólares el financiamiento para un campus con seis centros de datos en Querétaro, proyecto que desarrolla con el gobierno estatal. En reunión con el gobernador Mauricio Kuri, la firma también señaló que elevará la capacidad energética —completamente a su cargo— de ~250 MW a casi ~1,000 MW, para mayor transmisión. Participaron Marco Antonio Del Prete (Sedesu), Mauricio Reyes Caracheo (Agencia de Energía), Keith Harney (jefe global de Crecimiento de CloudHQ) y José Fraga (VP LatAm). El avance del calendario se mantiene conforme a lo planeado. Lectura: más capital y más MW refuerzan la tesis de hiperescala en Colón–Ciudad Aeropuerto; el cuello de botella sigue siendo energía y transmisión, no el anuncio de mdd. Para tierra con factibilidad eléctrica, el upside es de activos ya autorizados; para especulación sin MW, el riesgo de retraso sube.",
+    "category": "corporativo",
+    "sourceUrl": "https://www.eleconomista.com.mx/estados/cloudhq-aumenta-6-000-millones-dolares-monto-financiamiento-campus-queretaro-20261005-837021.html",
+    "sourceName": "El Economista",
+    "aproximado": true,
+    "image": {
+      "src": "/img/notas/centro-de-datos-racks.jpg",
+      "alt": "Pasillo de racks de servidores encendidos dentro de un centro de datos.",
+      "width": 1600,
+      "height": 1067,
+      "credit": "BalticServers.com / Wikimedia Commons (CC BY-SA 3.0)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+  },
+  "masNoticias": [
+    {
+      "title": "Ciudad Aeropuerto: cuadro de maniobras ~750 MW / ~250 mdd casi listo; energización a finales de 2026",
+      "slug": "ciudad-aeropuerto-cuadro-maniobras-750-mw-250-mdd-2026-10",
+      "summary": "Plaza de Armas (11 oct 2026): Marco Antonio Del Prete (Sedesu) adelantó que el cuadro de maniobras en Ciudad Aeropuerto está prácticamente al ~100% y podría energizarse a finales de 2026 (o principios de 2027, según la última revisión con CFE). El proyecto privado, de alrededor de ~250 mdd desde inicios de 2025, distribuirá ~750 MW en tres bahías de ~250 MW: una exclusiva para un data center, otra para suministros industriales y otra para CFE. Nació para garantizar abasto al campus CloudHQ (seis edificios de ~48 MW) y también a Ciudad Aeropuerto y comunidades aledañas. Querétaro suma ~17 centros de datos; CloudHQ y uno en Parque Pyme (El Marqués) serían los de hiperescala (~50 MW). Lectura: la fecha de energización es el trigger inmobiliario real —nave/data center y servicios en el corredor AIQ–Colón dependen de MW entregados, no solo anunciados.",
+      "category": "aeroportuario",
+      "sourceUrl": "https://plazadearmas.com.mx/cuadro-de-maniobras-para-abastecimiento-energetico-en-ciudad-aeropuerto-comenzara-a-operar-a-finales-de-ano/",
+      "sourceName": "Plaza de Armas",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/aeropuerto-intercontinental-queretaro.jpg",
+        "alt": "Edificio terminal del Aeropuerto Internacional de Querétaro visto desde la plataforma.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Josh Lim (Sky Harbor) / Wikimedia Commons (CC BY-SA 4.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Quer%C3%A9taro_Intercontinental_Airport_terminal_airside_exterior.jpg"
+      }
+    },
+    {
+      "title": "SOPREMA: planta en San Miguel de Allende (PESMA) con ~300 mdd, ~250 empleos y ops a finales de 2027",
+      "slug": "soprema-planta-san-miguel-allende-pesma-300-mdd-2026-10",
+      "summary": "GPI NEWS (5 oct 2026) y Somos Industria: la francesa SOPREMA inicia construcción en el Polígono Empresarial San Miguel de Allende (PESMA) con inversión estimada de ~300 millones de dólares a largo plazo y alrededor de ~250 empleos directos. La primera etapa es una planta de membranas bituminosas (ops previstas a finales de 2027); el plan contempla entre tres y cuatro fases hacia un campus industrial (segunda fase: productos líquidos/impermeabilizantes). Igor Mariazzotti (DG México) citó mercado interno, nearshoring y geopolítica; Richard Voyer (CEO Canadá) habló de relación de largo plazo. Lectura: señal de demanda de nave/terreno servido en el corredor SMA–Querétaro y de proveeduría de construcción; el derivado inmobiliario es parque + vivienda laboral, no tierra rustica sin servicios.",
+      "category": "industrial",
+      "sourceUrl": "https://puertointerior.guanajuato.gob.mx/blog/2026/10/05/soprema-construye-en-guanajuato-una-plataforma-de-innovacion/",
+      "sourceName": "GPI NEWS / Somos Industria",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/parque-industrial-innovacion-queretaro.jpg",
+        "alt": "Acceso al Parque Industrial Tecnológico Innovación, en Querétaro, con el pórtico de entrada y la barda perimetral (imagen de referencia del Bajío).",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Omar David Sandoval Sida / Wikimedia Commons (CC BY-SA 3.0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Parque_Industrial_Tecnol%C3%B3gico_Innovaci%C3%B3n.JPG"
+      }
+    },
+    {
+      "title": "AMPI Aguascalientes: el poniente concentra compraventa con valores >~1 mdp; sur vende tierra y oriente gana con Tierra de Gigantes",
+      "slug": "ampi-aguascalientes-poniente-millon-sur-terrenos-oriente-2026-10",
+      "summary": "El Heraldo de Aguascalientes (5 oct 2026): Mauricio Peña Méndez, presidente de AMPI Aguascalientes, reportó que el poniente concentra la mayor movilidad del mercado inmobiliario, con propiedades cuyos valores ya se ubican por encima del millón de pesos, gracias a infraestructura, seguridad, inversión y movilidad. El sur mantiene fuerte actividad en venta de terrenos para proyectos habitacionales (sujeta a financiamiento). El oriente gana dinamismo con desarrollos del Instituto de Vivienda como Tierra de Gigantes, orientados a menores ingresos, más proyectos de terrenos/vivienda por concluir trámites. El mercado se mueve, pero aún por debajo de expectativas del sector. Lectura: polarización clara —producto consolidado al poniente vs tierra y vivienda social al oriente/sur; el financiamiento es el acelerador o freno de la rotación.",
+      "category": "residencial",
+      "sourceUrl": "https://www.heraldo.mx/poniente-concentra-mercado-inmobiliario/",
+      "sourceName": "El Heraldo de Aguascalientes / AMPI",
+      "aproximado": true,
+      "image": {
+        "src": "/img/notas/oriente-aguascalientes-vista-aerea.jpg",
+        "alt": "Vista aérea del oriente de la ciudad de Aguascalientes, con colonias densas, naves comerciales y el Segundo Anillo en primer plano.",
+        "width": 1600,
+        "height": 1067,
+        "credit": "Luisalvaz / Wikimedia Commons (CC0)",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A1mica_del_oriente_de_Aguascalientes_desde_un_dron.jpg"
+      }
+    }
+  ],
+  "editorialNote": "CloudHQ (El Economista 5 oct): financiamiento ~4,800→casi ~6,000 mdd; campus 6 data centers QRO; energía a cargo de la firma ~250→casi ~1,000 MW; reunión con Kuri / Del Prete / Reyes Caracheo / Harney / Fraga. Cuadro de maniobras Ciudad Aeropuerto (Plaza de Armas 11 oct): ~750 MW en 3 bahías de ~250 MW; ~250 mdd privados desde 2025; energización finales 2026 o inicios 2027 (CFE); ~17 data centers en QRO; CloudHQ hiperescala (~48 MW × 6) + Parque Pyme El Marqués. SOPREMA (GPI NEWS 5 oct / Somos Industria): ~300 mdd largo plazo, ~250 empleos, PESMA San Miguel; 1ª etapa membranas bituminosas ops finales 2027; 3–4 fases campus. AMPI AGS (Heraldo 5 oct): poniente >~1 mdp; sur terrenos; oriente Tierra de Gigantes (Mauricio Peña Méndez). Cifras con ~. Verifica con la fuente antes de negociar."
+}
